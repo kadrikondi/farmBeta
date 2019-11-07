@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-searchPlugin = require('mongoose-search-plugin');
+
 const Schema = mongoose.Schema
 
 const cropSchema = new Schema({
