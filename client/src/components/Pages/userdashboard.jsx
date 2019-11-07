@@ -58,7 +58,7 @@ export default class userdashboard extends Component {
                                
                                 <div className="col-lg-4 col-md-4 col-sm-12" style={cardStyle}>
 
-                                    <Link className="nav-link  btn btn-outline btn-green" style={cardStyle.buttonStyle} to="projects">
+                                    <Link className="nav-link  btn btn-outline btn-green" style={cardStyle.buttonStyle} to="weather">
                                         Check Weather
                   </Link>
 

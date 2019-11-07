@@ -54,7 +54,7 @@ class Signup extends Component{
 
            } )
            .then(res => res.json())
-           .then((res) => {console.log(res.message)
+           .then((res) => {console.log(res)
             this.setState({isLoading:false})
                
                if(res.message==='successfully register'){

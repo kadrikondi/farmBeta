@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import {Link }from 'react-router-dom'
 import axios from 'axios'
-import Loginheader from '../usersHeader'
+
 import {getOneUserA} from '../../apidata/api'
 import { userProfile } from '../../apidata/api';
+import UserHeader from '../usersHeader';
+import Leftsidebar from '../SidesBars/Leftsidebar';
 
 class UserProfile extends Component{
     constructor(){
@@ -11,12 +13,9 @@ class UserProfile extends Component{
         this.state={
             name:'',
             email:'',
-            school:'',
-            phone:'',
-            department:'',
             gender:'',
-            bio:'',
-            city:'',
+            farming:'',
+            location:'',
             id:'',
             avater:null,
             info:''
@@ -44,7 +43,7 @@ class UserProfile extends Component{
                     // }  
                     const user = await userProfile()
                     console.log(user.user)
-                    this.setState({name:user.name.toUpperCase(), email: user.email, id:user.id,school:user.school,phone:user.phone,department:user.department,bio:user.bio,gender:user.gender,city:user.city,avater:user.avater,info:user.message})
+                    this.setState({name:user.name.toUpperCase(), email: user.email, id:user.id,location:user.location,gender:user.gender,farming:user.farming,avater:user.avater,info:user.message})
                     
                     }     
                     console.log("ok" + user)
@@ -58,7 +57,7 @@ class UserProfile extends Component{
 
     render(){
         //  name=name.toUpperCase()
-        const {name,email,id,info,phone,school,department,city,bio,avater } =this.state
+        const {name,email,id,info, gender,location,farming,avater } =this.state
 
  let StrongSt={
      textAlign:'left',
@@ -69,16 +68,21 @@ class UserProfile extends Component{
 
     <div>
 
-      <Loginheader/>
+      <UserHeader/>
 
 
 
-        <div className="container">
+        <div className="container mt-5 ">
 
-               <div className="row">     
-                    <div    className="col-md-4 col-lg-4"></div>
+               <div className="row"> 
+
+                  <div className="col-lg-3">
+                      <Leftsidebar/>
+                      </div>    
+                      <div className="col-lg-9">
+                    
                         {/* <!-- Card profile--></div> */}
-                    <div className="col-lg-5 col-md-6 col-sm-12">
+                    <div className=" col-lg-6 col-md-9 col-sm-12">
                         <div className="card mt-3 "  >
 
                         {/* <!-- Card image --> */}
@@ -95,15 +99,14 @@ class UserProfile extends Component{
 
                                 {/* <!-- Title --> */}
                                 <h4 className="card-title text-center ">{name}</h4>
-                                {/* <!-- Text --> */}
-                                <p className='font-italic text-center'>{bio}</p>
+                    
                                 <div className="card-text ">
                                 <ul className="list-group">
                                 <li className="list-group-item"><strong>Email:&nbsp;</strong>{email}</li>
-                                <li className="list-group-item"><strong>Phone:&nbsp;</strong>{phone}</li>
-                                <li className="list-group-item"> <strong>School:&nbsp;</strong>{school}</li>
-                                <li className="list-group-item"> <strong>Department:&nbsp;</strong>{department}</li>
-                                <li className="list-group-item"> <strong>city:&nbsp;</strong>{city}</li>
+                               
+                                <li className="list-group-item"> <strong>Location:&nbsp;</strong>{location}</li>
+                                <li className="list-group-item"> <strong>Gender:&nbsp;</strong>{gender}</li>
+                                <li className="list-group-item"> <strong>type Of Farming:&nbsp;</strong>{farming}</li>
                                 <li className="list-group m-2"> <strong></strong></li>
                             </ul>
                                 </div>
@@ -116,6 +119,7 @@ class UserProfile extends Component{
 
               
             </div>
+                    </div>
 
 
                       

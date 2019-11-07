@@ -22,7 +22,7 @@ export default class Leftsidebar extends Component {
     this.handleLogout = this.handleLogout.bind(this)
   }
   async componentWillMount(){
-    const id = await JSON.parse(localStorage.getItem("userId"))
+    const id = await localStorage.getItem("userId")
     this.setState({id:id})
     const token = JSON.parse(localStorage.getItem('token'))
     if (token) {
@@ -117,7 +117,7 @@ async handleLogout(){
     return (
       <div style={sidebarStyle.leftsidbar}>
         <div className="text-center">
-          <Link to={`/profile/${id}`} title="Your profile"><img src={avater} style={sidebarStyle.imgStyle} />
+          <Link to='/userprofile' title="Your profile"><img src={avater} style={sidebarStyle.imgStyle} />
          <h4>{name}</h4></Link>
           <hr/>
         </div>
@@ -126,13 +126,13 @@ async handleLogout(){
             <li className="list-group-item" style={sidebarStyle.listItem}> <Link to="/dashboard" className="list-link" style={sidebarStyle.listLink} >Home </Link ></li>
                     <li className="list-group-item" style={sidebarStyle.listItem} >
               {" "}
-              <Link to={`/profile/${id}`}  className="list-link" style={sidebarStyle.listLink} > <i className="fa fa-user "></i> Profile </Link>
+              <Link to='/userprofile'  className="list-link" style={sidebarStyle.listLink} > <i className="fa fa-user "></i> Profile </Link>
             </li>
     
             
-                    <li className="list-group-item" style={sidebarStyle.listItem} > <Link to="/dashboard" className="list-link" style={sidebarStyle.listLink} ><i className="fa fa-map"></i> Check weather </Link> </li>
-                    <li className="list-group-item" style={sidebarStyle.listItem}><Link to="/dashboard" className="list-link" style={sidebarStyle.listLink} > <i className="fa fa-"></i> Agric Orgs </Link> </li>
-                    <li className="list-group-item" style={sidebarStyle.listItem}> <Link to="/dashboard" className="list-link" style={sidebarStyle.listLink}> Maize prescription</Link> </li>
+                    <li className="list-group-item" style={sidebarStyle.listItem} > <Link to="/weather" className="list-link" style={sidebarStyle.listLink} ><i className="fa fa-map"></i> Check weather </Link> </li>
+                    <li className="list-group-item" style={sidebarStyle.listItem}><Link to="/agricorg" className="list-link" style={sidebarStyle.listLink} > <i className="fa fa-"></i> Agric Orgs </Link> </li>
+                    <li className="list-group-item" style={sidebarStyle.listItem}> <Link to="/crops" className="list-link" style={sidebarStyle.listLink}> Maize prescription</Link> </li>
           
             
             <li className="list-group-item" style={sidebarStyle.listItem}> <Link to="/" className="list-link" style={sidebarStyle.listLink}  onClick={this.handleLogout}> SignOut </Link > </li>

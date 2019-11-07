@@ -40,7 +40,7 @@ let id ='ok'
       
         <Link className="nav-item nav-link btn btn-outline " to={`/dashboard`} style={{ color: 'black' }}>Dashboard</Link>
   
-        <Link className="nav-item nav-link btn btn-outline" to="/projects" style={{ color: 'black' }}>Weather</Link >
+        <Link className="nav-item nav-link btn btn-outline" to="/weather" style={{ color: 'black' }}>Weather</Link >
   <Link className="nav-item nav-link btn btn-outline" to="/userprofile" style={{ color: 'black' }}>profile</Link >
     
 

@@ -11,11 +11,8 @@ export default class updateProfile extends Component {
        this.state={
       name:'',
       email:'',
-      school:'',
-      department:'',
-      phone:'',
-      city:'',
-      bio:'',
+    location:'',
+    farming:'',
       id:'',
       avaterchange:null,
       avater:avata,
@@ -30,11 +27,8 @@ export default class updateProfile extends Component {
     this.updateProfileButton=this.updateProfileButton.bind(this)
     this.handleUpdateEmail= this.handleUpdateEmail.bind(this)
     this.handleUpdateName =this.handleUpdateName.bind(this)
-    this.handleUpdateDepartment =this.handleUpdateDepartment.bind(this)
-    this.handleUpdatePhone =this.handleUpdatePhone.bind(this)
-    this.handleUpdateSchool= this.handleUpdateSchool.bind(this)
-    this.handleUpdateBio= this.handleUpdateBio.bind(this)
-    this.handleUpdateCity = this.handleUpdateCity.bind(this)
+    this.handleUpdateFarming = this.handleUpdateFarming.bind(this)
+    this.handleUpdateLocation = this.handleUpdateLocation.bind(this)
     this.handleUploadPic =this.handleUploadPic.bind(this)
     this.handleUserPic = this.handleUserPic.bind(this)
 
@@ -64,11 +58,9 @@ export default class updateProfile extends Component {
   body:JSON.stringify({
       name:this.state.name,
       email:this.state.email,
-      school:this.state.school,
-      department:this.state.department,
-      phone:this.state.phone,
-      bio:this.state.bio,
-      city:this.state.city
+      location:this.state.location,
+      farming:this.state.farming,
+      
 
       })
     })
@@ -150,23 +142,15 @@ handleUploadPic(e){
             handleUpdateEmail(e){
                 this.setState({email:e.target.value})
             }
-            handleUpdatePhone(e){
-                this.setState({phone:e.target.value})
-            }
-            handleUpdateSchool(e){
-            this.setState({school:e.target.value})
-            }
-            handleUpdateDepartment(e){
-                this.setState({department:e.target.value})
-                console.log(this.state.department)
-            }
-            handleUpdateBio(e){
-                this.setState({bio:e.target.value})
-                }
-            handleUpdateCity(e){
-                    this.setState({city:e.target.value})
+           
+            handleUpdateLocation(e){
+                    this.setState({location:e.target.value})
+                    console.log(this.state.location)
                     }  
-        
+  handleUpdateFarming(e) {
+    this.setState({ farming: e.target.value })
+  }
+
                     handleUserPic(e){
                         console.log(e.target.files[0])
                         this.setState({
@@ -185,7 +169,7 @@ handleUploadPic(e){
             alert('You have to log re-Login')
                     this.props.history.push('/signin')
                 }else{
-                       await this.setState({name:user.user.name.toUpperCase(), email: user.user.email, id:user.user._id,school:user.user.school,phone:user.user.phone,department:user.user.department,city:user.user.city, bio:user.user.bio,avater:user.user.avater,info:user.message})
+                 this.setState({name:user.user.name.toUpperCase(), email: user.user.email, id:user.user._id,location:user.user.location,farming:user.user.farming,avater:user.user.avater,info:user.message});
 
                        (this.state.avater===undefined ? this.setState({avater:avata}): null)
                         console.log(this.state.name +'set')
@@ -199,7 +183,7 @@ handleUploadPic(e){
 }
 
   render() {
-    const {name,email,id,updateinfo,phone,school,department,city,bio,avater ,uploadinfo} =this.state
+    const {name,email,id,updateinfo,location,farming,avater ,uploadinfo} =this.state
   const displayChangePix= ()=>{
       console.log(avater)
       document.getElementById("changepicwrapper").style.display="block"
@@ -279,27 +263,17 @@ handleUploadPic(e){
                 
                 
                 
-                <div className="form-group">
-                
-                <input type="tel" className="form-control" id="inputPhone" placeholder="Tel Phone Number" value={phone}  onChange={this.handleUpdatePhone}/>
-                </div>
-                <div className="form-group">
-
-                <input type="text" className="form-control" id="inputSchool" placeholder="School" value={school} onChange={this.handleUpdateSchool}/>
-                </div>
+               
             
                 
                 <div className="form-group">
-                    <input type="text" className="form-control" id="department" placeHolder="department" value={department} onChange={this.handleUpdateDepartment}/>
+                    <input type="text" className="form-control" id="department" placeHolder="department" value={farming} onChange={this.handleUpdateFarming}/>
                 </div>
                 <div className="form-group">
                     
-                        <input type="text" className="form-control" id="city" placeholder="city" value={city} onChange={this.handleUpdateCity} />
+                        <input type="text" className="form-control" id="Location" placeholder="location" value={location} onChange={this.handleUpdateLocation} />
                 </div>
-                <div className="form-group">
-                        
-                        <textarea className="form-control" placeholder="Bio" value={bio} onChange={this.handleUpdateBio}></textarea>
-                </div>
+                
                 
                 
 
