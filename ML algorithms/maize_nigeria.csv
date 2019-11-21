@@ -1,0 +1,791 @@
+﻿ID,TRL_TITL,TRIAL_ID,ENTRYNO,ENTRY,COUNTRY,LOCATION,DESCRIPTION,LONGITUDE,LATITUDE,AEZONE,YEAR,CYIELD,TEMPMAX,DY_SK,PL_HT,E_HT,ASI,P_ASP,P_HARV,E_HARV,E_ASP,GWT,1000GWT,HUSK,RL,RLPER,SL,SLPER,E_ROT,RUST,BLIGHT,CURV,DIPLODIA,DM,ANTHESIS,STALK_ROT,STREAK,INSECT,MOIST,COBDAMCO,COBDAMRT,DEADHEART,SBDAMAT,BORERDMRAT,GLS,GTEXT,PLST
+1,Evt-Esr (White),M8901KB,1,ACR 86 TZESR W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3526.06,,50.25,165,97.5,,3,38.75,39.5,2.25,,,2,4.25,10.97,0.75,1.93,,,,,,,58.25,,,,,,,,,,,,
+2,Evt-Esr (White),M8901KB,2,ACR 87 POOL16 SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3097.5,,49.75,152.5,82.5,,2.5,40,36.75,2.25,,,2,5.75,14.43,4.25,10.79,0.75,,,,,,60.5,,,,,,,,,,,,
+3,Evt-Esr (White),M8901KB,3,ACR (2) 87 DMR-ESRW,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3500.27,,53,161.25,98.75,,2.75,40.5,38.75,2.25,,,2.5,3.75,9.52,2,5.01,,,,,,,56,,,,,,,,,,,,
+4,Evt-Esr (White),M8901KB,4,ACR 8730 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3445.36,,49.25,155,85,,2.25,41,40,2.5,,,2.25,6,14.65,3,7.41,0.25,,,,,,55,,,,,,,,,,,,
+5,Evt-Esr (White),M8901KB,5,BU-ESR W C12,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,2907.72,,53.25,153.75,87.5,,2.5,41.25,34.25,1.75,,,1.75,5.25,12.75,3.5,8.48,,,,,,,60.75,,,,,,,,,,,,
+6,Evt-Esr (White),M8901KB,6,GUSAU 81 POOL-16,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3041.39,,50.75,156.25,85,,2.25,33.5,32.5,1.5,,,2,3.75,12.68,2.25,8.34,,,,,,,,,,,,,,,,,,,
+7,Evt-Esr (White),M8901KB,7,LOCAL CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,2630.35,,49,158.75,77.5,,3.25,36.5,32.25,2,,,2.25,4.5,12.15,3.75,9.73,0.25,,,,,,56,,,,,,,,,,,,
+8,Evt-Esr (White),M8901KB,8,LOCAL CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3148.65,,51,166.25,90,,3,37,38.75,2,,,2,4,10.72,0.5,1.49,,,,,,,63.25,,,,,,,,,,,,
+9,Evt-E/Isr (Yellow),M8902KB,1,TZESR Y C3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3938.01,,54.67,168.33,88.33,,2.67,31.67,33.33,2.33,,,2.67,4,13.43,3,9.66,,,,,,,50.5,,,,,,,,,,,,
+10,Evt-E/Isr (Yellow),M8902KB,2,POOL16 SR SG Y,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,4362.69,,52.33,155,71.67,,2.67,35.33,33,2.67,,,2.67,4,14.53,4.33,13.99,0.67,,,,,,58.75,,,,,,,,,,,,
+11,Evt-E/Isr (Yellow),M8902KB,3,DMR-ESRY,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,4620.75,,52,181.67,103.33,,2.67,34.67,32.33,2.33,,,2.67,3,10.25,1.67,5.6,0.33,,,,,,57.75,,,,,,,,,,,,
+12,Evt-E/Isr (Yellow),M8902KB,4,BU-ESR W SG Y,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3308.79,,54.67,146.67,65,,2.67,30.33,29,1.67,,,1.67,2,5.71,1.67,8.21,,,,,,,56,,,,,,,,,,,,
+13,Evt-E/Isr (Yellow),M8902KB,5,TZUT SR Y C3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,4701.03,,55.67,175,83.33,,2.33,37.67,34,2,,,2,3.67,9.08,3.67,9.5,,,,,,,60.25,,,,,,,,,,,,
+14,Evt-E/Isr (Yellow),M8902KB,6,EV 8766 SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3599.85,,55.33,158.33,76.67,,3,21.67,24.67,2.67,,,2,,,3,16.49,,,,,,,,,,,,,,,,,,,
+15,Evt-E/Isr (Yellow),M8902KB,7,ACR 8731 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,3782.03,,53.33,180,90,,3,33.33,32,2.33,,,2,2.67,8.12,4.67,14.39,,,,,,,,,,,,,,,,,,,
+16,Evt-E/Isr (Yellow),M8902KB,8,LOCAL CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,2965.15,,49.67,150,76.67,,2.67,28,25.33,2,,,2.33,2.33,10.07,7,24.86,0.33,,,,,,,,,,,,,,,,,,
+17,Evt-E/Isr (Yellow),M8902KB,9,LOCAL CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1989,2717.06,,52.33,141.67,61.67,,2.67,27.33,24.67,2.67,,,2.67,4.67,15.4,2,9.52,0.33,,,,,,,,,,,,,,,,,,
+18,International Hybrid Maize Trial (White),K9001FA,1,8321-18,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,4291.59,,65.5,207,96.75,,,42.75,33,,,,4.25,1.25,2.84,1,2.45,,,,,,,82.46,,2.3,,,,,,,,,,
+19,International Hybrid Maize Trial (White),K9001FA,2,8321-21,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3394.48,,66.25,191.75,89.75,,,41.75,29.25,,,,11,0.25,0.58,2.25,5.47,,,,,,,82.95,,2.6,,,,,,,,,,
+20,International Hybrid Maize Trial (White),K9001FA,3,8428-19,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3539.95,,66,192,91.25,,,43.75,32.5,,,,5.5,1.75,3.98,0.75,1.69,,,,,,,,,,,,,,,,,,,
+21,International Hybrid Maize Trial (White),K9001FA,4,8516-12,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3564.2,,67.5,213.5,103.75,,,43.25,29,,,,12.5,2,4.66,1.5,3.45,,,,,,,,,,,,,,,,,,,
+22,International Hybrid Maize Trial (White),K9001FA,5,8505-5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,4097.62,,66,184,95.5,,,37.5,32.25,,,,8,0.5,1.43,2,5.49,,,,,,,,,,,,,,,,,,,
+23,International Hybrid Maize Trial (White),K9001FA,6,8705-4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3903.65,,67.25,182.75,81.5,,,43.5,33.25,,,,2.75,,,0.75,1.68,,,,,,,,,,,,,,,,,,,
+24,International Hybrid Maize Trial (White),K9001FA,7,8705-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3418.72,,66.5,192.5,92,,,41.5,28,,,,7.5,0.5,1.11,5.25,13.72,,,,,,,,,,,,,,,,,,,
+25,International Hybrid Maize Trial (White),K9001FA,8,IKENNE 83 TZSR W-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3709.68,,67,202.25,103.5,,,42.5,31.5,,,,5.5,1.25,2.94,4.5,10.43,,,,,,,69.75,,,,,,,,,,,,
+26,International Hybrid Maize Trial (White),K9001FA,9,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,4049.12,,66.75,202.5,99.75,,,43.25,36.25,,,,9.5,1.5,3.42,0.25,0.58,,,,,,,69.25,,,,,,,,,,,,
+27,International Hybrid Maize Trial (White),K9001FA,10,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3685.43,,66.75,181.5,78.75,,,42.25,35.75,,,,16.25,0.25,0.58,1.25,2.89,,,,,,,61.67,,,,,,,,,,,,
+28,International Hybrid Maize Trial (Yellow),K9002DI,1,8329-15,NIGERIA,STATION DE DI,,0.93,8.78,,1990,4154.72,,55,230.75,109.5,,,37.25,37.5,,,,,2.25,5.97,0.5,1.28,,,,,,,,,,,,,,,,,,,
+29,International Hybrid Maize Trial (Yellow),K9002DI,2,8522-2,NIGERIA,STATION DE DI,,0.93,8.78,,1990,4555.3,,59,270,131,,,37.75,34.25,,,,,1.75,4.42,0.25,0.68,,,,,,,,,,,,,,,,,,,
+30,International Hybrid Maize Trial (Yellow),K9002DI,3,8644-27,NIGERIA,STATION DE DI,,0.93,8.78,,1990,5407.37,,56.25,235,108.5,,,38.75,38,,,,,2.75,7.07,0.25,0.64,,,,,,,,,,,,,,,,,,,
+31,International Hybrid Maize Trial (Yellow),K9002DI,4,8644-31,NIGERIA,STATION DE DI,,0.93,8.78,,1990,5063.42,,55.5,230,111.75,,,38.75,38.75,,,,,0.75,1.93,1.5,3.8,,,,,,,,,,,,,,,,,,,
+32,International Hybrid Maize Trial (Yellow),K9002DI,5,8644-32,NIGERIA,STATION DE DI,,0.93,8.78,,1990,5010.84,,54.25,222,107,,,38.5,38.5,,,,,2,5.23,2.75,7.23,,,,,,,,,,,,,,,,,,,
+33,International Hybrid Maize Trial (Yellow),K9002DI,6,ACR 85 TZSR Y-1,NIGERIA,STATION DE DI,,0.93,8.78,,1990,3801.47,,56.5,236.25,114.5,,,37.75,35.75,,,,,1.5,3.97,,,,,,,,,,,1,,,,,,,,,,
+34,International Hybrid Maize Trial (Yellow),K9002DI,7,LOCAL CHECK 1,NIGERIA,STATION DE DI,,0.93,8.78,,1990,3958.39,,55.75,239.5,110.25,,,34,34,,,,,0.25,0.71,1,3.04,,,,,,,,,1,,,,,,,,,,
+35,International Hybrid Maize Trial (Yellow),K9002DI,8,LOCAL CHECK 2,NIGERIA,STATION DE DI,,0.93,8.78,,1990,5045.24,,53.75,236.75,102,,,37.5,35.5,,,,,1.25,3.29,0.5,1.3,,,,,,,,,1,,,,,,,,,,
+36,International Hybrid Maize Trial (Yellow),K9002FA,1,8329-15,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,1852.98,,73,141.25,54,,,39,26.5,,,,,1.5,3.71,0.25,0.61,,,,,,,,,,,,,,,,,,,
+37,International Hybrid Maize Trial (Yellow),K9002FA,2,8522-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3350.35,,74.75,175,81,,,40.75,37,,,,,1,2.45,,,,,,,,,,,,,,,,,,,,,
+38,International Hybrid Maize Trial (Yellow),K9002FA,3,8644-27,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3253.82,,74.25,130.5,56.5,,,43.25,35,,,,,0.5,1.14,1,2.31,,,,,,,,,,,,,,,,,,,
+39,International Hybrid Maize Trial (Yellow),K9002FA,4,8644-31,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3116.47,,71.5,150.25,64.25,,,38.75,36,,,,,2.75,7.03,2.75,7.21,,,,,,,,,,,,,,,,,,,
+40,International Hybrid Maize Trial (Yellow),K9002FA,5,8644-32,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2450.41,,71.25,132.5,55,,,41.5,30.75,,,,0.5,2.75,6.73,2,4.95,,,,,,,,,,,,,,,,,,,
+41,International Hybrid Maize Trial (Yellow),K9002FA,6,ACR 85 TZSR Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,1871.24,,72.75,130.75,51.5,,,41.25,29.75,,,,0.75,,,,,,,,,,,,,,,,,,,,,,,
+42,International Hybrid Maize Trial (Yellow),K9002FA,7,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,1455.29,,76.75,133.75,53.5,,,32.5,22.75,,,,1,1.75,5.55,0.25,0.61,,,,,,,,,,,,,,,,,,,
+43,International Hybrid Maize Trial (Yellow),K9002FA,8,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,1915.62,,72,141,56.5,,,34.75,24.5,,,,1,1.75,5.35,0.25,0.66,,,,,,,,,,,,,,,,,,,
+44,Evt-Isr (White),M9001FA,1,ACR 85 TZSR W-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3352.03,,72.5,190.5,90.75,,,42.75,33,2.13,,,1.5,0.5,1.18,0.5,1.19,,,,,,,56,,2,,,,,,,,,,
+45,Evt-Isr (White),M9001FA,2,MOKWA 87 TZPB SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2619.88,,74,195.25,89.25,,,42.25,26.5,2.38,,,2,,,2,4.65,,,,,,,63.75,,2,,,,,,,,,,
+46,Evt-Isr (White),M9001FA,3,EV 8722 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2581.4,,70.75,176.25,78,,,42.25,29.5,2.38,,,2.25,,,0.75,1.72,,,,,,,63,,1,,,,,,,,,,
+47,Evt-Isr (White),M9001FA,4,TZB SR BC5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3285.91,,72,199.75,97.75,,,40,30.75,2.38,,,2.5,0.75,1.89,0.25,0.64,,,,,,,61.25,,1,,,,,,,,,,
+48,Evt-Isr (White),M9001FA,5,TZB SR SE,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2273.3,,70.75,178.75,84,,,41,28.25,3,,,2.75,1.5,3.81,1.25,2.98,,,,,,,65,,1,,,,,,,,,,
+49,Evt-Isr (White),M9001FA,6,TZ 8843-DMR SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3065.3,,71.5,202,89.25,,,38.5,29.75,2.13,,,3.25,,,1.75,4.33,,,,,,,64.5,,1,,,,,,,,,,
+50,Evt-Isr (White),M9001FA,7,NDOCK 8701,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3221.64,,71.5,186.5,91.75,,,42,31,2.38,,,2.5,0.75,1.76,0.75,1.79,,,,,,,67.5,,2,,,,,,,,,,
+51,Evt-Isr (White),M9001FA,8,GUSAU x G.POOL,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3509.89,,70,194.5,94,,,44,35.75,2,,,0.75,,,1.75,3.94,,,,,,,66.25,,1,,,,,,,,,,
+52,Evt-Isr (White),M9001FA,9,OKOMASA,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2319.08,,71,194.5,90.75,,,42,26.5,2.38,,,2,,,0.5,1.18,,,,,,,64.75,,1,,,,,,,,,,
+53,Evt-Isr (White),M9001FA,10,8321-18,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3195.77,,67.75,181.25,83.25,,,43.25,30.75,2.13,,,0.75,0.5,1.14,0.25,0.57,,,,,,,69.75,,3,,,,,,,,,,
+54,Evt-Isr (White),M9001FA,11,GANDAJIKA 8022,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2993.16,,72.25,182.25,84.75,,,41.25,31.25,2.38,,,5.25,,,0.75,1.79,,,,,,,,,,,,,,,,,,,
+55,Evt-Isr (White),M9001FA,12,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2559.03,,66.5,167.75,81.5,,,38.25,29.5,1.88,,,2.75,0.75,1.87,2,5.36,,,,,,,,,,,,,,,,,,,
+56,Evt-Isr (White),M9001FA,13,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3245.77,,72.75,187.5,83,,,38.5,30.5,2,,,3.5,0.5,1.23,1,2.53,,,,,,,,,,,,,,,,,,,
+57,Evt-Isr (White),M9001VA,1,ACR 85 TZSR W-1,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5341.16,,66.5,194.25,95.25,,,,38.25,1,,,,0.25,0.58,2.5,5.58,,,,,,,51.5,,,,14.033,,,,,,,,37
+58,Evt-Isr (White),M9001VA,2,MOKWA 87 TZPB SR,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5518.33,,68.25,199,92.5,,,,38.5,1.13,,,,0.25,0.56,3.25,7.19,,,,,,,50.5,,,,12.498,,,,,,,,39.75
+59,Evt-Isr (White),M9001VA,3,EV 8722 SR BC6,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5869.85,,64,170.25,74.5,,,,40.25,1,,,,0.25,0.64,3,7.11,,,,,,,53.5,,,,16.798,,,,,,,,31.75
+60,Evt-Isr (White),M9001VA,4,TZB SR BC5,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5798.79,,68.25,191.5,91.25,,,,41.5,1.13,,,,1,2.22,3,6.72,,,,,,,68.25,,,,20.95,,,,,,,,32.5
+61,Evt-Isr (White),M9001VA,5,TZB SR SE,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4804.67,,65.5,181,82.25,,,,37.25,1.13,,,,2,5.48,3.5,8.72,,,,,,,67.25,,,,22.275,,,,,,,,32.75
+62,Evt-Isr (White),M9001VA,6,TZ 8843-DMR SR,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5207.92,,65.5,186.25,81.75,,,,41.25,1,,,,2,5.55,2.75,6.53,,,,,,,69.25,,,,21.45,,,,,,,,37.5
+63,Evt-Isr (White),M9001VA,7,NDOCK 8701,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5287.25,,66.25,180,81.75,,,,38,1.13,,,,0.5,1.18,3.75,8.54,,,,,,,67.25,,,,20.775,,,,,,,,35.5
+64,Evt-Isr (White),M9001VA,8,GUSAU x G.POOL,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5163.6,,65.5,189.25,91.25,,,,41.25,1.25,,,,0.75,1.63,3,7.48,,,,,,,68,,,,21.575,,,,,,,,34.5
+65,Evt-Isr (White),M9001VA,9,OKOMASA,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5719.49,,65.5,188.75,88.75,,,,40,1,,,,0.75,1.56,2.5,5.74,,,,,,,68.25,,,,19.9,,,,,,,,35
+66,Evt-Isr (White),M9001VA,10,8321-18,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,6189.13,,64,177.75,82.25,,,,42,1,,,,2,4.6,0.25,0.58,,,,,,,68.25,,,,20.9,,,,,,,,36.5
+67,Evt-Isr (White),M9001VA,11,GANDAJIKA 8022,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5292.64,,65.75,175.75,80,,,,38.5,1,,,,0.5,1.19,2,4.48,,,,,,,68,,,,21.7,,,,,,,,34
+68,Evt-Isr (White),M9001VA,12,LOCAL CHECK 1,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4399.75,,62,167.5,78.75,,,,38.25,1.13,,,,1.75,4.36,2.5,6,,,,,,,68.5,,,,18.825,,,,,,,,30.75
+69,Evt-Isr (White),M9001VA,13,LOCAL CHECK 2,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4904.62,,66.75,177.75,77,,,,37.75,1,,,,1.25,2.98,3,7.13,,,,,,,67.25,,,,21.975,,,,,,,,34.5
+70,Evt-Lsr (Yellow),M9002FA,1,EV 8728 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,1939.7,,72.75,144.75,55.25,,,40.25,30.5,3.5,,,,3,7.5,,,,,,,,,61.5,,,,12.8,,,,,,,,39.5
+71,Evt-Lsr (Yellow),M9002FA,2,SUWAN 1 SR BC5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2036.69,,73,147.75,61.5,,,39.5,30.25,3.75,,,,1,2.35,,,,,,,,,63,,,,13.525,,,,,,,,39.5
+72,Evt-Lsr (Yellow),M9002FA,3,TZB SR SG Y,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2909.55,,73,161.75,72.25,,,38.75,31.25,3,,,1.25,1.25,3.12,0.75,1.84,,,,,,,62,,,,13.75,,,,,,,,39.5
+73,Evt-Lsr (Yellow),M9002FA,4,FERKE (1) 8128,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,678.9,,75.5,130.75,49,,,29.5,16.25,4.75,,,0.75,2.75,9.35,1,3.23,,,,,,,63.5,,,,15.9,,,,,,,,42.75
+74,Evt-Lsr (Yellow),M9002FA,5,8644-31,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,1988.19,,72.5,137.75,56.5,,,38.25,30,3.5,,,0.25,0.25,0.61,1.75,4.07,,,,,,,64.25,,,,14.225,,,,,,,,43
+75,Evt-Lsr (Yellow),M9002FA,6,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2448.87,,67.75,153.75,73.25,,,41.5,36.5,3.13,,,1.5,0.5,1.16,4,9.78,,,,,,,61.5,,,,13.625,,,,,,,,42
+76,Evt-Lsr (Yellow),M9002FA,7,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,1357.79,,76.75,137.5,58.5,,,37.5,26.25,4.75,,,,1.75,4.6,1.25,3.49,,,,,,,63.5,,,,14.35,,,,,,,,41
+77,Evt-Lsr (Yellow),M9002VA,1,EV 8728 SR BC6,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5755.72,,61.75,186.5,90.25,,,41.25,38.5,1.13,,,,2.25,5.21,2.75,7.06,,,,,,,63.5,,,,22.55,,,,,,,,28
+78,Evt-Lsr (Yellow),M9002VA,2,SUWAN 1 SR BC5,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5464.16,,64,192.75,88.75,,,36.25,31.75,1,,,,0.75,2.18,3.25,8.64,,,,,,,57,,,,11.875,,,,,,,,40.25
+79,Evt-Lsr (Yellow),M9002VA,3,TZB SR SG Y,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5833.82,,65,185.5,87.25,,,39.75,36.25,1.13,,,,0.5,1.14,3.5,8.69,,,,,,,59.5,,,,11.45,,,,,,,,38
+80,Evt-Lsr (Yellow),M9002VA,4,FERKE (1) 8128,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5416.18,,62.5,183.5,85.5,,,37,36.75,1,,,,1,2.58,1.5,3.93,,,,,,,57.75,,,,11.175,,,,,,,,38
+81,Evt-Lsr (Yellow),M9002VA,5,8644-31,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5620.45,,63.5,171.25,80.25,,,35,33.25,1,,,,,,3.75,11.39,,,,,,,61.25,,,,14,,,,,,,,37.75
+82,Evt-Lsr (Yellow),M9002VA,6,LOCAL CHECK 1,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4298.6,,61,176.75,85.25,,,36.75,32.5,1.25,,,,1.25,3.58,4.25,11.13,,,,,,,60.25,,,,13.625,,,,,,,,41.5
+83,Evt-Lsr (Yellow),M9002VA,7,LOCAL CHECK 2,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5200.91,,65.5,185,85.25,,,33.75,32.25,1.25,,,,1,3.04,2.5,7.14,,,,,,,61.5,,,,15,,,,,,,,42.5
+84,Evt-Isr (White),M9003FA,1,ACR 87 TZUT SR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2686.5,,68.25,200.5,92.25,,,41.25,30.25,2.38,,,1.5,,,0.75,1.77,,,,,,,59,,,,12.125,,,,,,,,42.25
+85,Evt-Isr (White),M9003FA,2,EV 8444 SR BC4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3851.68,,66,184,88,,,42.25,34,2.25,,,12.25,0.75,1.79,2,4.76,,,,,,,59.75,,,,13.625,,,,,,,,40
+86,Evt-Isr (White),M9003FA,3,EV 8749 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2333,,67.75,150.5,60.5,,,42,35.25,2.5,,,1.5,0.5,1.22,0.25,0.6,,,,,,,62.25,,1.25,,9.675,,,,,,,,37.75
+87,Evt-Isr (White),M9003FA,4,EV 8762 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3001.35,,71.5,166.5,75,,,38.5,28,2.75,,,5.5,1.25,3.2,0.75,1.76,,,,,,,59.75,,,,10.025,,,,,,,,40.75
+88,Evt-Isr (White),M9003FA,5,EV 8766 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2158.83,,67.75,182.25,81.25,,,38.25,29.5,2.63,,,1.5,0.75,1.96,1.5,3.91,,,,,,,73.5,,,,15.5,,,,,,,,36.5
+89,Evt-Isr (White),M9003FA,6,TZUT SR W SG Y,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3802.65,,67.75,198,95.25,,,43.5,34,2,,,6.75,,,1,2.26,,,,,,,70.5,,,,14.4,,,,,,,,39.5
+90,Evt-Isr (White),M9003FA,7,IKENNE (1) 8149,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2974.28,,66.25,162.25,70.75,,,43,33.5,2.13,,,2.5,,,1.75,4.03,,,,,,,71,,,,14.6,,,,,,,,37
+91,Evt-Isr (White),M9003FA,8,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,3450.19,,64.5,188.25,98,,,43.5,35.75,1.75,,,6.25,1,2.35,4,9.15,,,,,,,75,,,,14.875,,,,,,,,32.5
+92,Evt-Isr (White),M9003FA,9,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1990,2716.62,,75,177.75,81,,,38.25,28.25,2.25,,,3,,,1.5,3.67,,,,,,,69,,,,14.775,,,,,,,,36
+93,Evt-Isr (White),M9003KB,1,ACR 87 TZUT SR W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,2528.43,,,156.25,85,,,25,24.5,,,,,2.5,,3.25,,,,,,,,78.5,,,,8.85,,,,,,,,21.5
+94,Evt-Isr (White),M9003KB,2,EV 8444 SR BC4,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,1695.64,,,147.5,81.25,,,19,19,,,,,3.25,,1.25,,,,,,,,77,,,,10.1,,,,,,,,21
+95,Evt-Isr (White),M9003KB,3,EV 8749 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,1418.21,,,145,62.5,,,17.5,18.5,,,,,2.75,,1.5,,,,,,,,77.5,,,,10.6,,,,,,,,22
+96,Evt-Isr (White),M9003KB,4,EV 8762 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,1349.08,,,152.5,82.5,,,15.75,15.5,,,,,1,,2,,,,,,,,80,,,,11,,,,,,,,22
+97,Evt-Isr (White),M9003KB,5,EV 8766 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,2785.94,,,172.5,93.75,,,21.5,21.25,,,,,2.75,,2.5,,,,,,,,77,,,,11.4,,,,,,,,20.5
+98,Evt-Isr (White),M9003KB,6,TZUT SR W SG Y,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,2239.85,,,173.75,88.75,,,29.5,29.5,,,,,1.5,,1.75,,,,,,,,80.5,,,,8.8,,,,,,,,18.5
+99,Evt-Isr (White),M9003KB,7,IKENNE (1) 8149,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,2092.11,,,145,71.25,,,22.75,23.25,,,,,2.75,,1,,,,,,,,76,,,,9.6,,,,,,,,22
+100,Evt-Isr (White),M9003KB,8,LOCAL CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,2129.99,,,168.75,97.5,,,26.75,26.75,,,,,1.75,,3.5,,,,,,,,77,,,,9.5,,,,,,,,22
+101,Evt-Isr (White),M9003KB,9,LOCAL CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1990,1382.26,,,167.5,83.75,,,17.25,17.5,,,,,2.75,,1.5,,,,,,,,78,,,,9.6,,,,,,,,21.5
+102,Evt-Isr (White),M9003NK,1,ACR 87 TZUT SR W,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,2870.49,,62.25,185.25,75.75,,,43.75,34.25,2.5,,,,,,0.25,0.58,1,1,2.25,,,,66.5,,,,11.25,,,,,,,,36
+103,Evt-Isr (White),M9003NK,2,EV 8444 SR BC4,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,2684.68,,57,164,74.25,,,43.5,34.25,2.75,,,,0.25,0.57,0.25,0.57,1.75,1,2.75,,,,62,,,,20.425,,,,,,,,36.25
+104,Evt-Isr (White),M9003NK,3,EV 8749 SR BC6,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,3567.92,,56.5,144.5,52.25,,,43.25,39.5,2.13,,,,,,0.5,1.14,,1,2.13,,,,59.5,,,,21.7,,,,,,,,38.5
+105,Evt-Isr (White),M9003NK,4,EV 8762 SR BC6,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,3185.12,,61.5,176.5,77.5,,,43,35.5,2.88,,,,,,,,0.5,1,2.5,,,,58.5,,,,21.725,,,,,,,,35.25
+106,Evt-Isr (White),M9003NK,5,EV 8766 SR BC6,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,2401.72,,58.25,162.25,69,,,44,39.25,3.5,,,,0.5,1.14,0.5,1.14,0.5,1,2.5,,,,59.75,,,,20.175,,,,,,,,34.25
+107,Evt-Isr (White),M9003NK,6,TZUT SR W SG Y,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,3347.28,,61,189.5,81.75,,,43.5,35.25,1.75,,,,0.25,0.6,0.75,1.76,0.5,1.38,1.88,,,,59.25,,,,21.275,,,,,,,,35.25
+108,Evt-Isr (White),M9003NK,7,IKENNE (1) 8149,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,2416.27,,57.75,134.5,48,,,43.5,36.75,2.75,,,,0.5,1.15,0.75,1.73,0.25,1.13,1.75,,,,59.75,,,,19.9,,,,,,,,33.25
+109,Evt-Isr (White),M9003NK,8,LOCAL CHECK 1,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,2540.07,,55.25,171,76.75,,,43.75,36.5,2.63,,,,,,,,0.25,1.13,2,,,,60.25,,,,21.475,,,,,,,,40.25
+110,Evt-Isr (White),M9003NK,9,LOCAL CHECK 2,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1990,2481.33,,62.75,171,80.5,,,43.25,31.25,3.25,,,,,,,,0.75,1,2.25,,,,61,,,,22.4,,,,,,,,34.5
+111,Evt-Isr (White),M9003VA,1,ACR 87 TZUT SR W,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5515.65,,62.25,191.75,85.5,,,40,35.25,1.38,,,,1.5,3.59,1,2.49,,,,,,,57.25,,,,17.2,,,,,,,,34.25
+112,Evt-Isr (White),M9003VA,2,EV 8444 SR BC4,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5064.84,,60.25,165.75,77,,,42.25,34,1.75,,,,,,1.75,4.09,,,,,,,56.75,,,,18.15,,,,,,,,35.5
+113,Evt-Isr (White),M9003VA,3,EV 8749 SR BC6,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4282.69,,61,149.5,57.5,,,37,31.5,1.25,,,,,,1,2.71,,,,,,,57,,,,17.25,,,,,,,,39
+114,Evt-Isr (White),M9003VA,4,EV 8762 SR BC6,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4037.2,,64.5,173.25,77.5,,,38.75,30.5,1.88,,,,0.75,2.03,1.5,3.61,,,,,,,57.25,,,,17.2,,,,,,,,34.75
+115,Evt-Isr (White),M9003VA,5,EV 8766 SR BC6,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4255.47,,61,179.5,81,,,38.75,32.25,2,,,,1.5,3.72,2.25,5.72,,,,,,,57.75,,,,,,,,,,,,36.25
+116,Evt-Isr (White),M9003VA,6,TZUT SR W SG Y,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5025.42,,62.75,186.5,81.25,,,39.25,33,1.5,,,,,,3,7.58,,,,,,,58.5,,,,,,,,,,,,32
+117,Evt-Isr (White),M9003VA,7,IKENNE (1) 8149,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4859.86,,62.25,150.5,61.5,,,42.5,36.5,1.25,,,,0.25,0.66,1.25,2.83,,,,,,,57.5,,1.63,,12.975,,,,,,,,34.5
+118,Evt-Isr (White),M9003VA,8,LOCAL CHECK 1,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,4981.49,,61,180.5,84,,,40.25,36,1.75,,,,0.5,1.25,2.25,5.57,,,,,,,56.5,,1.75,,13.225,,,,,,,,41
+119,Evt-Isr (White),M9003VA,9,LOCAL CHECK 2,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,1990,5525.86,,66.5,185.5,86.5,,,37.25,33.25,1.38,,,,,,0.5,1.33,,,,,,,58.25,,1.88,,11.875,,,,,,,,34.5
+120,International Hybrid Maize Trial (White),K9101DI (NA),1,8321-18,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7640,,55,282,138,,,42,40,,,,,,1,,2,,,,,,,60,,,,,,,,,,,,16.25
+121,International Hybrid Maize Trial (White),K9101DI (NA),2,8321-21,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7361,,53,258,119,,,43,42,,,,,,1,,1,,,,,,,60,,,,,,,,,,,,16.5
+122,International Hybrid Maize Trial (White),K9101DI (NA),3,8428-19,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7653,,52,270,124,,,42,40,,,,,,6,,1,,,,,,,55.5,,,,8.725,,,,,,,,39.5
+123,International Hybrid Maize Trial (White),K9101DI (NA),4,8516-12,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7000,,55,286,132,,,41,40,,,,,,,,1,,,,,,,53,,,,9.425,,,,,,,,40
+124,International Hybrid Maize Trial (White),K9101DI (NA),5,8505-5,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7199,,54,267,130,,,39,37,,,,,,1,,3,,,,,,,57.5,,,,9.6,,,,,,,,35.75
+125,International Hybrid Maize Trial (White),K9101DI (NA),6,8605-14,NIGERIA,STATION DE DI,,0.93,8.78,,1991,6776,,55,257,118,,,42,40,,,,,,2,,1,,,,,,,54.5,,,,8.95,,,,,,,,35.25
+126,International Hybrid Maize Trial (White),K9101DI (NA),7,8705-4,NIGERIA,STATION DE DI,,0.93,8.78,,1991,6874,,52,235,108,,,41,39,,,,,,2,,1,,,,,,,55,,,,8.925,,,,,,,,38
+127,International Hybrid Maize Trial (White),K9101DI (NA),8,8705-6,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7419,,55,265,131,,,41,39,,,,,,1,,1,,,,,,,54,,,,9.4,,,,,,,,34.75
+128,International Hybrid Maize Trial (White),K9101DI (NA),9,8766-12,NIGERIA,STATION DE DI,,0.93,8.78,,1991,6932,,54,251,111,,,42,41,,,,,,1,,3,,,,,,,56,,,,9.1,,,,,,,,37
+129,International Hybrid Maize Trial (White),K9101DI (NA),10,8805-4,NIGERIA,STATION DE DI,,0.93,8.78,,1991,6906,,54,265,121,,,42,41,,,,,,,,1,,,,,,,54,,,,8.25,,,,,,,,39.5
+130,International Hybrid Maize Trial (White),K9101DI (NA),11,8805-6,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7775,,54,256,118,,,44,43,,,,,,1,,,,,,,,,55,,,,13.7,,,,,,,,38.5
+131,International Hybrid Maize Trial (White),K9101DI (NA),12,IK 83 TZSR W-1,NIGERIA,STATION DE DI,,0.93,8.78,,1991,6375,,57,262,123,,,42,39,,,,,,3,,1,,,,,,,57.5,,,,14.25,,,,,,,,38.75
+132,International Hybrid Maize Trial (White),K9101DI (NA),13,LOCAL CHECK 1,NIGERIA,STATION DE DI,,0.93,8.78,,1991,6552,,54,238,100,,,41,39,,,,,,4,,1,,,,,,,61,,,,14.8,,,,,,,,22
+133,International Hybrid Maize Trial (White),K9101DI (NA),14,LOCAL CHECK 2,NIGERIA,STATION DE DI,,0.93,8.78,,1991,7053,,54,253,113,,,42,40,,,,,,1,,3,,,,,,,,,,,26,,,,,,,,35.25
+134,International Hybrid Maize Trial (White),K9101FA (NA),1,8321-18,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6925,,62,203,85,,1.1,38,35,1,,,,,1,,,,,1,2.1,,,,,,,19.85,,,,,,,,36.25
+135,International Hybrid Maize Trial (White),K9101FA (NA),2,8321-21,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5711,,62,185,79,,1.6,43.3,38,1.3,,,,,6,,3,,,1,1.3,,,,,,,24.075,,,,,,,,37.5
+136,International Hybrid Maize Trial (White),K9101FA (NA),3,8428-19,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,7278,,59,205,89,,1,41.5,38,1.1,,,,,8,,4,,,1.4,1.5,,,,,,,22.05,,,,,,,,29
+137,International Hybrid Maize Trial (White),K9101FA (NA),4,8516-12,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,7168,,61,231,101,,1,42,38,1.1,,,,,5,,,,,1,1.3,,,,,,,19.45,,,,,,,,30
+138,International Hybrid Maize Trial (White),K9101FA (NA),5,8505-5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,7168,,60,213,100,,1.1,41,40,1,,,,,8,,4,,0.5,1,1.5,,,,,,,19.525,,,,,,,,39.25
+139,International Hybrid Maize Trial (White),K9101FA (NA),6,8605-14,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6387,,60,180,66,,1.3,41.5,39,1.1,,,,,5,,1,,,1.3,2.3,,,,,,,21.125,,,,,,,,28.25
+140,International Hybrid Maize Trial (White),K9101FA (NA),7,8705-4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,7162,,59,186,81,,1.3,41.5,41,1.1,,,,,2,,2,,0.3,1,1.8,,,,,,,25.225,,,,,,,,31
+141,International Hybrid Maize Trial (White),K9101FA (NA),8,8705-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6994,,62,210,85,,1.3,41.5,37,1,,,,,7,,2,,,1,2.5,,,,,,,20.75,,,,,,,,32.75
+142,International Hybrid Maize Trial (White),K9101FA (NA),9,8766-12,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5433,,63,194,73,,1.4,43,35,1.4,,,,,3,,1,,0.3,1,2.1,,,,,,,22.125,,,,,,,,36.25
+143,International Hybrid Maize Trial (White),K9101FA (NA),10,8805-4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6845,,60,191,74,,1,40.5,39,1.1,,,,,1,,1,,,1,1.9,,,,,,,8.15,,,,,,,,37.25
+144,International Hybrid Maize Trial (White),K9101FA (NA),11,8805-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6270,,59,181,64,,1.5,40.8,38,1,,,,,6,,1,,,1.1,1.8,,,,,,,10.475,,,,,,,,40
+145,International Hybrid Maize Trial (White),K9101FA (NA),12,IK 83 TZSR W-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5183,,65,203,101,,1.8,40.8,36,1.4,,,,,8,,1,,0.3,1,1.5,,,,,,,8.025,,,,,,,,34.5
+146,International Hybrid Maize Trial (White),K9101FA (NA),13,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6461,,60,178,76,,1.4,39.8,38,1,,,,,9,,1,,1,1.3,1.9,,,,,,,8.4,,,,,,,,28
+147,International Hybrid Maize Trial (White),K9101FA (NA),14,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,4894,,60,181,74,,2.3,41.5,33,1.3,,,,,3,,1,,2.5,1.3,2.1,,,,,,,7.975,,,,,,,,25.5
+148,Evt-Isr (White),M9101NK,1,MOKWA 87 TZPB SR,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2132.7,,73,156.25,65,,,44,32,3,,,1,18,40.91,4.5,10.16,,,,,,,,,,,10,,,,,,,,20.5
+149,Evt-Isr (White),M9101NK,2,EV 8722 SR BC6,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2385.26,,71,143.75,56.25,,,42.75,38.25,3,,,2.75,14.5,35.03,2.5,5.74,,,,,,,,,,,10.65,,,,,,,,20
+150,Evt-Isr (White),M9101NK,3,TZB SR BC5,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2513.77,,72,162.5,71.25,,,42.25,35,2.25,,,0.5,23.5,55.78,3.75,8.93,,,,,,,,,,,11.125,,,,,,,,21
+151,Evt-Isr (White),M9101NK,4,TZ 8843-DMR SR,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2496.39,,70,150,57.5,,,44,37.25,2.5,,,1.75,21.75,49.37,2.25,5.14,,,,,,,,,,,10.475,,,,,,,,21
+152,Evt-Isr (White),M9101NK,5,FUNTUA 88 TZSR W 1,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2324.02,,71,153.75,62.5,,,43.25,34.25,3,,,1.25,16.5,38.26,1.5,3.46,,,,,,,,,,,10.85,,,,,,,,19.75
+153,Evt-Isr (White),M9101NK,6,NDOCK 8701,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,1986.34,,70,135,56.25,,,44.25,33.75,3,,,2.75,17,38.38,3.75,8.48,,,,,,,,,,,10.15,,,,,,,,22.75
+154,Evt-Isr (White),M9101NK,7,GUSAU x G.POOL,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2195.43,,71,147.5,63.75,,,44.25,35.25,3,,,1.75,17.75,40.23,4.25,9.66,,,,,,,,,,,11.55,,,,,,,,21.25
+155,Evt-Isr (White),M9101NK,8,OKOMASA,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2533.02,,72,156.25,65,,,43,28.75,2.5,,,1.5,18.75,43.73,2.75,6.47,,,,,,,,,,,9.425,,,,,,,,20.25
+156,Evt-Isr (White),M9101NK,9,8321-18,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2342.47,,67.75,131.25,42.5,,,41,34.25,2.25,,,2.25,19.5,50.05,11,25.24,,,,,,,,,,,11.525,,,,,,,,17.75
+157,Evt-Isr (White),M9101NK,10,GANDAJIKA 8022,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2320.88,,70.75,141.25,51.25,,,41.25,31.75,2.25,,,5.25,8.75,21.48,4.25,10.43,,,,,,,,,,,12.65,,,,,,,,21.75
+158,Evt-Isr (White),M9101NK,11,LOCAL CHECK 1,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,1953.08,,66,140,52.5,,,42.5,34.75,2.75,,,4.25,14,32.91,6.5,15.21,,,,,,,,,,,14.25,,,,,,,,21.75
+159,Evt-Isr (White),M9101NK,12,LOCAL CHECK 2,NIGERIA,NIANGOLOKO,,-4.92,10.28,Forest/Transitional,1991,2006.02,,72,135,51.25,,,43.75,34.75,2.5,,,2.25,13.25,30.32,5.25,11.94,,,,,,,,,,,14.9,,,,,,,,20.5
+160,Evt-Lsr (Yellow),M9102FA,1,EV 8728 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6030.19,,60.25,200,96.25,,2.5,43.25,38.75,2.13,,,9.75,3.5,8.11,,,,1.25,1.75,2,,,66,,1.5,,9.775,,,,,,,,12
+161,Evt-Lsr (Yellow),M9102FA,2,SUWAN 1 SR BC5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6647.01,,59.25,215,100,,2.63,41.75,37.5,1.38,,,11.75,5.75,13.88,0.5,1.19,,1,1.13,2,,,67.5,,1,,9.1,,,,,,,,21
+162,Evt-Lsr (Yellow),M9102FA,3,TZB SR SG Y,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6374.42,,61.75,212.5,103.75,,2.63,41.75,36.25,1.75,,,14,3.25,7.81,2,4.68,,1.13,1.88,2.1,,,61.5,,1,,9.675,,,,,,,,18
+163,Evt-Lsr (Yellow),M9102FA,4,IK 85 TZSR Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6157.89,,62.25,212.5,106.25,,3.25,40.5,35,1.63,,,6,3,7.31,,,,1,1.25,1.8,,,70,,1.5,,9.825,,,,,,,,13.5
+164,Evt-Lsr (Yellow),M9102FA,5,DMR-LSRY,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5394.48,,57.25,193.75,93.75,,2.25,41.5,39,1.25,,,9.75,1.5,3.63,1,2.42,,1,1.25,2.8,,,67,,1,,9.975,,,,,,,,21
+165,Evt-Lsr (Yellow),M9102FA,6,8644-31,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,7229.38,,59,198.75,92.5,,1.13,41.5,41.25,1.13,,,4.25,1.75,4.23,1,2.4,,1.13,1,1,,,67,,1,,7.95,,,,,,,,15.5
+166,Evt-Lsr (Yellow),M9102FA,7,FERKE (1) 8128,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5031.21,,60.5,202.5,98.75,,2.38,41.75,39,1.75,,,8.75,2.5,5.95,0.5,1.2,,1.13,1.38,2.8,,,70,,1.5,,10.575,,,,,,,,13
+167,Evt-Lsr (Yellow),M9102FA,8,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5140.78,,58.5,193.75,92.5,,3.25,40.75,34.5,1.88,,,10,3,7.43,1.75,4.3,,1.25,1.5,2.3,,,66.5,,1,,8.25,,,,,,,,14
+168,Evt-Lsr (Yellow),M9102FA,9,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5962.69,,61.25,208.75,105,,2.5,42,37.5,1.5,,,8.5,2,4.68,1.75,4.06,,1.25,1.88,1.3,,,68.5,,2,,11.95,,,,,,,,12
+169,Evt-Isr (White),M9103FA (NA),1,ACR 88 TZUT SR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,6187,,57,209,98,,2.8,43,39,1.5,,,,,7,,1,,1.4,1.9,1.8,,,61.75,,,,20.525,,,,,,,,40.25
+170,Evt-Isr (White),M9103FA (NA),2,EV 8744 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5990,,59,203,95,,2.8,42,39,1.8,,,,,4,,2,,1.1,1.8,2.3,,,63.75,,,,24.675,,,,,,,,39.25
+171,Evt-Isr (White),M9103FA (NA),3,EV 8749 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5018,,58,166,68,,1.9,42,40,1.6,,,,,13,,1,,1,1.3,2,,,64.5,,,,23.6,,,,,,,,39.25
+172,Evt-Isr (White),M9103FA (NA),4,EV 8762 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5725,,59,209,95,,2.5,43,39,1.6,,,,,6,,5,,1.1,1.8,2.3,,,65.5,,,,22.475,,,,,,,,37.75
+173,Evt-Isr (White),M9103FA (NA),5,TZUT SR W SG Y,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5737,,61,208,96,,2.5,43,41,1.5,,,,,7,,2,,1,1.3,1.8,,,62.75,,,,18,,,,,,,,36
+174,Evt-Isr (White),M9103FA (NA),6,SUWAN 2 SR BC4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,7262,,55,205,99,,2.3,42,43,1.3,,,,,2,,4,,1.3,1,2,,,69,,,,19.275,,,,,,,,36.25
+175,Evt-Isr (White),M9103FA (NA),7,EV 8766 SR BC6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5159,,58,199,98,,3,39,39,1.8,,,,,12,,,,1.1,1,3,,,59,,,,19.25,,,,,,,,43.25
+176,Evt-Isr (White),M9103FA (NA),8,IKENNE (1) 8149,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,3825,,62,149,56,,2.8,36,33,2.4,,,,,7,,1,,1.3,1,1.6,,,59.5,,,,19.5,,,,,,,,40.75
+177,Evt-Isr (White),M9103FA (NA),9,LOCAL CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5592,,57,194,91,,3,43,39,1.3,,,,,10,,3,,1.3,1,2.3,,,57.75,,,,19.125,,,,,,,,42.25
+178,Evt-Isr (White),M9103FA (NA),10,LOCAL CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1991,5881,,62,206,100,,3,43,39,2.1,,,,,7,,1,,1.4,1.6,1.8,,,57.75,,,,17.125,,,,,,,,39.25
+179,Evt-Isr (White),M9103KOU,1,ACR 88 TZUT SR W,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,4037,,59.5,194.25,89.5,,,39.5,35.5,,,,,3.75,9.86,1,2.65,,,,,,,66.25,,,,6.2,,,,,,,,13.5
+180,Evt-Isr (White),M9103KOU,2,EV 8744 SR BC6,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,4199.45,,59.25,174.5,88,,,41.5,37,,,,,2.25,5.49,,,,,,,,,64,,,,,,,,,,,,12
+181,Evt-Isr (White),M9103KOU,3,EV 8749 SR BC6,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,3309.61,,57.75,144.75,60.75,,,38.25,33.25,,,,,2,5.09,0.5,1.35,,,,,,,68.25,,,,,,,,,,,,3
+182,Evt-Isr (White),M9103KOU,4,EV 8762 SR BC6,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,3721.8,,59.25,187.5,93.5,,,42.5,36.75,,,,,1.5,3.56,0.75,1.79,,,,,,,59.75,,,,,,,,,,,,39.25
+183,Evt-Isr (White),M9103KOU,5,TZUT SR W SG Y,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,4260.07,,59.5,192.5,95,,,39.25,36.75,,,,,2,5.15,,,,,,,,,60.25,,,,8.075,,,,,,,,44
+184,Evt-Isr (White),M9103KOU,6,SUWAN 2 SR BC4,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,3969.11,,56.25,194.75,91.5,,,40.75,39.25,,,,,5.5,13.78,2,4.91,,,,,,,60.75,,,,9,,,,,,,,43.75
+185,Evt-Isr (White),M9103KOU,7,EV 8766 SR BC6,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,4083.07,,56.25,188.25,95.75,,,40.75,35,,,,,2.5,6.16,0.75,1.87,,,,,,,57.25,,,,8.425,,,,,,,,43
+186,Evt-Isr (White),M9103KOU,8,IKENNE (1) 8149,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,3649.06,,58.5,144.5,63,,,30.75,29.25,,,,,1.75,5.6,1,3.33,,,,,,,57,,,,7.05,,,,,,,,41.75
+187,Evt-Isr (White),M9103KOU,9,LOCAL CHECK 1,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,4163.08,,57.5,182.75,87,,,40.5,35,,,,,2.75,6.68,0.5,1.25,,,,,,,61.5,,,,7.9,,,,,,,,43.5
+188,Evt-Isr (White),M9103KOU,10,LOCAL CHECK 2,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1991,4230.97,,59.75,196.25,104,,,41.25,36.75,,,,,4.5,10.92,,,,,,,,,60,,,,7.8,,,,,,,,41
+189,International Observational Trial,J9213FA,1,EV 32 SR B,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,6743.04,,64.67,204.33,93.33,,1.67,43.67,43,3,,,8,0.33,0.76,,,,,,,,,61.5,,,,,,,,,,,,15
+190,International Observational Trial,J9213FA,2,EV 8435 S,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,5778.14,,61,191,85.33,,1.67,41.67,40.33,2.5,,,5.67,5.67,13.74,,,,,,,,,64.5,,,,,,,,,,,,21.5
+191,International Observational Trial,J9213FA,3,EV 8744 S,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,6627.38,,63.67,202.33,95.33,,2.67,44,43.33,4,,,16,1,2.27,,,,,,,,,65.5,,,,,,,,,,,,20
+192,International Observational Trial,J9213FA,4,EV 8749 S,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,5883.53,,61,179.67,73,,2.67,41,41.33,2.83,,,6,3,7.49,1.33,3.35,,,,,,,61.5,,,,,,,,,,,,15.5
+193,International Observational Trial,J9213FA,5,EV 8762 S,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,5534.27,,66,202.67,93.33,,2.33,41.67,42,3.5,,,10.67,3,7.34,,,,,,,,,65.5,,,,,,,,,,,,17.5
+194,International Observational Trial,J9213FA,6,EV 8363 S,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,5963.78,,65,209.67,88,,3.33,42,42.33,2.83,,,8.33,3.33,8.13,,,,,,,,,62,,,,,,,,,,,,18.5
+195,International Observational Trial,J9213FA,7,EV 8766 S,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,5995.46,,62.67,208.67,102.33,,3,43,42.33,3,,,9,3.67,8.57,0.33,0.76,,,,,,,73.5,,,,,,,,,,,,19.5
+196,International Observational Trial,J9213FA,8,TZUT SR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,6884.79,,61,220.33,95,,2.67,41.67,42.33,2,,,4.33,1.67,4.17,0.33,0.83,,,,,,,79,,,,,,,,,,,,14
+197,International Observational Trial,J9213FA,9,TZUT SR Y,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,7028.18,,60.67,208.67,94.67,,2.67,40.67,42.67,3.5,,,11.33,,,,,,,,,,,78,,,,,,,,,,,,7
+198,International Observational Trial,J9213FA,10,TZUT SR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,6807.36,,64,219.33,111.33,,1.67,43.33,43,2.67,,,11.67,3,6.9,,,,,,,,,72.5,,,,,,,,,,,,16.5
+199,International Observational Trial,J9213FA,11,SUWAN 2-S,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,6409,,62,192.67,86,,2.67,42.67,44.33,4.17,,,15.33,4.67,10.85,,,,,,,,,76.5,,,,,,,,,,,,21
+200,International Observational Trial,J9213FA,12,SPMAT C4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1992,6234.8,,59.67,185.67,79.33,,2.33,43.67,52.67,3.33,,,10.67,5.33,12.21,0.67,1.55,,,,,,,82,,,,,,,,,,,,21.5
+201,International Observational Trial,J9213KB,1,EV 32 SR B,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,2462.85,,60.33,185,91.67,,1.83,40.67,40.67,3.5,,,,7,16.98,0.33,0.9,,,,,,,68.67,,,,,,,,,,,,11.33333333
+202,International Observational Trial,J9213KB,2,EV 8435 S,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,2459.2,,55.67,178.33,86.67,,3.33,38.67,35.33,3.5,,,,14.67,38.12,0.33,0.83,,,,,,,69.67,,,,,,,,,,,,5.333333333
+203,International Observational Trial,J9213KB,3,EV 8744 S,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,3188.03,,56.67,195,101.67,,2,43.33,36,3.33,,,1,2.33,5.52,0.67,1.55,,,,,,,68.33,,,,,,,,,,,,6.333333333
+204,International Observational Trial,J9213KB,4,EV 8749 S,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,2871.97,,57,171.67,93.33,,2.5,40.67,35.67,2.83,,,,5,12.76,0.33,0.85,,,,,,,69,,,,,,,,,,,,10
+205,International Observational Trial,J9213KB,5,EV 8762 S,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,3418.02,,57.67,186.67,106.67,,2.17,41.33,40.67,2.33,,,,10,23.35,0.67,1.55,,,,,,,67,,,,,,,,,,,,24
+206,International Observational Trial,J9213KB,6,EV 8363 S,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,2920.85,,59.67,181.67,91.67,,2,41,36,3.17,,,,6,14.64,1.33,3.23,,,,,,,65.5,,,,,,,,,,,,22.5
+207,International Observational Trial,J9213KB,7,EV 8766 S,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,2552.45,,57.33,193.33,110,,3.17,41.33,37,3.67,,,,10.33,24.8,1.33,3.21,,,,,,,65,,,,,,,,,,,,20
+208,International Observational Trial,J9213KB,8,TZUT SR W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,3197.8,,56.67,196.67,108.33,,2.5,40,36.33,2.67,,,,7,18.03,0.67,1.63,,,,,,,64,,,,,,,,,,,,19.75
+209,International Observational Trial,J9213KB,9,TZUT SR Y,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,3745.45,,56.33,193.33,98.33,,2.33,41,40.67,2.83,,,0.33,3,7.26,0.67,1.65,,,,,,,66.25,,,,,,,,,,,,25.75
+210,International Observational Trial,J9213KB,10,TZUT SR W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,3616.74,,60.33,191.67,103.33,,2.17,43.33,41,2.5,,,,3.33,7.75,0.33,0.76,,,,,,,67.75,,,,,,,,,,,,19.75
+211,International Observational Trial,J9213KB,11,SUWAN 2-S,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,3436.88,,56,186.67,93.33,,2.17,40.67,38,2.67,,,,6.33,15.75,0.33,0.83,,,,,,,66,,,,,,,,,,,,30.5
+212,International Observational Trial,J9213KB,12,SPMAT C4,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1992,2832.27,,54,183.33,93.33,,2.67,39,47.33,3.5,,,,9.33,23.93,1,2.59,,,,,,,65,,,,,,,,,,,,26
+213,Evt-Isr (White),J9303FN,1,ACR 88 TZUT SR W,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4733.18,,59.75,185.5,96,,2,39.5,38,2,,,,0.25,,0.25,,0.75,,,,,,63,,,,,,,,,,,,7.666666667
+214,Evt-Isr (White),J9303FN,2,EV 8744 SR BC6,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,5430.22,,55.5,184.25,90.5,,1.5,31,39.75,1.75,,,,,,0.25,,1.75,,,,,,58,,,,,,,,,,,,7.666666667
+215,Evt-Isr (White),J9303FN,3,EV 8749 SR BC6,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4134.53,,57.75,173.5,77.75,,2,35,37.25,2,,,,,,0.25,,0.25,,,,,,56,,,,,,,,,,,,9.666666667
+216,Evt-Isr (White),J9303FN,4,EV 8762 SR BC6,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4812.68,,57.5,185,102.25,,2,30.25,33.5,1.75,,,,,,1,,1.75,,,,,,57,,,,,,,,,,,,9.333333333
+217,Evt-Isr (White),J9303FN,5,TZUT SR W SG Y,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4596.32,,60.75,211.25,109.75,,1.5,36.25,38.25,1.5,,,,0.25,,1.25,,,,,,,,63,,,,,,,,,,,,11.33333333
+218,Evt-Isr (White),J9303FN,6,SUWAN 2 SR BC4,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,5651.94,,56,193.75,106,,1.25,34.5,41.75,1.25,,,,0.25,,0.75,,1.75,,,,,,56,,,,,,,,,,,,13.66666667
+219,Evt-Isr (White),J9303FN,7,EV 8766 SR BC6,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,5040.82,,55.5,203.25,97.5,,1.25,35.5,39,2,,,,0.5,,2.25,,0.25,,,,,,67,,,,,,,,,,,,10
+220,Evt-Isr (White),J9303FN,8,IK (1) 8149 SR,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,3883.54,,51.25,152.75,69.5,,2,33.75,37.5,2.25,,,,0.25,,0.25,,2.25,,,,,,58.6,,,,12.41414011,,,,,,,,18.33333333
+221,Evt-Isr (White),J9303FN,9,CHECK 1,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,3971.45,,49,146,71.75,,2.25,33.25,37.5,2.5,,,,,,0.25,,2,,,,,,,,,,23.2,,,,,,,,20
+222,Evt-Isr (White),J9303FN,10,CHECK 2,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,3025.53,,54,161.25,70.33,,2.75,31.25,32,2.25,,,,0.75,,0.75,,1.25,,,,,,,,,,23.53333333,,,,,,,,19.66666667
+223,Evt-Isr (White),J9303KB,1,ACR 88 TZUT SR W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,5827.34,,54,200,107.5,,2.5,40.25,39.5,2.25,,,0.25,7.5,,,,0.5,,,,,,,,,,15.90767639,,,,,,,,17
+224,Evt-Isr (White),J9303KB,2,EV 8744 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,6378.56,,54.25,182.5,105,,2.63,42.25,43.25,1.63,,,2.25,6.5,,0.75,,0.5,,,,,,,,,,17.67696945,,,,,,,,19
+225,Evt-Isr (White),J9303KB,3,EV 8749 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,4148.25,,53,173.75,95,,2.88,38.5,38.25,2.38,,,1.75,10.25,,0.5,,1,,,,,,,,,,14.46993561,,,,,,,,20
+226,Evt-Isr (White),J9303KB,4,EV 8762 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,5163.11,,55.75,195,112.5,,2.63,36.25,35.25,2.75,,,0.75,5.75,,0.5,,1.5,,,,,,,,,,13.53234279,,,,,,,,21.33333333
+227,Evt-Isr (White),J9303KB,5,TZUT SR W SG Y,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,6638.68,,56.5,197.5,110,,2.13,35.75,41,1.5,,,1.75,1.5,,,,,,,,,,,,,,15.43635429,,,,,,,,19.33333333
+228,Evt-Isr (White),J9303KB,6,SUWAN 2 SR BC4,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,4592.95,,53.5,181.25,97.5,,2.5,39.25,36.75,1.5,,,,4.75,,1.25,,0.75,,,,,,,,,,16.37364981,,,,,,,,21.33333333
+229,Evt-Isr (White),J9303KB,7,EV 8766 SR BC6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,5195.14,,54.25,187.5,107.5,,2.75,39,37,2,,,2,8.25,,,,0.25,,,,,,52.2,,,,,,,,,,,,22
+230,Evt-Isr (White),J9303KB,8,IK (1) 8149 SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3564.37,,49.75,160,80,,2.88,33.5,31.75,2.88,,,1.75,13,,0.75,,1.75,,,,,,54.56,,,,,,,,,,,,21.66666667
+231,Evt-Isr (White),J9303KB,9,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,4372.91,,50.75,183.75,100,,2.75,33.75,34.5,2.5,,,3,11.75,,,,1.75,,,,,,54.6,,,,,,,,,,,,21.33333333
+232,Evt-Isr (White),J9303KB,10,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3565,,47.75,160,73.75,,2.63,35,33.75,2.63,,,2.25,8,,0.5,,1,,,,,,53.59,,,,,,,,,,,,14.66666667
+233,Evt-Isr (White),J9303SR,1,ACR 88 TZUT SR W,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3375.31,,57.75,181.25,92.5,,2.25,43.5,36.75,2.13,,,2.5,1.75,,2,,0.5,,,,,,65.62,,,,12.01616161,,,,,,,,5.263357117
+234,Evt-Isr (White),J9303SR,2,EV 8744 SR BC6,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3073.03,,57.5,148.75,80,,2.5,43.5,39.5,2.75,,,2.63,4.25,,2,,0.75,,,,,,68.78,,,,9.516003907,,,,,,,,7.565906872
+235,Evt-Isr (White),J9303SR,3,EV 8749 SR BC6,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3035.35,,55.25,133.75,65,,2.75,42.25,38.25,2.5,,,2.38,1.75,,0.5,,,,,,,,65.8,,,,,,,,,,,,4.916869446
+236,Evt-Isr (White),J9303SR,4,EV 8762 SR BC6,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3049.21,,58.5,150,71.25,,2.75,43,34.5,2.13,,,2.5,0.25,,1.75,,1.5,,,,,,70.69,,,,,,,,,,,,3.004474903
+237,Evt-Isr (White),J9303SR,5,TZUT SR W SG Y,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3169.58,,58.75,181.25,100,,2.25,41.25,37.5,2.25,,,2.63,0.5,,0.75,,0.5,,,,,,59.13,,,,,,,,,,,,10.46908124
+238,Evt-Isr (White),J9303SR,6,SUWAN 2 SR BC4,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3806.38,,54.25,166.25,80,,2,41.75,42,2.13,,,2.63,3,,2.25,,1,,,,,,68.24,,,,,,,,,,,,4.951587182
+239,Evt-Isr (White),J9303SR,7,EV 8766 SR BC6,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3189.75,,56,157.5,77.5,,2.5,39,36.5,2.63,,,2.13,6.25,,3,,2.25,,,,,,65.89,,,,,,,,,,,,9.201789961
+240,Evt-Isr (White),J9303SR,8,IK (1) 8149 SR,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,2998.35,,51,148.75,70,,2.5,40,36,2.38,,,2.5,3.25,,1.5,,1.5,,,,,,60.7,,,,,,,,,,,,8.420938791
+241,Evt-Isr (White),J9303SR,9,CHECK 1,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,2515.93,,55.75,141.25,65,,3,38,35,2.75,,,2.88,5.25,,2.75,,1,,,,,,,,,,,,,,,,,,
+242,Evt-Isr (White),J9303SR,10,CHECK 2,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3163.31,,49.5,142.5,65,,3,40.5,36.75,2.25,,,2.75,4.75,,3,,1.25,,,,,,,,,,,,,,,,,,
+243,International Hybrid Maize Trial (Yellow),K9302KB,1,8522-2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3840.58,,61,223.75,122.5,,2.88,32.5,34.5,2.13,,,,11.5,,5.5,,0.5,,,,,,50.67,,,,12.03333333,,,,,,,,41
+244,International Hybrid Maize Trial (Yellow),K9302KB,2,8644-27,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3903.7,,58,195,111.25,,2.5,32.75,30.25,1.88,,,0.25,4,,3.75,,,,,,,,56.33,,,,11.66666667,,,,,,,,32
+245,International Hybrid Maize Trial (Yellow),K9302KB,3,8644-31,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,4317.32,,58.75,200,111.25,,2.13,38.75,36.25,2,,,0.25,6,,3.75,,0.75,,,,,,59.13,,,,,,,,,,,,40.8870851
+246,International Hybrid Maize Trial (Yellow),K9302KB,4,8644-32,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3940.24,,57.25,200,113.75,,2.38,36.25,35,2.25,,,0.25,11.75,,6,,1.25,,,,,,57.46,,,,14.83495351,,,,,,,,36.55375177
+247,International Hybrid Maize Trial (Yellow),K9302KB,5,8329-15,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3145.42,,56.25,196.25,111.25,,2.38,33.75,31.5,2,,,,9.75,,5,,,,,,,,59.88,,,,14.11915926,,,,,,,,31.55088946
+248,International Hybrid Maize Trial (Yellow),K9302KB,6,8425-8,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3446.48,,56.75,197.5,101.25,,2.38,34.75,32,2.5,,,,9.75,,7,,0.75,,,,,,56.33,,,,30,,,,,,,,36.67071081
+249,International Hybrid Maize Trial (Yellow),K9302KB,7,ACR 85 TZSR Y-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3001.49,,63,218.75,131.25,,2.88,33.5,31.25,2.63,,,1.25,5.75,,7,,0.25,,,,,,55.33,,,,17.4,,,,,,,,40.33333333
+250,International Hybrid Maize Trial (Yellow),K9302KB,8,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,1946.6,,52.75,191.25,103.75,,3,22.75,22,3.25,,,0.5,8.25,,5.25,,2.25,,,,,,66.97,,,,17.36666667,,,,,,,,35.95978593
+251,International Hybrid Maize Trial (Yellow),K9302KB,9,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,1457.11,,49.75,167.5,65,,3.38,14,17,3.25,,,2.25,5.25,,2.75,,3.75,,,,,,64.05,,,,17.66666667,,,,,,,,35.65939258
+252,Drought Tolerance Maize Trial,K9306FN,1,DR SR Y-1,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4517.96,,55.75,156.75,81.25,,1.75,30,33.25,1.75,,,,0.25,,1.5,,1.25,,,,,,56.67,,,,13.4,,,,,,,,21.33333333
+253,Drought Tolerance Maize Trial,K9306FN,2,DR SR Y-2A,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4399.92,,55.5,183,86,,2,30.25,32.75,1.5,,,,,,1.5,,1,,,,,,54.33,,,,,,,,,,,,19.35958305
+254,Drought Tolerance Maize Trial,K9306FN,3,DR SR Y-3,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4458.2,,57.5,200,107.5,,2,27.25,30.75,1.75,,,,0.25,,1.25,,1.5,,,,,,51.67,,,,,,,,,,,,20.01499984
+255,Drought Tolerance Maize Trial,K9306FN,4,DR SR W-2,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4621.11,,54,168.5,94,,1.75,32.75,35,1.5,,,,0.25,,1.5,,4.25,,,,,,54.33,,,,,,,,,,,,17.66854165
+256,Drought Tolerance Maize Trial,K9306FN,5,DR SR W-3,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,4924.11,,56.5,189,102,,1.75,32.25,34.75,1.25,,,,0.75,,0.25,,1.25,,,,,,50.33,,,,,,,,,,,,20.98125021
+257,Drought Tolerance Maize Trial,K9306FN,6,TUXPENO SEQUIA,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,3974.64,,58.75,177.25,90.75,,2,30.75,31.5,1.5,,,,0.25,,0.75,,0.25,,,,,,50,,,,,,,,,,,,18.66666667
+258,Drought Tolerance Maize Trial,K9306FN,7,CHECK 1,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,3748.47,,51.25,153,73.75,,2.25,36.25,36.75,2,,,,0.5,,2,,1.5,,,,,,52.33,,,,,,,,,,,,14.64322942
+259,Drought Tolerance Maize Trial,K9306FN,8,CHECK 2,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1993,3746.42,,51,156,77,,2,37,38.25,2,,,,0.25,,1,,2,,,,,,49.33,,,,,,,,,,,,20.03374963
+260,Drought Tolerance Maize Trial,K9306KB,1,DR SR Y-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3838.92,,53.5,173.75,90,,2.25,31.5,31.5,2.5,,,3,3,,1,,,,,,,,50.67,,,,21,,,,,,,,20.99531255
+261,Drought Tolerance Maize Trial,K9306KB,2,DR SR Y-2A,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,2956.16,,53.25,175,88.75,,2.5,33.25,29.75,3.13,,,3,9.5,,1.25,,0.75,,,,,,52.67,,,,21.53333333,,,,,,,,21.30427115
+262,Drought Tolerance Maize Trial,K9306KB,3,DR SR Y-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3498.96,,55.5,183.75,92.5,,2.38,31.75,32.5,2.63,,,2,6,,0.5,,0.5,,,,,,49.67,,,,20.5,,,,,,,,19.00656243
+263,Drought Tolerance Maize Trial,K9306KB,4,DR SR W-2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3757.91,,54.25,168.75,78.75,,2.75,35,35.25,2.75,,,2.75,6,,1,,,,,,,,57.02,,0.01,,,,,,,,,,6.666666667
+264,Drought Tolerance Maize Trial,K9306KB,5,DR SR W-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,4053.69,,55.25,170,86.25,,2.63,34.75,32,2.38,,,2.5,8,,,,0.25,,,,,,59.98,,0.34,,,,,,,,,,21.66666667
+265,Drought Tolerance Maize Trial,K9306KB,6,TUXPENO SEQUIA,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,2693.5,,59,170,87.5,,3,29,29,2.63,,,1,12.25,,0.25,,0.5,,,,,,59.45,,0.01,,20.33333333,,,,,,,,14.33333333
+266,Drought Tolerance Maize Trial,K9306KB,7,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3816.67,,51.25,168.75,87.5,,3,37,37.75,2.5,,,2.5,12.75,,1.25,,0.75,,,,,,59.07,,-0.01,,20.5,,,,,,,,18.66666667
+267,Drought Tolerance Maize Trial,K9306KB,8,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1993,3262.38,,46.25,170,78.75,,2.5,38.5,39.25,2.5,,,2,21.25,,,,2.5,,,,,,51.33,,,,3,,,,,,,,21.33333333
+268,Drought Tolerance Maize Trial,K9306SR,1,DR SR Y-1,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3425.88,,54.5,158.75,77.5,,2.25,40.5,36.25,2.63,,,2.63,1.75,,2.25,,1.25,,,,,,63.14,,,,13.06666667,,,,,,,,14.66666667
+269,Drought Tolerance Maize Trial,K9306SR,2,DR SR Y-2A,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3205.38,,56,156.25,72.5,,1.75,40.5,36,2.38,,,2.75,3,,1.25,,1,,,,,,63.37,,,,13.13333333,,,,,,,,17
+270,Drought Tolerance Maize Trial,K9306SR,3,DR SR Y-3,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3851.79,,55.5,175,93.75,,1.75,37.75,36.25,2.63,,,3,0.75,,2,,1.25,,,,,,58.65,,,,13.23333333,,,,,,,,18.33333333
+271,Drought Tolerance Maize Trial,K9306SR,4,DR SR W-2,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3254.56,,54,150,73.75,,1.25,40.25,38,2.63,,,3,1.25,,3,,2.5,,,,,,47.79,,,,13.46666667,,,,,,,,12.4786493
+272,Drought Tolerance Maize Trial,K9306SR,5,DR SR W-3,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3091.88,,55.5,162.5,86.25,,2,35.25,32.25,2.38,,,3,,,0.25,,1.25,,,,,,49.37,,,,13.8,,,,,,,,6.118247246
+273,Drought Tolerance Maize Trial,K9306SR,6,TUXPENO SEQUIA,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3799.27,,56,146.25,67.5,,1.5,39.5,37.5,2.5,,,2.63,2.25,,1.5,,0.5,,,,,,18.96,,,,14.76666667,,,,,,,,1.118247246
+274,Drought Tolerance Maize Trial,K9306SR,7,CHECK 1,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,2733.89,,51.25,132.5,63.75,,2.75,34.5,34,2.25,,,2.5,3,,3.25,,,,,,,,53.43,,,,12.33333333,,,,,,,,18.16275849
+275,Drought Tolerance Maize Trial,K9306SR,8,CHECK 2,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1993,3338.91,,52.75,136.25,70,,2.5,31.75,32,2.25,,,3,1.25,,0.75,,1.5,,,,,,51.2,,,,7.781638544,,,,,,,,12.14339073
+276,International Hybrid Maize Trial (White),K9401KB,1,8766-12,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5666.83,,64.25,188.75,103.75,,3.25,38.25,35.75,2.13,,,2,1.5,,,,,1.5,1.75,1.8,,,61,,1,,23.3,,,,,,,,15.55263565
+277,International Hybrid Maize Trial (White),K9401KB,2,8805-4,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6095.96,,60,202.5,113.75,,2.5,34.5,35,2.25,,,2.5,5.25,,1.25,,0.25,1.25,1.5,1,,,61.08,,1,,21.5,,,,,,,,18.34557398
+278,International Hybrid Maize Trial (White),K9401KB,3,8805-6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5971.02,,61.5,188.75,101.25,,2.5,33.5,31.75,2.38,,,2.25,3,,0.75,,,1,1.25,1.3,,,61.12,,1,,23.1,,,,,,,,22.09074478
+279,International Hybrid Maize Trial (White),K9401KB,4,9024-9,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6721.83,,61.5,216.25,120,,2.25,32.75,33.75,1.63,,,1.25,5.25,,0.25,,0.25,1,1.25,1,,,60.87,,1,,24.5,,,,,,,,20.79038328
+280,International Hybrid Maize Trial (White),K9401KB,5,9033-26,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6203.3,,61,205,106.25,,2.75,34.75,33.5,1.75,,,1.75,2,,1,,,1.5,1.25,1.8,,,60.5,,1.5,,24.2,,,,,,,,19.05700192
+281,International Hybrid Maize Trial (White),K9401KB,6,9060-6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6447.48,,60,201.25,116.25,,2,33.75,33.5,1.63,,,1,0.5,,,,,1,1,1,,,61,,1.5,,23.1,,,,,,,,18.76150853
+282,International Hybrid Maize Trial (White),K9401KB,7,9111-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5338.85,,60.25,158.75,77.5,,2.5,33,30.75,2,,,1.25,11.75,,1.75,,,1.25,1,1,,,61.56,,1,,21.1,,,,,,,,21.54521249
+283,International Hybrid Maize Trial (White),K9401KB,8,9134-14,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,4622.85,,62.5,187.5,100,,3.5,32.75,31,2.25,,,1.5,5.25,,1.25,,,1.25,1.5,1,,,60.81,,1,,23.5,,,,,,,,18.30217271
+284,International Hybrid Maize Trial (White),K9401KB,9,9164-2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,7274.96,,61.25,218.75,126.25,,2.75,37.75,36.5,1.5,,,1.75,,,,,,1,1.25,1,,,60.89,,1,,23.5,,,,,,,,22.79961766
+285,International Hybrid Maize Trial (White),K9401KB,10,9053-18 ,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,7448.91,,60.25,222.5,123.75,,2.25,37,36.5,1.63,,,2,0.75,,0.5,,,1.5,1.5,1,,,61.98,,1.5,,24.6,,,,,,,,19.75227416
+286,International Hybrid Maize Trial (White),K9401KB,11,CAMEROON HYBRID 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5650.95,,63.25,201.25,122.5,,3,33.5,34.5,1.88,,,1.5,7.75,,1.25,,0.5,1,1,1,,,59.81,,2,,24.4,,,,,,,,20.30217271
+287,International Hybrid Maize Trial (White),K9401KB,12,CAMEROON HYBRID 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,7455.27,,62,233.75,140,,2,26.5,25.75,1.25,,,1.5,0.75,,0.5,,,1.5,1.25,1.3,,,60,,,,21.1,,,,,,,,20.5
+288,International Hybrid Maize Trial (White),K9401KB,13,OBA SUPER 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,7352.41,,59,195,101.25,,2,37.5,37.25,1.63,,,2.25,1.25,,,,,1.25,1,1.5,,,62.5,,,,24.4,,,,,,,,19
+289,International Hybrid Maize Trial (White),K9401KB,14,FUNTUA 88 TZSR W 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5711.45,,62.5,207.5,110,,2.75,37.5,37,2.13,,,1.5,6.5,,1,,,1,1.25,1.3,,,63,,,,22.5,,,,,,,,5
+290,International Hybrid Maize Trial (White),K9401KB,15,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,3738.8,,53.25,155,77.5,,2,31,33.5,2.88,,,1.5,2.5,,1,,,1,1.25,1,,,59.5,,,,21.1,,,,,,,,19.5
+291,International Hybrid Maize Trial (White),K9401KB,16,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,4001.97,,64.5,178.75,105,,3,22.25,23,1.75,,,2.5,0.5,,,,,1.25,1.25,1,,,64,,,,22.4,,,,,,,,15.5
+292,International Hybrid Maize Trial (Yellow),K9402KB,1,8813-6,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5513.26,,62.75,223.75,117.5,,2,32.75,32,1.63,,,1.5,1,,0.25,,,1.5,1.5,1,,,61.5,,,,17.2,,,,,,,,
+293,International Hybrid Maize Trial (Yellow),K9402KB,2,8867-5,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5846.88,,62.25,212.5,125,,2.5,31,31.5,1.5,,,1.75,0.5,,0.25,,,1.75,1.5,1.3,,,55.99,,,,15.76666667,,,,,,,,
+294,International Hybrid Maize Trial (Yellow),K9402KB,3,8981-5,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6205.04,,60.75,187.5,97.5,,2.5,34.25,33,1.38,,,2.25,,,,,,1.25,1.5,1.3,,,53.66,,1,,23.25044898,,,,,,,,21
+295,International Hybrid Maize Trial (Yellow),K9402KB,4,9244-27 ,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6678.9,,63.5,195,111.25,,2.75,31.5,33.25,1.13,,,1.25,,,0.5,,,1.75,1.25,1.3,,,68.47,,,,23.03333333,,,,,,,,
+296,International Hybrid Maize Trial (Yellow),K9402KB,5,8644-31,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5755.35,,61.75,197.5,113.75,,2.25,33.5,31.75,1.25,,,1.75,4.25,,0.25,,,2,1.75,1.5,,,68.2,,,,25.7,,,,,,,,
+297,International Hybrid Maize Trial (Yellow),K9402KB,6,8644-32,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,7136.39,,59.5,205,107.5,,2,36.75,37,1.38,,,1.25,2,,0.5,,,1.5,1,1,,,71.64,,,,29.13333333,,,,,,,,
+298,International Hybrid Maize Trial (Yellow),K9402KB,7,9055-32 ,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6538.16,,61,217.5,128.75,,2.25,28,29.5,1.13,,,1.75,1,,0.5,,,1.5,1.5,1,,,70.97,,,,25.2,,,,,,,,
+299,International Hybrid Maize Trial (Yellow),K9402KB,8,9055-42 ,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6728.88,,62.25,205,110,,2.75,34.75,35.25,1.75,,,1.5,0.75,,,,,1.25,1.25,1.3,,,70.6,,,,25.33333333,,,,,,,,
+300,International Hybrid Maize Trial (Yellow),K9402KB,9,8522-2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,7986.89,,62.75,232.5,130,,2.5,37,37.25,1,,,1.25,1,,0.75,,,1.25,1.75,1,,,73.18,,,,25.9,,,,,,,,
+301,International Hybrid Maize Trial (Yellow),K9402KB,10,OBA SUPER 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,7352.92,,62.25,207.5,112.5,,2.5,35.75,36.5,1,,,1.25,0.5,,0.25,,,1,1,1,,,67.68,,,,27.7,,,,,,,,
+302,International Hybrid Maize Trial (Yellow),K9402KB,11,SUWAN 1 SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,6244.98,,61.75,222.5,128.75,,2.75,35.25,33.5,1.88,,,2.25,4,,1.25,,,1,1.25,1,,,69.98,,,,26.2,,,,,,,,
+303,International Hybrid Maize Trial (Yellow),K9402KB,12,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,4336.8,,52,167.5,77.5,,2.25,34,31.75,2.5,,,2.5,8.75,,1,,,1.5,1.5,1.3,,,71.85,,,,25.46666667,,,,,,,,
+304,International Hybrid Maize Trial (Yellow),K9402KB,13,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5514.91,,57.5,196.25,108.75,,3,38.5,37,2.38,,,2.75,1,,0.5,,,3,1.75,1.5,,,69.7,,,,23.5,,,,,,,,
+305,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),1,TZMI 301,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2193,,61,93,31,,2.5,30,28,2.9,,,2.4,0.8,,0.3,,,,,3,,,66.31,,1.72,,28.7,,,,,,,,3.333333333
+306,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),2,POP 10,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,3190,,61,126,39,,2.3,35,33,2.9,,,2.3,0.5,,0.3,,,,,2.5,,,68.05,,1.27,,30.43333333,,,,,,,,3.5
+307,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),3,TZI 3 1368,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2665,,62,125,43,,2,33,27,3.4,,,1.3,1.8,,1.3,,,,,3,,,62.5,,1.43,,29.73333333,,,,,,,,3.5
+308,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),4,TZI 25 9450,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,1620,,62,109,35,,3,27,21,2.8,,,1.6,1.5,,1.8,,,,,2.8,,,66.39,,1.2,,29.63333333,,,,,,,,3.5
+309,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),5,TZMI 101,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,3088,,63,123,44,,2,29,28,3.3,,,1.6,,,,,,,,2.5,,,70.01,,1.42,,28.56666667,,,,,,,,3.5
+310,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),6,TZI 15 9071,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2387,,64,141,56,,2.3,29,22,3.6,,,2.4,1,,,,,,,3.3,,,66.39,,1.58,,28.53333333,,,,,,,,3.5
+311,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),7,TZI 18 4001,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2353,,63,120,44,,2.5,32,26,3.6,,,1.8,0.5,,0.3,,,,,2.5,,,66.67,,1.4,,15.36765823,,,,,,,,3.5
+312,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),8,KU 1414 SR/SR,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2409,,61,129,53,,2.5,33,28,3.3,,,2.1,0.5,,,,,,,2.5,,,66.84,,1.49,,12.46521713,,,,,,,,3.5
+313,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),9,KU 1414 SR,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2665,,61,135,63,,2,29,25,2.6,,,1.6,0.5,,0.3,,,,,2,,,66.55,,1.15,,15.06305394,,,,,,,,3.5
+314,Streak Resistance Sr Inbred Maize Trial,K9404FNM (NA),10,4058,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,1789,,67,118,49,,2.5,25,24,4.1,,,1.9,,,0.3,,,,,2.3,,,66.25,,1.11,,17.85275055,,,,,,,,3.5
+315,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),1,TZMI 301,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,541,,71,85,25,,2.9,3,5,3.8,,,,,,,,,1.5,3,2,,,65.71,,1.29,,16.14399449,,,,,,,,3.5
+316,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),2,POP 10,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,680,,69,121,38,,2.3,13,6,3.5,,,,,,,,,1.8,2.5,2.3,,,65.2,,1.5,,13.99802516,,,,,,,,3.333333333
+317,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),3,TZI 3 1368,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1642,,72,120,43,,3,17,18,2.6,,,,,,,,,1.8,2,1.5,,,60.33,,,,15.26167741,,,,,,,,10
+318,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),4,TZI 25 9450,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,619,,70,105,28,,3,10,5,3.3,,,,,,,,,1.8,2.8,1,,,57,,,,13.48361514,,,,,,,,10.66666667
+319,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),5,TZMI 101,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1338,,71,133,43,,3,10,11,2.8,,,,,,,,,1.5,2,1.5,,,56.33,,,,17.08852332,,,,,,,,10.66666667
+320,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),6,TZI 15 9071,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1574,,71,136,54,,3,16,13,2.8,,,,,,,,,1,2.3,2.5,,,59,,,,17.37661021,,,,,,,,10.66666667
+321,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),7,TZI 18 4001,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,932,,74,105,36,,3,15,12,3.3,,,,,,,,,1.5,1.8,2.5,,,58.67,,,,18.08146066,,,,,,,,10
+322,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),8,KU 1414 SR/SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1465,,70,131,55,,2.4,19,16,2.9,,,,,,,,,1,2.3,1.5,,,62.67,,,,16.25806126,,,,,,,,10
+323,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),9,KU 1414 SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1709,,72,130,60,,2.9,20,17,2.9,,,,,,,,,1,2,1,,,57.67,,,,17.64740605,,,,,,,,10.33333333
+324,Streak Resistance Sr Inbred Maize Trial,K9404KBM (NA),10,4058,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,541,,80,113,43,,2.8,8,5,3.8,,,,,,,,,1,2,1.8,,,57,,,,16.69390771,,,,,,,,9
+325,Drought Tolerance Maize Trial,K9406FNM (NA),1,DT SR Y-1,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,4075,,54,168,76,,2,38,36,3,,,2.6,1.8,,2.8,,0.8,,,,,,64,,,,18.16666667,,,,,,,,16
+326,Drought Tolerance Maize Trial,K9406FNM (NA),2,DT SR Y-2A,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,3251,,56,173,83,,2.5,39,33,3.3,,,3.6,1.3,,2,,,,,,,,63.67,,,,17.53333333,,,,,,,,18.33333333
+327,Drought Tolerance Maize Trial,K9406FNM (NA),3,DT SR Y-3,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,3771,,56,188,100,,2.8,40,34,3.1,,,3,1.5,,5.3,,0.8,,,,,,63.33,,,,,,,,,,,,18
+328,Drought Tolerance Maize Trial,K9406FNM (NA),4,DT SR W-2,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2939,,54,164,80,,2.5,39,30,3.4,,,3.6,0.8,,5,,1,,,,,,61.67,,,,,,,,,,,,18
+329,Drought Tolerance Maize Trial,K9406FNM (NA),5,DT SR W-3,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,4194,,53,182,96,,2.3,40,36,2.9,,,2.6,2,,5.3,,0.3,,,,,,64.33,,,,,,,,,,,,19.33333333
+330,Drought Tolerance Maize Trial,K9406FNM (NA),6,TUXPENO SEQUIA,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,4910,,56,163,74,,1.8,39,37,2.4,,,3.1,1.5,,0.8,,0.8,,,,,,63.67,,,,,,,,,,,,17.33333333
+331,Drought Tolerance Maize Trial,K9406FNM (NA),7,KAMBOINSE 88 POOL 16,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,3488,,54,176,92,,2.3,38,32,2.5,,,2.4,0.8,,3.5,,0.5,,,,,,64.33,,,,,,,,,,,,18
+332,Drought Tolerance Maize Trial,K9406FNM (NA),8,CHECK 1,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,3147,,48,163,73,,2.8,40,36,2.9,,,1.8,2,,7,,,,,,,,61.33,,,,,,,,,,,,16
+333,Drought Tolerance Maize Trial,K9406FNM (NA),9,CHECK 2,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1994,2113,,54,172,87,,2.8,38,30,3.4,,,2.6,4,,10.5,,0.3,,,,,,60.67,,,,,,,,,,,,21.74928222
+334,Drought Tolerance Maize Trial,K9406KBM (NA),1,DT SR Y-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,2735,,59,141,65,,3,27,27,2.6,,,2,4.3,,0.5,,0.3,1.3,1.8,,,,60.29,,,,13.34259698,,,,,,,,
+335,Drought Tolerance Maize Trial,K9406KBM (NA),2,DT SR Y-2A,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,2617,,60,148,61,,3,37,34,2.8,,,1.8,5,,1,,,1,1.5,,,,63.36,,,,13.21301967,,,,,,,,
+336,Drought Tolerance Maize Trial,K9406KBM (NA),3,DT SR Y-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,3026,,59,139,68,,3,28,29,2.3,,,2.3,6.3,,0.8,,,1.3,1.5,,,,66.86,,,,13.34199668,,,,,,,,
+337,Drought Tolerance Maize Trial,K9406KBM (NA),4,DT SR W-2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,3551,,55,160,71,,3,32,30,2.6,,,2,5,,1.3,,,1.5,1.5,,,,62.22,,,,11.5884815,,,,,,,,
+338,Drought Tolerance Maize Trial,K9406KBM (NA),5,DT SR W-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,4023,,54,159,78,,2.5,34,32,2,,,2.8,0.8,,0.3,,,1.3,1,,,,62.77,,,,15.6,,,,,,,,
+339,Drought Tolerance Maize Trial,K9406KBM (NA),6,TUXPENO SEQUIA,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1846,,59,148,73,,3.5,24,22,3.4,,,1.8,13,,0.8,,0.8,1,1.3,,,,63.88,,,,13.53333333,,,,,,,,
+340,Drought Tolerance Maize Trial,K9406KBM (NA),7,KAMBOINSE 88 POOL 16,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,2886,,53,144,69,,2.8,31,31,2.5,,,1.8,7.3,,0.8,,0.5,1,1.3,,,,62.38,,,,15.03333333,,,,,,,,
+341,Drought Tolerance Maize Trial,K9406KBM (NA),8,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1354,,53,125,50,,4,33,30,4,,,1.8,6,,2.3,,1,1,1,,,,62.12,,,,17.3,,,,,,,,
+342,Drought Tolerance Maize Trial,K9406KBM (NA),9,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,2997,,56,149,73,,3.3,34,35,2.9,,,1.3,8.3,,0.8,,0.3,1.5,1.8,,,,61.86,,,,18.6,,,,,,,,
+343,Drought Tolerance Maize Trial,K9406SRM (NA),1,DT SR Y-1,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,3399,,60,151,53,,2.3,36,33,1.8,,,2.5,5,,,,1,,,,,,77.06,,2,,,,,,,,,,21.75090177
+344,Drought Tolerance Maize Trial,K9406SRM (NA),2,DT SR Y-2A,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,2487,,60,153,59,,2.3,34,27,1.8,,,3.3,5,,1,,1,,,,,,74.12,,2.33,,,,,,,,,,20.88225703
+345,Drought Tolerance Maize Trial,K9406SRM (NA),3,DT SR Y-3,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,3008,,61,161,61,,2.3,35,29,1.6,,,3,8,,1,,0.8,,,,,,73.74,,1.33,,,,,,,,,,20.59220213
+346,Drought Tolerance Maize Trial,K9406SRM (NA),4,DT SR W-2,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,3527,,59,146,54,,2.3,36,33,1.9,,,2.8,5,,,,2.3,,,,,,69.22,,1.33,,,,,,,,,,21.60674364
+347,Drought Tolerance Maize Trial,K9406SRM (NA),5,DT SR W-3,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,2931,,59,149,58,,2.3,37,33,1.8,,,2.8,7,,1,,1.5,,,,,,78.57,,2,,,,,,,,,,21.24661199
+348,Drought Tolerance Maize Trial,K9406SRM (NA),6,TUXPENO SEQUIA,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,2384,,62,144,50,,2.3,34,27,1.9,,,2.8,14,,,,2.8,,,,,,70.79,,2.33,,,,,,,,,,18.96960886
+349,Drought Tolerance Maize Trial,K9406SRM (NA),7,KAMBOINSE 88 POOL 16,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,2753,,57,141,54,,2.5,37,32,1.6,,,2.3,9,,,,0.8,,,,,,76.55,,2,,,,,,,,,,16.71525944
+350,Drought Tolerance Maize Trial,K9406SRM (NA),8,CHECK 1,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,2663,,58,148,59,,2.5,35,31,1.6,,,3.5,6,,,,0.8,,,,,,70.72,,2,,,,,,,,,,19.98583652
+351,Drought Tolerance Maize Trial,K9406SRM (NA),9,CHECK 2,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1994,2486,,56,143,50,,2.5,35,31,1.9,,,2.8,9,,,,1.5,,,,,,73.96,,1.67,,,,,,,,,,18.58914691
+352,Evt-Emsr (White),KM9405KB (NA),1,CM EARLY W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,1473,,63,139,60,,4,31,20,3.6,,,1.8,3,,0.3,,,1.8,1.5,,,,84.1,,,,9.989668593,,,,,,,,14
+353,Evt-Emsr (White),KM9405KB (NA),2,WAMCO TZEMSR W-F,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,4328,,52,159,83,,2.5,39,39,1.8,,,2,3.5,,1.3,,,1.3,1.5,,,,86.12,,,,11.09986381,,,,,,,,6
+354,Evt-Emsr (White),KM9405KB (NA),3,WAMCO TZEMSR W-D,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,3430,,55,150,75,,3,42,38,2.5,,,1.8,4.5,,0.8,,,1,1.3,,,,84.76,,,,10.26941632,,,,,,,,17
+355,Evt-Emsr (White),KM9405KB (NA),4,BAGAUDA TZEMSR DT W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,2575,,56,143,68,,3.5,41,35,2.9,,,1.8,10.3,,1.5,,,1.3,1.3,,,,85.9,,,,9.797882874,,,,,,,,12
+356,Evt-Emsr (White),KM9405KB (NA),5,BAGAUDA TZEMSR DT W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,5003,,53,164,84,,2.5,40,41,2,,,2.5,2.3,,0.3,,,1.3,1.8,,,,84.79,,,,10.44469926,,,,,,,,12.5
+357,Evt-Emsr (White),KM9405KB (NA),6,ACR TZEMSR W-D,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,3293,,55,154,83,,3,41,38,2.9,,,1.8,5,,1,,,1,1,,,,89.2,,,,10.5340817,,,,,,,,15.5
+358,Evt-Emsr (White),KM9405KB (NA),7,ACR TZEMSR W-F,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,4037,,53,149,74,,2.8,41,41,2.4,,,2.3,5.3,,0.5,,,1,1.5,,,,81.51,,,,10.50745813,,,,,,,,15
+359,Evt-Emsr (White),KM9405KB (NA),8,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,2212,,56,153,73,,3,29,28,3.1,,,1.8,2.8,,1,,,1,1.3,,,,80.79,,,,11.76941632,,,,,,,,12.5
+360,Evt-Emsr (White),KM9405KB (NA),9,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1994,2774,,53,130,54,,3.5,35,34,2.6,,,1.3,5.3,,1.3,,,1.3,1,,,,80.3,,,,10.58608407,,,,,,,,12.5
+361,Drought Tolerance Maize Trial,K9506FN,1,DT SR Y-1,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,1731.75,,60,145.75,65.5,,3,23.25,21,2.63,,,1.25,2,,0.75,,0.75,,,,,,57,,,,9.950087593,,,,,,,,37.86091892
+362,Drought Tolerance Maize Trial,K9506FN,2,DT SR Y-2A,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,1596.29,,60.5,151,67.25,,2.5,21.25,19.25,3,,,2,0.5,,0.75,,1.75,,,,,,57.01,,,,11.21143145,,,,,,,,38.53140324
+363,Drought Tolerance Maize Trial,K9506FN,3,DT SR Y-3,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,1768.01,,61.5,152.5,71.25,,2.5,25.5,22.25,2.75,,,1,2.75,,1.25,,0.75,,,,,,57.01,,,,9.813561578,,,,,,,,35.32087279
+364,Drought Tolerance Maize Trial,K9506FN,4,DT SR W-2,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,2696.61,,60,162.25,74.25,,2,31,29,2.25,,,2.25,1.5,,1,,0.75,,,,,,57.99,,,,7.459541223,,,,,,,,34.46537994
+365,Drought Tolerance Maize Trial,K9506FN,5,DT SR W-3,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,2805.98,,60.25,171,81.25,,2.5,33.75,31,2,,,1.25,0.5,,1.5,,1.5,,,,,,56.99,,,,9.65761418,,,,,,,,25.55029742
+366,Drought Tolerance Maize Trial,K9506FN,6,TUXPENO SEQUIA,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,2735.26,,62.25,167,72.5,,2,30.25,29.25,2.38,,,1,1.5,,,,,,,,,,57.34,,,,11.40776398,,,,,,,,39.77600144
+367,Drought Tolerance Maize Trial,K9506FN,7,KAMBOINSE 88 POOL 16 DT,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,2845.91,,54.75,165,80.75,,1.75,34.75,28.25,1.75,,,0.75,3.25,,0.5,,0.25,,,,,,56.67,,,,11.52563156,,,,,,,,38.88041393
+368,Drought Tolerance Maize Trial,K9506FN,8,CHECK 1,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,2686.23,,52.75,144,61.25,,2.5,35,34.25,2.13,,,2.25,1.25,,2.75,,0.5,,,,,,56.98,,,,7.708238764,,,,,,,,35.13094198
+369,Drought Tolerance Maize Trial,K9506FN,9,CHECK 2,NIGERIA,FADA,,-0.35,12.07,Dry Savanna,1995,2978.07,,61.25,172.5,85.25,,2,39,33,2.13,,,1,2.75,,1.5,,0.5,,,,,,57.66,,,,10.28631401,,,,,,,,42.4247815
+370,Drought Tolerance Maize Trial,K9506KB,1,DT SR Y-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,2266.51,,54.75,147.5,75,,3.75,29.75,27,2.75,,,3,4.75,,1,,,,,,,,57,,,,10.89506402,,,,,,,,44.19696529
+371,Drought Tolerance Maize Trial,K9506KB,2,DT SR Y-2A,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,1902.3,,54.5,148.75,70,,3,15.25,17.5,3,,,1.5,1,,,,,,,,,,56.34,,,,10.4625371,,,,,,,,30.58496601
+372,Drought Tolerance Maize Trial,K9506KB,3,DT SR Y-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,1738.14,,57.5,160,76.25,,3.25,20.25,19.75,3,,,1.25,7,,0.25,,,,,,,,57.67,,,,12.43095396,,,,,,,,47.90423039
+373,Drought Tolerance Maize Trial,K9506KB,4,DT SR W-2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,3341.53,,52.75,161.25,90,,2.5,24.25,23,2,,,1.75,6,,0.25,,,,,,,,57.01,,,,11.82055032,,,,,,,,40.52869021
+374,Drought Tolerance Maize Trial,K9506KB,5,DT SR W-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,2979.95,,56,160,81.25,,3,30,28.75,3,,,2.25,0.25,,0.5,,,,,,,,56.67,,,,10.96070719,,,,,,,,45.02703328
+375,Drought Tolerance Maize Trial,K9506KB,6,TUXPENO SEQUIA,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,3615.89,,58.5,156.25,80,,2.25,25.75,25.75,1.75,,,1,1.75,,0.75,,,,,,,,57,,,,11.89883913,,,,,,,,44.04652829
+376,Drought Tolerance Maize Trial,K9506KB,7,KAMBOINSE 88 POOL 16 DT,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,4194.06,,49,165,92.5,,2.25,35,34.75,1.75,,,1,3.75,,2.25,,,,,,,,57.68,,,,10.82440516,,,,,,,,32.69048312
+377,Drought Tolerance Maize Trial,K9506KB,8,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,3362.7,,48,147.5,73.75,,2.25,34,31.5,2,,,1,10,,2.5,,,,,,,,56.34,,,,12.41874249,,,,,,,,44.51190823
+378,Drought Tolerance Maize Trial,K9506KB,9,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1995,3774.29,,53.75,156.25,86.25,,2.13,33.25,31.5,1.75,,,1,12.25,,0.75,,,,,,,,60,,,,14.21655812,,,,,,,,37.91030179
+379,Drought Tolerance Maize Trial,M9615KBM,1,DT SR Y-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,3525.46,,53.75,147.5,77.5,,2.38,28.5,29,2.5,,,1.5,3.75,,1,,0.5,,,,,,79.01,,,,14.43929708,,,,,,,,5.456882524
+380,Drought Tolerance Maize Trial,M9615KBM,2,DT SR Y-2A,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,2334.23,,51.25,168.75,72.5,,3,24.5,21,2.63,,,1,8,,0.75,,0.25,,,,,,56.5,,,,12.15917059,,,,,,,,35
+381,Drought Tolerance Maize Trial,M9615KBM,3,DT SR Y-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,2845.28,,52.75,172.5,81.25,,2.75,18.75,21,2.5,,,1.25,2,,,,,,,,,,58.5,,,,12.29619424,,,,,,,,37.75
+382,Drought Tolerance Maize Trial,M9615KBM,4,DT SR W-2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,3918.34,,50.75,170,80,,2.5,33.75,33,2.38,,,3,4.25,,0.5,,0.5,,,,,,60.75,,,,13.13492258,,,,,,,,32.75
+383,Drought Tolerance Maize Trial,M9615KBM,5,DT SR W-3,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,5027.65,,52.5,153.75,77.5,,2.13,33.25,36,2,,,2.25,1,,,,,,,,,,61,,,,17.5,,,,,,,,44
+384,Drought Tolerance Maize Trial,M9615KBM,6,TUXPENO SEQUIA,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,2489.83,,53.5,127.5,67.5,,2.88,26.5,24,3.13,,,,7.75,,1.25,,0.75,,,,,,64,,,,17.175,,,,,,,,43.5
+385,Drought Tolerance Maize Trial,M9615KBM,7,KAMBOINSE 88 POOL 16 DT,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,3170.55,,50.75,143.75,72.5,,2.88,35,30.5,2.88,,,2,8.25,,2.25,,1.25,,,,,,60,,,,17,,,,,,,,44
+386,Drought Tolerance Maize Trial,M9615KBM,8,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,2766.73,,52.25,167.5,80,,3,28.25,25.75,2.63,,,0.5,3.75,,0.5,,,,,,,,62,,,,12.925,,,,,,,,44
+387,Drought Tolerance Maize Trial,M9615KBM,9,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1996,2517.59,,52.25,145,63.75,,2.88,23.5,26.25,3,,,0.75,3,,0.75,,,,,,,,60.5,,,,12.85,,,,,,,,39
+388,Drought Tolerance Maize Trial,M9615KOM,1,DT SR Y-1,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1274.27,,62.5,162.5,73.75,,2.75,31,26.75,2.5,,,1,1.25,,1.25,,,,,,,,61,,,,13.35,,,,,,,,35
+389,Drought Tolerance Maize Trial,M9615KOM,2,DT SR Y-2A,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1141.29,,61.5,153.75,62.5,,2.88,30,25,2.75,,,1.75,1.25,,0.75,,0.5,,,,,,60.5,,,,13,,,,,,,,41.75
+390,Drought Tolerance Maize Trial,M9615KOM,3,DT SR Y-3,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1061.3,,62.5,162.5,68.75,,2.75,32.75,26.75,2.5,,,1.5,1,,2.25,,,,,,,,63.75,,,,13.125,,,,,,,,37.5
+391,Drought Tolerance Maize Trial,M9615KOM,4,DT SR W-2,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1338.05,,59.5,150,61.25,,3,39,33,2.75,,,3.5,0.75,,1.25,,0.75,,,,,,58.5,,,,12.85,,,,,,,,40
+392,Drought Tolerance Maize Trial,M9615KOM,5,DT SR W-3,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1341.16,,61.75,160,66.25,,2.88,40.5,34.25,2.5,,,3.75,1.25,,1.5,,0.25,,,,,,60.5,,,,12.7,,,,,,,,38.5
+393,Drought Tolerance Maize Trial,M9615KOM,6,TUXPENO SEQUIA,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1639.02,,61.25,159.25,68.25,,2.75,39.25,32.75,2.38,,,0.75,2,,0.75,,0.5,,,,,,60,,,,12.625,,,,,,,,39
+394,Drought Tolerance Maize Trial,M9615KOM,7,KAMBOINSE 88 POOL 16 DT,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1625.13,,58,151.25,62.5,,2.63,37.5,33.75,2.63,,,0.75,2.25,,0.5,,,,,,,,60.25,,,,13.175,,,,,,,,40
+395,Drought Tolerance Maize Trial,M9615KOM,8,CHECK 1,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,970.79,,62.75,148.75,63.75,,3.13,30,19.5,2.63,,,1,0.75,,1.25,,0.75,,,,,,60.75,,,,13.35,,,,,,,,39.25
+396,Drought Tolerance Maize Trial,M9615KOM,9,CHECK 2,NIGERIA,KOUARE,,0.35,12.07,Dry Savanna,1996,1326.41,,60.5,151.25,61.25,,2.38,29.5,25.75,3,,,1,1.25,,0.5,,0.25,,,,,,55.25,,,,13.1,,,,,,,,38
+397,Drought Tolerance Maize Trial,M9615SRM,1,DT SR Y-1,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,3669.11,,58.5,172.5,60,,2.5,24.75,22.25,2.25,,,2.25,9.75,,10.25,,1.25,,,,,,,,,,,,,,,,,,
+398,Drought Tolerance Maize Trial,M9615SRM,2,DT SR Y-2A,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,3596.03,,59.25,171.25,50,,2.75,25.25,24,2.25,,,2.5,10.5,,8.25,,2,,,,,,,,,,,,,,,,,,
+399,Drought Tolerance Maize Trial,M9615SRM,3,DT SR Y-3,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,3573.27,,61,172.5,63.75,,2.5,26.25,24.5,2.5,,,2.5,14,,8.75,,1.25,,,,,,,,,,,,,,,,,,
+400,Drought Tolerance Maize Trial,M9615SRM,4,DT SR W-2,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,3658.96,,60.75,181.25,63.75,,2.5,25.75,24.25,2.25,,,2.75,13,,7,,1,,,,,,,,,,,,,,,,,,
+401,Drought Tolerance Maize Trial,M9615SRM,5,DT SR W-3,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,4131.22,,60.25,167.5,58.75,,2.25,29.75,27,2.75,,,2.75,15.25,,9.5,,1,,,,,,,,,,,,,,,,,,
+402,Drought Tolerance Maize Trial,M9615SRM,6,TUXPENO SEQUIA,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,4805.49,,62.75,143.75,40,,3,33,30.25,3,,,2.25,17,,7.5,,2,,,,,,,,,,,,,,,,,,
+403,Drought Tolerance Maize Trial,M9615SRM,7,KAMBOINSE 88 POOL 16 DT,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,3489.69,,58.25,166.25,47.5,,3,24.25,22.75,2.5,,,2.75,12.5,,5.25,,1,,,,,,,,,,,,,,,,,,
+404,Drought Tolerance Maize Trial,M9615SRM,8,CHECK 1,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,4140.29,,57.75,163.75,55,,2.5,29.25,26.25,2.25,,,2.5,14.25,,12.75,,1.75,,,,,,,,,,,,,,,,,,
+405,Drought Tolerance Maize Trial,M9615SRM,9,CHECK 2,NIGERIA,SARIA,,-2.17,12.25,Dry Savanna,1996,3945.12,,57,182.5,57.5,,2.5,24,23,2.5,,,2.5,13.75,,9,,0.75,,,,,,,,,,,,,,,,,,
+406,Evt-Isr (White),M9801FAM,1,TZL COMP3X4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3733.92,,63.75,209.25,100,,2.25,38.5,37.75,1.75,,,1.25,1.25,,1,,1.25,,2.25,2,,,,,,,,,,,,,,,
+407,Evt-Isr (White),M9801FAM,2,AK 93 DMR-LSR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3758.17,,63.75,210.5,99,,2.5,38.5,36.5,2.5,,,1.25,3.25,,1.25,,2.25,,2.75,2,,,,,,,,,,,,,,,
+408,Evt-Isr (White),M9801FAM,3,TZL COMP4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3224.75,,64,217.5,105,,2,39.25,38,2,,,0.75,3.5,,0.75,,1.5,,2.5,1.3,,,,,,,,,,,,,,,
+409,Evt-Isr (White),M9801FAM,4,BOUAKE 9222 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3952.14,,63.25,204.5,100,,2.25,38.75,37.5,2.25,,,1,1.5,,1.75,,2.25,,2.75,1.8,,,,,,,,,,,,,,,
+410,Evt-Isr (White),M9801FAM,5,S 9325 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3491.46,,62.75,174.25,79,,2.5,33.5,34.75,2.25,,,2.25,4.75,,2.5,,2.75,,2.75,2.5,,,,,,,,,,,,,,,
+411,Evt-Isr (White),M9801FAM,6,SINEMATIALI 9043,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4340.08,,63.5,214.75,101,,1.5,39.75,40.5,2.25,,,3,0.5,,1,,2.25,,2.75,2,,,,,,,,,,,,,,,
+412,Evt-Isr (White),M9801FAM,7,AK 9443-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4606.79,,63,220,107.75,,2.75,35.5,36.75,2,,,2.25,1.5,,1.75,,2,,2,2.8,,,,,,,,,,,,,,,
+413,Evt-Isr (White),M9801FAM,8,TZL COMP4 DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4049.12,,64.75,214.75,102.25,,2.5,42,37.75,2,,,0.75,3.25,,1.25,,2.5,,2.25,1.5,,,,,,,,,,,,,,,
+414,Evt-Isr (White),M9801FAM,9,AK 9522-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3709.68,,63.75,215.75,98.25,,2,39.75,40.25,2.5,,,2.5,2,,1,,2.75,,2,2.5,,,,,,,,,,,,,,,
+415,Evt-Isr (White),M9801FAM,10,CMS 8501,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3394.48,,64.25,217.75,105.25,,3.25,31.25,36.25,2.5,,,2.25,2.5,,3.75,,4.25,,2.5,2,,,,,,,,,,,,,,,
+416,Evt-Isr (White),M9801FAM,11,OBA SUPER 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3515.71,,62.5,209.75,96,,1.5,40.5,39.25,2,,,1,1.5,,1,,1.5,,3,2.3,,,,,,,,,,,,,,,
+417,Evt-Isr (White),M9801FAM,12,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3927.89,,63.25,180.25,88.5,,2.5,31.5,30.25,3,,,1.75,2.75,,1.75,,3,,2.75,2.3,,,,,,,,,,,,,,,
+418,Evt-Isr (White),M9801FAM,13,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4194.6,,64.75,195.5,90.75,,2.75,37,37,2.75,,,1.75,5.5,,0.75,,5.75,,2.25,1.8,,,,,,,,,,,,,,,
+419,Evt-Lsr (Yellow),M9802FAM,1,AK 9528-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3879.4,,63,225.5,111,,2.75,44.5,43.25,2.25,,,4.75,5.25,,1,,9,,1.75,1,,,,,,,,,,,,,,,
+420,Evt-Lsr (Yellow),M9802FAM,2,IK 91 TZL COMP3 Y C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4582.54,,60.5,220.13,117.25,,1.75,44.25,47.75,2,,,2.5,5,,0.25,,6,,1.75,1.3,,,,,,,,,,,,,,,
+421,Evt-Lsr (Yellow),M9802FAM,3,ACR 91 SUWAN 1 SR C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3830.91,,61,211.75,111.13,,2.5,45.75,43.25,2.25,,,2.5,4.5,,1,,7.25,,1.75,1.3,,,,,,,,,,,,,,,
+422,Evt-Lsr (Yellow),M9802FAM,4,TZB SR SG Y,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3273.24,,62.5,213.63,111.88,,2.75,46.5,44,3,,,7,4.5,,0.5,,13.5,,2,1.3,,,,,,,,,,,,,,,
+423,Evt-Lsr (Yellow),M9802FAM,5,IKENNE 88 TZSR Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3709.68,,61.5,213.88,113.13,,3,45.75,47.25,2.25,,,5.25,4.5,,0.25,,10,,2,1.8,,,,,,,,,,,,,,,
+424,Evt-Lsr (Yellow),M9802FAM,6,OBA SUPER 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,5479.65,,60.5,213.88,115.13,,1.5,47,47.25,2,,,3.25,1.5,,0.25,,4,,1.75,1,,,,,,,,,,,,,,,
+425,Evt-Lsr (Yellow),M9802FAM,7,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,2715.58,,61.25,183.13,97.25,,2.75,44.25,40.25,3,,,4,2.25,,2.5,,10.25,,2,1.5,,,,,,,,,,,,,,,
+426,Evt-Lsr (Yellow),M9802FAM,8,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,2109.42,,64.25,187.63,90.38,,3.25,43.25,35.25,3.5,,,1.5,2.25,,1,,12.25,,2,1.3,,,,,,,,,,,,,,,
+427,Evt-Lsr (Yellow),M9802KBM,1,AK 9528-DMRSR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4240.44,,60.75,204,103.75,,2.38,35.5,32,2.5,,,2.75,9.75,,0.25,,,,,,,,,,,,,,,,,,,,
+428,Evt-Lsr (Yellow),M9802KBM,2,IK 91 TZL COMP3 Y C1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3701.32,,58.75,188.5,90.5,,2.75,22.75,24,2.25,,,2.88,9.5,,0.25,,,,,,,,,,,,,,,,,,,,
+429,Evt-Lsr (Yellow),M9802KBM,3,ACR 91 SUWAN 1 SR C1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4287.14,,59,202.5,104.5,,2.38,30,29,2.38,,,2.75,9.25,,0.75,,,,,,,,,,,,,,,,,,,,
+430,Evt-Lsr (Yellow),M9802KBM,4,TZB SR SG Y,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4834.96,,60.75,190.75,96.25,,2.5,33,30.25,2.38,,,3,5.25,,0.75,,,,,,,,,,,,,,,,,,,,
+431,Evt-Lsr (Yellow),M9802KBM,5,IKENNE 88 TZSR Y-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4924.78,,59.75,208.25,105.75,,2.13,34.25,33.5,2.38,,,2.63,7.5,,0.75,,,,,,,,,,,,,,,,,,,,
+432,Evt-Lsr (Yellow),M9802KBM,6,OBA SUPER 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4777.8,,59.25,195.75,100,,2.25,34.25,32.75,2.25,,,2.5,8.5,,0.5,,,,,,,,,,,,,,,,,,,,
+433,Evt-Lsr (Yellow),M9802KBM,7,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4282.63,,58.75,191.25,94.75,,2.5,30,30.5,2.63,,,3,10,,1,,,,,,,,,,,,,,,,,,,,
+434,Evt-Lsr (Yellow),M9802KBM,8,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4261.21,,60,192,100.75,,2.88,34.5,34.75,2.75,,,3,13.5,,1.5,,,,,,,,,,,,,,,,,,,,
+435,Evt-Isr,M9803FAM,1,SINEMATIALI 93 TZUT SR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,2885.3,,60.5,213.75,97.38,,2.5,37.25,30.25,1.75,,,1.75,10.75,,3,,2.75,,2,1.5,,,,,,,,,,,,,,,
+436,Evt-Isr,M9803FAM,2,EV 8744 SR C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,2933.8,,60,204.88,100.13,,1.5,41,43.25,1.75,,,4.75,5.75,,1,,2,,2.75,2.3,,,,,,,,,,,,,,,
+437,Evt-Isr,M9803FAM,3,SINEMATIALI 9449 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3806.66,,61.25,156.25,60.38,,3,36.75,32.5,3.5,,,2.75,14.5,,0.5,,5.5,,2,1,,,,,,,,,,,,,,,
+438,Evt-Isr,M9803FAM,4,IWD STR CO,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3661.18,,60,208.38,100.75,,2,39.25,38.75,1.75,,,3.75,9.5,,1,,2.75,,2.25,1.8,,,,,,,,,,,,,,,
+439,Evt-Isr,M9803FAM,5,IWF C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3976.39,,57,201,96.13,,1.5,42,43.25,2,,,2.5,8,,0.75,,2.25,,2.25,1.8,,,,,,,,,,,,,,,
+440,Evt-Isr,M9803FAM,6,IYFD C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3952.14,,58,193,92.38,,1.75,32.5,32.75,1.5,,,2,10.5,,0.75,,1,,2.25,1.8,,,,,,,,,,,,,,,
+441,Evt-Isr,M9803FAM,7,ACR 9449 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3830.91,,57.5,155,62.63,,1.75,35,34.75,2.5,,,4.5,12.25,,1.25,,2.75,,2,1.5,,,,,,,,,,,,,,,
+442,Evt-Isr,M9803FAM,8,BR SYN Y C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3418.72,,61.75,201.88,98.88,,1.25,43.25,42,1.75,,,4.5,7.75,,0.5,,2.75,,1.75,1.5,,,,,,,,,,,,,,,
+443,Evt-Isr,M9803FAM,9,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3127.77,,63,182.63,85.13,,2.25,32.75,31.25,2.5,,,2.75,10,,1.5,,2.25,,2.25,1.8,,,,,,,,,,,,,,,
+444,Evt-Isr,M9803FAM,10,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,2497.36,,67,202.25,101.38,,3.25,40.25,34.25,2.25,,,3.5,6,,0.25,,4.5,,3.25,1.8,,,,,,,,,,,,,,,
+445,Evt-Isr,M9803KBM,1,SINEMATIALI 93 TZUT SR W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3879.4,,56,194,90.75,,2.63,34.5,31.75,2.75,,,2.5,7.75,,1.5,,,,,,,,,,,,,,,,,,,,
+446,Evt-Isr,M9803KBM,2,EV 8744 SR C1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3442.97,,56.5,189,95.75,,2.88,31.75,27.75,3,,,2.88,6.25,,1.25,,,,,,,,,,,,,,,,,,,,
+447,Evt-Isr,M9803KBM,3,SINEMATIALI 9449 SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3273.24,,56.75,189.75,94.25,,2.5,31,29.25,2.63,,,3,7.5,,0.75,,,,,,,,,,,,,,,,,,,,
+448,Evt-Isr,M9803KBM,4,IWD STR CO,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4024.88,,55.5,177.75,86.5,,3,30.5,28,2.75,,,2.75,7.25,,1.5,,,,,,,,,,,,,,,,,,,,
+449,Evt-Isr,M9803KBM,5,IWF C0,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3661.18,,56.25,185,89.75,,2.63,34,31,2.75,,,2.75,7.5,,,,,,,,,,,,,,,,,,,,,,
+450,Evt-Isr,M9803KBM,6,IYFD C0,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3758.17,,58,177.5,84.75,,2.75,30,28.75,3,,,2.88,4.5,,1,,,,,,,,,,,,,,,,,,,,
+451,Evt-Isr,M9803KBM,7,ACR 9449 SR,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3370.23,,55,188.25,90.25,,3,30,28.75,2.88,,,2.75,7.5,,1.25,,,,,,,,,,,,,,,,,,,,
+452,Evt-Isr,M9803KBM,8,BR SYN Y C1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3273.24,,55.25,179.5,84,,2.75,27.75,26.75,3.13,,,2.88,7.25,,0.5,,,,,,,,,,,,,,,,,,,,
+453,Evt-Isr,M9803KBM,9,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3079.27,,58.5,205.75,103,,2.75,32.75,29.5,2.88,,,2.5,13,,1.75,,,,,,,,,,,,,,,,,,,,
+454,Evt-Isr,M9803KBM,10,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3758.17,,55.25,202.25,99.5,,2.63,33.75,31.5,2.75,,,2.75,6.5,,1.75,,,,,,,,,,,,,,,,,,,,
+455,International Hybrid Maize Trial (White),M9806FAM,1,9031-29,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3588.45,,64.25,231.38,108.25,,2.25,40.25,37.75,2.5,,,4,1.5,,,,7.75,,2.25,2.5,,,,,,,,,,,,,,,
+456,International Hybrid Maize Trial (White),M9806FAM,2,9114-12,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3418.72,,62.25,234.13,109.38,,1.75,41.25,37.5,2.5,,,0.75,4.25,,0.75,,3.75,,2.25,1.5,,,,,,,,,,,,,,,
+457,International Hybrid Maize Trial (White),M9806FAM,3,9712-16,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4437.06,,60.75,244.25,125.63,,2.5,43.25,39.75,2.75,,,2.5,2.25,,1,,4.5,,2,1,,,,,,,,,,,,,,,
+458,International Hybrid Maize Trial (White),M9806FAM,4,9712-17,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3709.68,,63.25,236,113.63,,2.25,41.75,38.75,2.75,,,3.25,3.25,,1,,4.25,,2.5,1.8,,,,,,,,,,,,,,,
+459,International Hybrid Maize Trial (White),M9806FAM,5,9712-19,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3806.66,,62.75,233.63,119.5,,2.5,40,37.25,1.75,,,3.25,10.5,,0.75,,4,,2.25,2.8,,,,,,,,,,,,,,,
+460,International Hybrid Maize Trial (White),M9806FAM,6,9712-13,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4606.79,,60,232.75,116.88,,2,43,41.25,2,,,2.25,4.5,,0.5,,5.5,,2.5,2.5,,,,,,,,,,,,,,,
+461,International Hybrid Maize Trial (White),M9806FAM,7,OBA SUPER 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,5140.21,,61.25,222.75,107,,2,41.75,40.5,1.25,,,2.75,0.75,,0.5,,3,,2,1.3,,,,,,,,,,,,,,,
+462,International Hybrid Maize Trial (White),M9806FAM,8,TZL COMP4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4315.83,,63.5,234,116.25,,2,43.25,38,2,,,0.75,3.75,,1,,5,,2,0.8,,,,,,,,,,,,,,,
+463,International Hybrid Maize Trial (White),M9806FAM,9,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3418.72,,62,201.88,94.75,,1.5,41,37.5,3,,,2,4.25,,1,,6.5,,2,1.5,,,,,,,,,,,,,,,
+464,International Hybrid Maize Trial (White),M9806FAM,10,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,2570.1,,68.75,218,109.88,,2.25,43.75,38,3,,,4,2,,0.75,,9.25,,3,3,,,,,,,,,,,,,,,
+465,International Hybrid Maize Trial (Yellow),M9807BOM,1,2202 x 2110,NIGERIA,BONI,,3,11,Dry Savanna,1998,1876.09,,53.25,233,92.75,,3.25,38.75,25.75,4.5,,,2,,,2.25,,3.75,1.75,,4,,,,,,,,,,,,,,,
+466,International Hybrid Maize Trial (Yellow),M9807BOM,2,2408 x 2110,NIGERIA,BONI,,3,11,Dry Savanna,1998,3379.81,,49.25,229.5,119.75,,2.5,37,31.25,3,,,1.25,,,2,,3.25,1.5,,3.8,,,,,,,,,,,,,,,
+467,International Hybrid Maize Trial (Yellow),M9807BOM,3,2311 x 2402,NIGERIA,BONI,,3,11,Dry Savanna,1998,3522.5,,52.25,244,101,,2.75,38,31,3.5,,,1.75,,,3.25,,4,1.75,,4,,,,,,,,,,,,,,,
+468,International Hybrid Maize Trial (Yellow),M9807BOM,4,2309 x 2402,NIGERIA,BONI,,3,11,Dry Savanna,1998,3625.78,,50.75,207.5,90,,2.25,39.75,34.75,2.75,,,2,,,1.5,,2.5,1,,3.8,,,,,,,,,,,,,,,
+469,International Hybrid Maize Trial (Yellow),M9807BOM,5,2402 x CML 305,NIGERIA,BONI,,3,11,Dry Savanna,1998,3324.36,,53,235.5,105,,1.5,39.25,30,2.75,,,1.5,,,2.25,,3,1.25,,3.5,,,,,,,,,,,,,,,
+470,International Hybrid Maize Trial (Yellow),M9807BOM,6,OBA SUPER 2,NIGERIA,BONI,,3,11,Dry Savanna,1998,3291.93,,53.75,258.5,145.25,,2.25,41.5,31.25,2.75,,,1,,,2,,2.75,2,,3.3,,,,,,,,,,,,,,,
+471,International Hybrid Maize Trial (Yellow),M9807BOM,7,IKENNE TZSR Y-1,NIGERIA,BONI,,3,11,Dry Savanna,1998,2867.56,,53.75,256.5,130,,3,37.75,29.25,3,,,1.25,,,2.75,,2.25,1.25,,3.5,,,,,,,,,,,,,,,
+472,International Hybrid Maize Trial (Yellow),M9807BOM,8,CHECK 1,NIGERIA,BONI,,3,11,Dry Savanna,1998,6131.45,,52.5,226.5,97.75,,1,41.25,38.75,1.25,,,1,,,1,,1.25,1,,2.5,,,,,,,,,,,,,,,
+473,International Hybrid Maize Trial (Yellow),M9807BOM,9,CHECK 2,NIGERIA,BONI,,3,11,Dry Savanna,1998,5404.97,,51,224.25,98.5,,1.5,42.75,39,1.75,,,1.25,,,1,,2.5,1,,2,,,,,,,,,,,,,,,
+474,International Hybrid Maize Trial (Yellow),M9807FAM,1,2202 x 2110,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3079.27,,60.75,200,82.75,,2,41.5,39.25,2.25,,,6.75,6.75,,3.25,,2.5,,2,1.3,,,,,,,,,,,,,,,
+475,International Hybrid Maize Trial (Yellow),M9807FAM,2,2408 x 2110,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3249,,58.75,217,109,,2,41,39.75,2,,,1.75,1,,,,1.25,,2,1.5,,,,,,,,,,,,,,,
+476,International Hybrid Maize Trial (Yellow),M9807FAM,3,2311 x 2402,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3564.2,,60,211,84.25,,2,35.5,34.25,1.5,,,2.25,1.75,,2,,1.25,,3,2,,,,,,,,,,,,,,,
+477,International Hybrid Maize Trial (Yellow),M9807FAM,4,2309 x 2402,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3224.75,,60,169.75,72.75,,1.5,36,30.75,2,,,5.5,5,,5.5,,4.25,,2.5,1.5,,,,,,,,,,,,,,,
+478,International Hybrid Maize Trial (Yellow),M9807FAM,5,2402 x CML 305,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3394.48,,62.25,195.75,89.25,,2.5,39.5,38.75,3.25,,,2,4,,5.5,,5.25,,2,1.3,,,,,,,,,,,,,,,
+479,International Hybrid Maize Trial (Yellow),M9807FAM,6,OBA SUPER 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3442.97,,64.75,199,97.25,,1.75,35.25,32.75,2.25,,,0.25,1.25,,3.75,,5,,2,1.3,,,,,,,,,,,,,,,
+480,International Hybrid Maize Trial (Yellow),M9807FAM,7,IKENNE TZSR Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,4049.12,,63.75,211.25,103.25,,2.5,39.75,35.25,2.5,,,2.25,6.75,,4.25,,4.5,,2.25,1.5,,,,,,,,,,,,,,,
+481,International Hybrid Maize Trial (Yellow),M9807FAM,8,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,3564.2,,66,193.25,87,,2.75,36.25,32.5,3.25,,,1.75,4.5,,5.25,,6.75,,2,1.5,,,,,,,,,,,,,,,
+482,International Hybrid Maize Trial (Yellow),M9807FAM,9,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1998,2812.57,,69.25,213.25,107.5,,2.75,41.25,37.75,3.5,,,3,5.25,,5.5,,9.25,,2.75,1.5,,,,,,,,,,,,,,,
+483,International Mid-Alt Hybrid Maize Trial,M9808KBM,1,9711-5,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4072.17,,60.25,197.75,105.25,,2.75,30.75,30,2.5,,,3.13,7,,1.25,,,,,,,,,,,,,,,,,,,,
+484,International Mid-Alt Hybrid Maize Trial,M9808KBM,2,9711-9,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4187.96,,58.75,193.75,97.25,,2.63,35.5,32.75,2.25,,,3,8.25,,2,,,,,,,,,,,,,,,,,,,,
+485,International Mid-Alt Hybrid Maize Trial,M9808KBM,3,9710-10,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4006.62,,60.25,196,98.75,,2.13,39.75,32.75,3.13,,,3.25,4.5,,0.75,,,,,,,,,,,,,,,,,,,,
+486,International Mid-Alt Hybrid Maize Trial,M9808KBM,4,9718-1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3876.98,,63,199.5,106,,3,35.5,30.5,2.88,,,2.88,8.5,,0.25,,,,,,,,,,,,,,,,,,,,
+487,International Mid-Alt Hybrid Maize Trial,M9808KBM,5,9316-9,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4141.26,,61.25,187.75,96.25,,2.25,38,36.75,2.88,,,3,5.25,,1.25,,,,,,,,,,,,,,,,,,,,
+488,International Mid-Alt Hybrid Maize Trial,M9808KBM,6,9334-21,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4951.83,,62.5,184,107,,2.25,38,35,2.38,,,2.38,5.25,,1,,,,,,,,,,,,,,,,,,,,
+489,International Mid-Alt Hybrid Maize Trial,M9808KBM,7,9322-9,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3738.77,,62.75,186.5,95.25,,2.5,39.25,34.75,3.13,,,2.75,10.25,,0.75,,,,,,,,,,,,,,,,,,,,
+490,International Mid-Alt Hybrid Maize Trial,M9808KBM,8,9333-9B,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4685.15,,62.5,220,113.25,,2.13,36.25,32.5,2.5,,,2.5,3.75,,1,,,,,,,,,,,,,,,,,,,,
+491,International Mid-Alt Hybrid Maize Trial,M9808KBM,9,9423-20,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3472.12,,61.25,185.5,93,,2.63,34.5,33,2.88,,,3.13,4.75,,1.75,,,,,,,,,,,,,,,,,,,,
+492,International Mid-Alt Hybrid Maize Trial,M9808KBM,10,8535-23,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4235.73,,61.75,201.5,105.75,,2.63,38.25,34.75,2.75,,,2.88,11.25,,,,,,,,,,,,,,,,,,,,,,
+493,International Mid-Alt Hybrid Maize Trial,M9808KBM,11,ACR 87 TZMSR W,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,3950.54,,60.5,200.25,101.5,,2.75,39.75,36.75,3,,,3.38,11.5,,1.75,,,,,,,,,,,,,,,,,,,,
+494,International Mid-Alt Hybrid Maize Trial,M9808KBM,12,CHECK 1,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4153.87,,58.5,194.25,95.5,,2.25,35,31.75,2.88,,,3.25,8.5,,0.5,,,,,,,,,,,,,,,,,,,,
+495,International Mid-Alt Hybrid Maize Trial,M9808KBM,13,CHECK 2,NIGERIA,KAMBOINSE,,-1.55,12.5,Dry Savanna,1998,4536.22,,59.75,199.75,107.75,,2.5,39.25,36.5,2.25,,,2.88,10.5,,0.5,,,,,,,,,,,,,,,,,,,,
+496,Evt-Isr (White),M9901FAM,1,TZL COMP3X4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4514,,70,188,104,,2.5,41,38,2.63,,,2,1,,1,,2,1.38,1.88,1.4,,,68,,1,,,,,,,,,,
+497,Evt-Isr (White),M9901FAM,2,ACR 96 DMR-LSR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2880.6,,73,168,75,,2.75,43,35,3.25,,,3,,,,,1,1.13,2.5,1.3,,,70,,1,,,,,,,,,,
+498,Evt-Isr (White),M9901FAM,3,TZL COMP4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3845.14,,68,196,105,,2.38,36,34,2.63,,,2,2,,2,,1,1.13,1.75,1.3,,,67,,1,,,,,,,,,,
+499,Evt-Isr (White),M9901FAM,4,BOUAKE 9222 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3587.59,,68,174,96,,7,41,37,2.63,,,3,4,,1,,1,1.88,2.38,1.4,,,66,,1,,,,,,,,,,
+500,Evt-Isr (White),M9901FAM,5,S 9325 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4338.23,,66,170,86,,2.25,42,39,2.63,,,4,1,,,,2,1.88,2.63,2,,,64,,1,,,,,,,,,,
+501,Evt-Isr (White),M9901FAM,6,SINEMATIALI 9043,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4005.34,,68,183,95,,2.25,42,36,3,,,3,,,,,1,1.25,2.38,1.6,,,67,,1,,,,,,,,,,
+502,Evt-Isr (White),M9901FAM,7,AK 9443-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4319.6,,69,194,94,,2.63,41,39,2.38,,,4,2,,,,2,1.13,2.13,1.8,,,67,,1,,,,,,,,,,
+503,Evt-Isr (White),M9901FAM,8,TZL COMP4 DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4542.81,,68,181,93,,2.38,42,40,2.5,,,2,1,,,,2,1.25,2,1.6,,,66,,1,,,,,,,,,,
+504,Evt-Isr (White),M9901FAM,9,TZL COMP5 C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4654.17,,70,186,103,,2.63,38,31,2.75,,,1,1,,,,2,1.25,2,1.5,,,67,,1,,,,,,,,,,
+505,Evt-Isr (White),M9901FAM,10,AK 9522-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3964.35,,67,185,96,,2.38,43,36,2.63,,,4,2,,,,2,1.5,1.75,1.9,,,66,,1.63,,,,,,,,,,
+506,Evt-Isr (White),M9901FAM,11,CMS 8501,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4647.49,,69,195,111,,2.5,40,37,2.88,,,3,,,1,,1,1.38,2.13,1.3,,,67,,1,,,,,,,,,,
+507,Evt-Isr (White),M9901FAM,12,OBA SUPER 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4822.67,,68,169,84,,2.25,41,38,2.5,,,3,2,,1,,2,1.38,2.38,1.4,,,67,,1.13,,,,,,,,,,
+508,Evt-Isr (White),M9901FAM,13,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3346.87,,66,168,98,,2.75,41,37,3.13,,,5,4,,1,,2,1.5,1.88,1.9,,,64,,1.25,,,,,,,,,,
+509,Evt-Isr (White),M9901FAM,14,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3494.83,,70,165,76,,2.63,40,38,3,,,2,1,,,,1,1.5,2.13,1.5,,,68,,1.13,,,,,,,,,,
+510,Evt-Lsr (Yellow),M9902FAM,1,AK 9528-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2521.61,,71,160,75,,2.63,39,34,2.75,,,9,3,,,,,1.13,1.5,1.6,,,,,1.13,,,,,,,,,,
+511,Evt-Lsr (Yellow),M9902FAM,2,IK 91 TZL COMP3 Y C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2012.44,,75,148,68,,2.88,36,27,2.5,,,8,,,,,,1,1.25,1.8,,,,,1,,,,,,,,,,
+512,Evt-Lsr (Yellow),M9902FAM,3,ACR 91 SUWAN 1 SR C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2788.32,,73,139,80,,2.63,39,31,2.88,,,6,1,,2,,,1,1.5,1.8,,,,,1,,,,,,,,,,
+513,Evt-Lsr (Yellow),M9902FAM,4,TZB SR SG Y,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1721.48,,75,121,54,,3.5,29,22,3.25,,,7,2,,,,,1.25,1.88,1.3,,,,,1.13,,,,,,,,,,
+514,Evt-Lsr (Yellow),M9902FAM,5,TZSR Y-1 C4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2376.13,,71,148,65,,2.63,41,33,3.25,,,5,2,,1,,,1.25,2.13,2.3,,,,,1,,,,,,,,,,
+515,Evt-Lsr (Yellow),M9902FAM,6,OBA SUPER 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3273.24,,70,148,76,,2.13,39,35,2,,,6,,,1,,,1.25,1.25,1.8,,,,,1,,,,,,,,,,
+516,Evt-Lsr (Yellow),M9902FAM,7,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2254.9,,68,144,73,,2.5,39,35,3,,,7,3,,,,,1.13,1.75,1.8,,,,,1,,,,,,,,,,
+517,Evt-Lsr (Yellow),M9902FAM,8,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1866.96,,75,121,51,,2.88,30,26,3.5,,,4,3,,,,,1,1.88,1.3,,,,,1.13,,,,,,,,,,
+518,Evt-Isr,M9903FAM,1,SINEMATIALI 93 TZUT SR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2899.22,,71,160,63,,2.5,37,32,2.75,,,2,3,,,,5,1,2.38,2.1,,,70,,0.75,,,,,,,,,,
+519,Evt-Isr,M9903FAM,2,EV 8744 SR C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2445.82,,71,145,71,,2.75,34,32,2.75,,,2,1,,,,3,1.63,3.25,2.4,,,68,,0.75,,,,,,,,,,
+520,Evt-Isr,M9903FAM,3,SINEMATIALI 9449 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1826.06,,68,139,63,,2.75,37,28,3.25,,,2,5,,1,,4,1.5,2.25,2.3,,,67,,0.75,,,,,,,,,,
+521,Evt-Isr,M9903FAM,4,IWD C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2810.34,,70,143,61,,2.75,36,31,3,,,3,1,,,,5,1.75,2.25,2.6,,,69,,0.75,,,,,,,,,,
+522,Evt-Isr,M9903FAM,5,IWF C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2177.91,,70,141,61,,3.13,36,28,3.25,,,3,5,,,,2,1.38,2.13,2.3,,,66,,0.88,,,,,,,,,,
+523,Evt-Isr,M9903FAM,6,IYFD C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3406.31,,67,154,84,,2.38,39,37,2.25,,,4,6,,,,6,1.38,2.25,2.4,,,64,,0.75,,,,,,,,,,
+524,Evt-Isr,M9903FAM,7,ACR 9449 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2379.67,,68,128,54,,2.25,39,32,3.25,,,2,4,,1,,2,1.75,2.38,1.8,,,65,,0.75,,,,,,,,,,
+525,Evt-Isr,M9903FAM,8,BR SYN Y C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2816.64,,69,150,74,,2.5,39,32,2,,,3,4,,,,9,1.13,1.88,1.9,,,66,,0.75,,,,,,,,,,
+526,Evt-Isr,M9903FAM,9,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3184.62,,68,165,89,,2.13,37,34,2.25,,,4,3,,,,3,1.13,2.25,2.1,,,66,,0.75,,,,,,,,,,
+527,Evt-Isr,M9903FAM,10,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2526.29,,71,148,68,,2.75,35,27,2.75,,,3,1,,,,4,1.5,2.5,2.3,,,68,,0.75,,,,,,,,,,
+528,International Hybrid Maize Trial (White),M9906FAM,1,9712-13,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4672.79,,66,198,106,,3,42,35,2.63,,,2,5,,,,,1,1.38,1.9,,,64,,1,,,,,,,,,,
+529,International Hybrid Maize Trial (White),M9906FAM,2,9712-16,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3509.72,,69,186,99,,2.88,40,34,3,,,3,1,,,,2,1,1.5,1.4,,,66,,1,,,,,,,,,,
+530,International Hybrid Maize Trial (White),M9906FAM,3,9712-17,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4188.38,,67,184,98,,2.5,40,40,3.25,,,3,1,,1,,1,1,1.63,1.9,,,65,,1,,,,,,,,,,
+531,International Hybrid Maize Trial (White),M9906FAM,4,9712-19,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3692.39,,66,194,109,,2.88,39,35,2.88,,,2,1,,,,1,1,1.75,1.4,,,64,,1,,,,,,,,,,
+532,International Hybrid Maize Trial (White),M9906FAM,5,9618-24,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3575.67,,67,163,81,,2.38,42,37,3,,,1,1,,,,1,1,1,1,,,65,,1,,,,,,,,,,
+533,International Hybrid Maize Trial (White),M9906FAM,6,9618-32,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3180.57,,68,164,91,,2.5,40,33,3,,,1,2,,,,,1,1.13,1,,,66,,1,,,,,,,,,,
+534,International Hybrid Maize Trial (White),M9906FAM,7,9618-52,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3330.41,,67,163,83,,2.63,38,31,3,,,2,1,,,,2,1,1.63,1,,,65,,1.13,,,,,,,,,,
+535,International Hybrid Maize Trial (White),M9906FAM,8,9618-79,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3874.21,,64,173,74,,2.13,40,37,3.13,,,1,,,,,1,1,1.38,1.1,,,64,,1,,,,,,,,,,
+536,International Hybrid Maize Trial (White),M9906FAM,9,9705-89,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4353.03,,67,178,89,,1.75,40,38,2.63,,,2,3,,,,1,1,1.88,1,,,65,,1,,,,,,,,,,
+537,International Hybrid Maize Trial (White),M9906FAM,10,9705-94,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4020.51,,68,183,93,,2.13,42,38,2.63,,,1,1,,,,1,1,1.25,1.3,,,65,,1,,,,,,,,,,
+538,International Hybrid Maize Trial (White),M9906FAM,11,CAMEROON HYBRID 3,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4833.82,,67,208,115,,2.75,38,33,2.13,,,2,2,,1,,1,1,1,1,,,65,,1,,,,,,,,,,
+539,International Hybrid Maize Trial (White),M9906FAM,12,OBA SUPER 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3267.05,,69,169,90,,2.25,38,32,2.88,,,1,1,,,,1,1,1.63,1.3,,,66,,1,,,,,,,,,,
+540,International Hybrid Maize Trial (White),M9906FAM,13,TZL COMP4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3878.72,,69,194,95,,2.63,40,35,3,,,1,,,1,,2,1,1.38,1,,,67,,1,,,,,,,,,,
+541,International Hybrid Maize Trial (White),M9906FAM,14,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3062.9,,67,173,100,,2.63,42,34,3.38,,,8,2,,,,2,1,1.5,1.5,,,64,,1,,,,,,,,,,
+542,International Hybrid Maize Trial (White),M9906FAM,15,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2168.98,,73,151,78,,2.5,34,26,3.25,,,2,3,,1,,1,1,1.5,1,,,68,,1.13,,,,,,,,,,
+543,International Hybrid Maize Trial (Yellow),M9907FAM,1,9728-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4869.87,,60,166,90,,2,45,44,1.5,,,2,,,,,1,1,3,3,,,56,,2,,,,,,,,,,
+544,International Hybrid Maize Trial (Yellow),M9907FAM,2,9727-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4085.12,,66,156,74,,3,44,41,2,,,3,2,,,,1,1,3,3,,,63.75,,2,,,,,,,,,,
+545,International Hybrid Maize Trial (Yellow),M9907FAM,3,9716-14,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4364.7,,66,159,68,,2,44,39,2,,,13,,,,,2,2,3,3,,,63,,1,,,,,,,,,,
+546,International Hybrid Maize Trial (Yellow),M9907FAM,4,9715-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3051.95,,64,148,74,,2,42,39,1.63,,,8,,,,,1,1,3,2,,,61.25,,1,,,,,,,,,,
+547,International Hybrid Maize Trial (Yellow),M9907FAM,5,9715-9,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3350.8,,70,148,68,,3,45,38,2.25,,,13,2,,,,2,1,4,3,,,65,,1,,,,,,,,,,
+548,International Hybrid Maize Trial (Yellow),M9907FAM,6,9715-13,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3892.47,,69,165,75,,3,40,37,2,,,20,2,,,,3,1,3,3,,,64.5,,1,,,,,,,,,,
+549,International Hybrid Maize Trial (Yellow),M9907FAM,7,OBA SUPER 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3895.83,,72,151,74,,3,42,36,1.38,,,2,1,,,,1,1,2,2,,,67.5,,2,,,,,,,,,,
+550,International Hybrid Maize Trial (Yellow),M9907FAM,8,IKENNE TZSR Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3096.7,,69,151,76,,2,43,36,2,,,3,,,,,1,1,3,2,,,66.25,,1,,,,,,,,,,
+551,International Hybrid Maize Trial (Yellow),M9907FAM,9,CHECK 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3034.09,,69,146,80,,3,42,35,3.13,,,8,2,,,,2,1,4,3,,,64.75,,1,,,,,,,,,,
+552,International Hybrid Maize Trial (Yellow),M9907FAM,10,CHECK 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2334.26,,75,135,64,,3,41,31,2.88,,,3,5,,,,3,1,3,2,,,69.75,,3,,,,,,,,,,
+553,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,1,9817239,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,593.52,,97,67,30,,5,11,4,4,,,,2,,,,,,3,3,,,93,,1,,,,,,,,,,
+554,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,2,9817247,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1127.04,,80,97,40,,3,23,17,3,,,,4,,,,2,,3,4,,,73,,1,,,,,,,,,,
+555,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,3,9817283,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1003.79,,80,98,67,,3,26,16,3,,,,9,,1,,4,,2,2,,,76,,1,,,,,,,,,,
+556,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,4,9818362,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,970.38,,74,90,42,,2,32,22,3,,,1,5,,2,,3,,4,4,,,69,,1,,,,,,,,,,
+557,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,5,9818364,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,171.94,,77,88,40,,4,9,5,4,,,,1,,,,,,2,2,,,74,,1,,,,,,,,,,
+558,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,6,9818365,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,437.05,,80,90,35,,2,20,15,4,,,1,5,,,,2,,3,4,,,75,,1,,,,,,,,,,
+559,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,7,9818366,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,167.11,,92,87,42,,3,12,5,5,,,1,,,,,1,,2,3,,,81,,1,,,,,,,,,,
+560,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,8,9818370,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,872.18,,78,102,43,,2,21,17,3,,,1,2,,1,,2,,2,3,,,74,,1,,,,,,,,,,
+561,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,9,9818372,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,65.52,,93,80,33,,4,9,4,2,,,,,,,,,,2,2,,,86,,1,,,,,,,,,,
+562,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,10,9818375,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,319.22,,81,102,48,,3,19,11,4,,,1,5,,1,,1,,4,3,,,74,,1,,,,,,,,,,
+563,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,11,9818378,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,460.29,,75,92,38,,3,16,13,3,,,,4,,1,,,,4,4,,,72,,1,,,,,,,,,,
+564,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,12,9818379,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,64.75,,80,48,13,,5,11,2,5,,,,5,,,,,,4,4,,,72,,1,,,,,,,,,,
+565,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,13,9818381,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,680.04,,77,110,55,,1,24,20,3,,,2,2,,,,1,,2,2,,,72,,1,,,,,,,,,,
+566,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,14,9818383,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,504.21,,85,88,47,,3,24,12,4,,,,6,,2,,1,,3,4,,,78,,1,,,,,,,,,,
+567,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,15,9818384,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,229.91,,86,103,37,,3,26,17,4,,,2,4,,,,4,,3,4,,,76,,1,,,,,,,,,,
+568,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,16,9818385,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,332.13,,83,95,48,,3,17,11,3,,,,4,,1,,1,,3,4,,,78,,1,,,,,,,,,,
+569,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,17,9818386,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1100.03,,78,82,43,,3,21,14,3,,,,2,,,,3,,2,2,,,77,,1,,,,,,,,,,
+570,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,18,9818387,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,450.25,,74,123,58,,3,13,11,4,,,,3,,,,1,,2,3,,,70,,1,,,,,,,,,,
+571,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,19,9818388,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,513.15,,71,100,48,,4,25,15,4,,,,2,,1,,1,,4,5,,,73,,1,,,,,,,,,,
+572,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,20,9818393,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1150.13,,72,97,33,,3,22,16,3,,,,4,,,,1,,4,3,,,71,,1,,,,,,,,,,
+573,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,21,9818399,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,415.99,,80,95,32,,3,11,9,4,,,1,2,,,,1,,3,3,,,76,,1,,,,,,,,,,
+574,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,22,9818402,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1223.99,,78,93,52,,2,27,22,3,,,1,3,,,,2,,3,3,,,74,,2,,,,,,,,,,
+575,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,23,9818406,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,488.26,,71,85,35,,3,17,12,3,,,,4,,,,1,,4,3,,,71,,1,,,,,,,,,,
+576,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,24,9818408,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,791.16,,76,95,42,,3,29,18,3,,,,4,,1,,1,,3,4,,,70,,1,,,,,,,,,,
+577,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,27,CHECK,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,502.99,,80,78,22,,4,5,4,4,,,,,,1,,1,,3,3,,,77,,1,,,,,,,,,,
+578,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,25,TZMI 102,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,1347.75,,73,123,53,,2,25,18,2,,,1,10,,,,1,,2,3,,,70,,1,,,,,,,,,,
+579,International Mid-Alt Inbred Line Evaluation Trial,M9909FAM,26,TZMI 407,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,268.83,,83,90,48,,3,10,8,4,,,,1,,1,,1,,2,3,,,80,,1,,,,,,,,,,
+580,Late/Int. Drought Tolerance Maize Trial,M9912FAM,1,AK 9443-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3963.24,,70,175,88,,3,42,37,2.75,,,3,,,,,3.48,,2.25,1.9,,,66,,,,,,,,,,,,
+581,Late/Int. Drought Tolerance Maize Trial,M9912FAM,2,ACR 9222 SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2930.26,,69,169,90,,3.13,42,37,3,,,1,1,,,,2.5,,2.5,1.7,,,66,,,,,,,,,,,,
+582,Late/Int. Drought Tolerance Maize Trial,M9912FAM,3,IWD C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3965.97,,68,164,93,,2.75,40,36,2.75,,,5,1,,,,3.5,,1.75,1.4,,,65,,,,,,,,,,,,
+583,Late/Int. Drought Tolerance Maize Trial,M9912FAM,4,ACR 9128 NN,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3682.95,,69,168,78,,3,40,36,2.5,,,5,,,,,3.1,,1.75,1.4,,,66,,,,,,,,,,,,
+584,Late/Int. Drought Tolerance Maize Trial,M9912FAM,5,SINEMATIALI 93 TZUT SR W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4075.99,,68,176,83,,3.13,39,33,3.13,,,2,1,,,,3.55,,1.88,1.4,,,66,,,,,,,,,,,,
+585,Late/Int. Drought Tolerance Maize Trial,M9912FAM,6,9164-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,3897.17,,70,160,90,,2.75,39,33,2.38,,,1,1,,1,,3.35,,1.75,1.2,,,68,,,,,,,,,,,,
+586,Late/Int. Drought Tolerance Maize Trial,M9912FAM,7,8522-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4737.2,,71,173,78,,2.25,40,38,1.5,,,1,,,,,4.55,,2.13,2,,,67,,,,,,,,,,,,
+587,Late/Int. Drought Tolerance Maize Trial,M9912FAM,8,9111-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4608.98,,68,140,61,,2.38,41,37,2.75,,,4,1,,,,4.3,,2,1.5,,,66,,,,,,,,,,,,
+588,Late/Int. Drought Tolerance Maize Trial,M9912FAM,9,8981-5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4732.78,,66,183,93,,2.5,42,39,1.63,,,6,2,,,,4.3,,1.25,1.2,,,63,,,,,,,,,,,,
+589,Late/Int. Drought Tolerance Maize Trial,M9912FAM,10,9033-26,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2828.43,,72,138,64,,2.88,38,29,3.13,,,3,1,,,,2.18,,2.5,1.7,,,67,,,,,,,,,,,,
+590,Late/Int. Drought Tolerance Maize Trial,M9912FAM,11,OBA SUPER 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,2970.68,,73,145,73,,2.88,38,31,2.13,,,3,1,,,,2.65,,1,1,,,69,,,,,,,,,,,,
+591,Late/Int. Drought Tolerance Maize Trial,M9912FAM,12,CHECK,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,1999,4514.57,,67,166,86,,2.75,42,37,2.75,,,8,,,,,4,,2,2,,,65,,,,,,,,,,,,
+592,Evt-Isr (White),M2001FA,1,ACR96 DMR-LSR-W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1843.1,,,112.5,35.88,,4.5,24.75,23.5,4,,,4,1,,1.5,,1,,,,,,,,,,14.1,,,,,,,,25
+593,Evt-Isr (White),M2001FA,2,S9325-SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1196.6,,,115,37.88,,5,15.75,10.25,3.75,,,3.5,1,,1.8,,1,,,,,,,,,,14.3,,,,,,,,16
+594,Evt-Isr (White),M2001FA,3,AK. 9443-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2177.2,,,116.5,38.13,,4.75,24.5,27,3.75,,,3.8,1,,0.8,,,,,,,,,,,,13.3,,,,,,,,24
+595,Evt-Isr (White),M2001FA,4,TZL COMP.5 C0,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1621.72,,,124,40,,4.5,19.5,18,4,,,4.5,,,,,1,,,,,,,,,,14.5,,,,,,,,20
+596,Evt-Isr (White),M2001FA,5,AK 9522-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1490.49,,,101.13,33,,4.5,20,20.5,4.5,,,4.3,1,,0.3,,1,,,,,,,,,,12.6,,,,,,,,20
+597,Evt-Isr (White),M2001FA,6,TZL COMP.4 C2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1234.72,,,128.5,44,,5,15,12.5,4.5,,,4.5,0,,1.5,,0,,,,,,,,,,14.4,,,,,,,,16
+598,Evt-Isr (White),M2001FA,7,ACR.97 TZL COMP.4 C2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1422.4,,,119.38,41.88,,5,15.5,14,4,,,4.3,0,,0.3,,,,,,,,,,,,13.9,,,,,,,,16
+599,Evt-Isr (White),M2001FA,8,TZL COMP.3 C2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2074.44,,,112.88,40.63,,3.75,32.75,27.25,2.75,,,4,0,,0.5,,2,,,,,,,,,,16.1,,,,,,,,33
+600,Evt-Isr (White),M2001FA,9,AMA TZBR-W C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2577.35,,,117.25,44.38,,3.5,35.25,33,3,,,3.3,,,0.8,,1,,,,,,,,,,17.1,,,,,,,,36
+601,Evt-Isr (White),M2001FA,10,ACR.97 TZL COMP.1-W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1183.96,,,99.5,31.88,,4.75,29.25,21,3.5,,,4.8,,,1,,3,,,,,,,,,,15.4,,,,,,,,29
+602,Evt-Isr (White),M2001FA,11,CMS 8501,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2268.64,,,120.5,47.38,,4,29.25,22.5,3.25,,,3.3,,,1.3,,0,,,,,,,,,,15.3,,,,,,,,30
+603,Evt-Isr (White),M2001FA,12,OBA SUPER 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2586.68,,,114.25,39.25,,3.75,31.25,28.5,2.75,,,4,1,,0.5,,1,,,,,,,,,,12.8,,,,,,,,31
+604,Evt-Isr (White),M2001FA,13,CHECK,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2235.11,,,102.25,35.63,,4.75,34.75,30,3.5,,,4.8,2,,2.3,,1,,,,,,,,,,9,,,,,,,,36
+605,Evt-Lsr (Yellow),M2002FA,1,AK.9528-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1843.1,,,112.5,35.88,,4.5,24.75,23.5,4,,,4,0.5,,1.5,,0.5,,,,,,,,,,14.1,,,,,,,,25
+606,Evt-Lsr (Yellow),M2002FA,2,IK.91 TZL COMP.3-Y C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1196.6,,,115,37.88,,5,15.75,10.25,3.75,,,3.5,1,,1.8,,1,,,,,,,,,,14.3,,,,,,,,16
+607,Evt-Lsr (Yellow),M2002FA,3,Acr.91 SUWAN 1-SR C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2177.2,,,116.5,38.13,,4.75,24.5,27,3.75,,,3.8,0.5,,0.8,,,,,,,,,,,,13.3,,,,,,,,24
+608,Evt-Lsr (Yellow),M2002FA,4,TZB-SR SGY,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1621.72,,,124,40,,4.5,19.5,18,4,,,4.5,,,,,1,,,,,,,,,,14.5,,,,,,,,20
+609,Evt-Lsr (Yellow),M2002FA,5,Ikenne 88 TZSR-Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1490.49,,,101.13,33,,4.5,20,20.5,4.5,,,4.3,1,,0.3,,0.8,,,,,,,,,,12.6,,,,,,,,20
+610,Evt-Lsr (Yellow),M2002FA,6,Oba Super 2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1234.72,,,128.5,44,,5,15,12.5,4.5,,,4.5,0.3,,1.5,,0.3,,,,,,,,,,14.4,,,,,,,,16
+611,Evt-Lsr (Yellow),M2002FA,7,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1422.4,,,119.38,41.88,,5,15.5,14,4,,,4.3,0.3,,0.3,,,,,,,,,,,,13.9,,,,,,,,16
+612,Hybrid Maize Trial (Yellow),M2007FA,1,9901-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2993.51,,,138,48.75,,3.25,31.5,31.75,3.25,,,3.5,1,,0.8,,2,,,,,,,,,,14,,,,,,,,32
+613,Hybrid Maize Trial (Yellow),M2007FA,2,9901-4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1846.53,,,115.38,42.5,,4.5,29.5,27,4,,,5,1,,0.5,,2,,,,,,,,,,12.5,,,,,,,,30
+614,Hybrid Maize Trial (Yellow),M2007FA,3,9901-5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2479.88,,,121.25,44.38,,3.5,28.5,25.75,3.5,,,4,0,,1,,1,,,,,,,,,,13.1,,,,,,,,30
+615,Hybrid Maize Trial (Yellow),M2007FA,4,9901-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2756.46,,,123.75,40.63,,3,32,36,3.75,,,4.3,,,0.8,,1,,,,,,,,,,16.8,,,,,,,,34
+616,Hybrid Maize Trial (Yellow),M2007FA,5,9901-7,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2590.46,,,112.25,32.25,,4.25,33.25,32.25,4,,,4.3,1,,1,,3,,,,,,,,,,15.7,,,,,,,,33
+617,Hybrid Maize Trial (Yellow),M2007FA,6,9903-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2604.97,,,120.13,44.5,,3.5,29.25,30.75,3.75,,,3.8,1,,0.3,,2,,,,,,,,,,12.2,,,,,,,,29
+618,Hybrid Maize Trial (Yellow),M2007FA,7,9903-3,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2476.6,,,113,43.13,,4,32.5,32,3.5,,,4.5,,,1.5,,1,,,,,,,,,,12.3,,,,,,,,32
+619,Hybrid Maize Trial (Yellow),M2007FA,8,Oba Super II,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2419.79,,,112.63,37.5,,4,33.5,31.75,3.25,,,3.8,1,,0.8,,3,,,,,,,,,,12.4,,,,,,,,34
+620,Hybrid Maize Trial (Yellow),M2007FA,9,Ikenne TZSR-Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1644.82,,,109.75,33.75,,4,29.5,24.5,4.75,,,4.8,1,,0.3,,2,,,,,,,,,,12,,,,,,,,32
+621,Hybrid Maize Trial (Yellow),M2007FA,10,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1831.17,,,126.5,42.75,,4.25,24,20.75,3.25,,,4.8,1,,0.8,,1,,,,,,,,,,12,,,,,,,,27
+622,Mid-Altitude Hybrid Maize Trial,M2008FA,1,9601-3,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2894.89,,,127.25,49.75,,3.25,34.5,32,3.75,,,3.8,0.8,,0.3,,,,,,,,,,,,16.9,,,,,,,,36
+623,Mid-Altitude Hybrid Maize Trial,M2008FA,2,9715-5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2715.01,,,129.25,46,,3.5,30,28.25,3.75,,,4,0.8,,1.3,,,,,,,,,,,,15.1,,,,,,,,31
+624,Mid-Altitude Hybrid Maize Trial,M2008FA,3,9333-9B,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2709.45,,,132.25,50.5,,3,31.75,29.25,3.5,,,3.8,0.3,,1,,,,,,,,,,,,15.2,,,,,,,,32
+625,Mid-Altitude Hybrid Maize Trial,M2008FA,4,9718-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,1890.07,,,121,49.5,,3.25,29.5,26.5,4.25,,,4,,,1.5,,,,,,,,,,,,15.4,,,,,,,,31
+626,Mid-Altitude Hybrid Maize Trial,M2008FA,5,9608-8,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,3241.87,,,137.5,59.75,,2.75,35.5,29.5,3,,,3.3,0.3,,1,,,,,,,,,,,,14.7,,,,,,,,36
+627,Mid-Altitude Hybrid Maize Trial,M2008FA,6,9902-3,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2362.01,,,124.5,46.75,,3,31.25,29.5,4,,,3.8,0.3,,1.5,,,,,,,,,,,,15.4,,,,,,,,31
+628,Mid-Altitude Hybrid Maize Trial,M2008FA,7,9902-5,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2758.43,,,128.5,52.25,,2.75,32.25,29.5,3.5,,,3.3,0.3,,1,,,,,,,,,,,,15.9,,,,,,,,33
+629,Mid-Altitude Hybrid Maize Trial,M2008FA,8,9903-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2593.35,,,119.75,46.5,,3,33.25,30.75,3.5,,,4,0.8,,0.5,,,,,,,,,,,,15.1,,,,,,,,35
+630,Mid-Altitude Hybrid Maize Trial,M2008FA,9,9903-10,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2062.79,,,115,42.75,,4,26.5,25.25,4,,,4.5,0.3,,0.3,,,,,,,,,,,,14.1,,,,,,,,27
+631,Mid-Altitude Hybrid Maize Trial,M2008FA,10,8535-23,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2493.63,,,125.25,50.25,,3,32.75,29,3.5,,,4,0.5,,0.5,,,,,,,,,,,,16.5,,,,,,,,33
+632,Mid-Altitude Hybrid Maize Trial,M2008FA,11,ACR87 TZMSR-W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2052.2,,,124.25,47,,3.25,27.25,25,4.25,,,3.8,0.3,,0.8,,,,,,,,,,,,15.3,,,,,,,,27
+633,Mid-Altitude Hybrid Maize Trial,M2008FA,12,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2000,2477.17,,,113.75,45,,3.5,33.5,32,4,,,4,,,0.8,,,,,,,,,,,,16.5,,,,,,,,34
+634,Evt-Isr (White),M0101FA,1,Acr 96 DMR-LSR-W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2670.65,,69.75,191.5,93.5,2.5,3,40.75,24,2.75,3.13,,1,0.3,,0.8,,,1,2.5,,,,67,,,,25,,,,,,,,41
+635,Evt-Isr (White),M0101FA,2,TZL Comp.4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1822.41,,71.5,177,72,2.75,2.75,36,17.75,3,2.15,,,0.8,,0.3,,,1,2.3,,,,69,,,,26,,,,,,,,40
+636,Evt-Isr (White),M0101FA,3,S9325-SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2234.53,,62.75,156.25,67.25,2,3.25,42.5,24,2.75,2.55,,1,1.5,,1,,,1,2.5,,,,61,,,,23,,,,,,,,43
+637,Evt-Isr (White),M0101FA,4,AK.9443-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2997.12,,67.25,187,87.25,3.5,2.5,39.75,25.75,2.5,3.33,,2,,,,,,1,2.8,,,,64,,0.3,,21,,,,,,,,41
+638,Evt-Isr (White),M0101FA,5,TZL Comp.5 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1541.49,,71,160.25,62,3.25,3.5,38.25,16,3.75,1.75,,1.8,0.3,,0.8,,,1,2.5,,,,68,,,,23,,,,,,,,41
+639,Evt-Isr (White),M0101FA,6,AK. 9522-DMRSR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1663.92,,68,151.75,71.5,1.5,3.25,42.25,18.5,3.25,1.9,,3,3.5,,0.5,,,1,2.3,,,,67,,,,23,,,,,,,,45
+640,Evt-Isr (White),M0101FA,7,TZL Comp.4 C2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2699.21,,68.75,186.5,84.5,3,3,43,25.25,2.75,3.15,,0.3,1.3,,0.3,,,1,2.3,,,,66,,,,25,,,,,,,,44
+641,Evt-Isr (White),M0101FA,8,Acr 97 TZL Comp.4 C2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3301.23,,67.5,201.75,100,1.75,2.5,40.25,24.25,2.25,3.98,,0.5,0.5,,1.5,,,1,2,,,,66,,0.8,,27,,,,,,,,44
+642,Evt-Isr (White),M0101FA,9,TZL Comp.3 C2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3525.26,,64,178.5,86.25,2.5,2.75,43.25,28.25,2,4.13,,1.8,0.5,,0.8,,,1,2.3,,,,62,,,,25,,,,,,,,44
+643,Evt-Isr (White),M0101FA,10,Ama TZBR-W C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2855.38,,68.5,173.25,81.5,2.5,3.25,38.75,24.75,2.5,3.38,,2.5,,,0.8,,,1,2.8,,,,66,,,,25,,,,,,,,39
+644,Evt-Isr (White),M0101FA,11,Acr 97 TZL Comp.1-W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2651.09,,68.75,177.5,76.75,2.75,3.25,43,24.25,3.25,2.98,,0.3,0.8,,1.3,,,1,2.3,,,,66,,0.3,,22,,,,,,,,44
+645,Evt-Isr (White),M0101FA,12,CMS 8501,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2105.83,,71.25,198.5,93.75,5.25,3,41,17.75,3.75,2.4,,1.3,0.8,,0.8,,,1,2.3,,,,66,,,,23,,,,,,,,42
+646,Evt-Isr (White),M0101FA,13,Oba Super 1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3098.81,,69.5,155,59.5,3,3.25,41,25.25,2.5,3.63,,1.3,,,,,,1,3,,,,67,,,,25,,,,,,,,43
+647,Evt-Isr (White),M0101FA,14,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1806.46,,69.75,163,68.25,2,3.25,31.5,14,3.5,2.08,,2.5,1,,0.5,,,1,2.3,,,,68,,,,24,,,,,,,,35
+648,Evt-Lsr (Yellow),M0102,1,AK.9528-DMRSR,NIGERIA,FARAKA BA,,-4.33,11.1,Moist Savanna,2001,2164.71,,69,176,82,2.5,3.25,39.75,23,3,2.55,,3,,,,,,,2,,,,67,,,,26,,,,,,,,42
+649,Evt-Lsr (Yellow),M0102,2,IK.91 TZL Comp.3-Y C1,NIGERIA,FARAKA BA,,-4.33,11.1,Moist Savanna,2001,2208.35,,66.75,161.75,81.75,2.25,2.75,37.5,22.5,2.75,2.48,,2.8,0.5,,0.5,,,,2,,,,65,,,,22,,,,,,,,41
+650,Evt-Lsr (Yellow),M0102,3,Acr.91 Suwan 1-SR C1,NIGERIA,FARAKA BA,,-4.33,11.1,Moist Savanna,2001,3073,,59.75,161,81.25,0.25,2.75,39.5,32,1.5,3.15,,2.8,2.3,,0.5,,,,2,,,,60,,,,15,,,,,,,,43
+651,Evt-Lsr (Yellow),M0102,4,TZB-SR SGY,NIGERIA,FARAKA BA,,-4.33,11.1,Moist Savanna,2001,1976.36,,69,159.75,83.25,2.75,2.75,38.75,17.75,3.25,2.33,,3.5,1.3,,0.3,,,,2.3,,,,66,,,,26,,,,,,,,41
+652,Evt-Lsr (Yellow),M0102,5,Ikenne 88 TZSR-Y-1,NIGERIA,FARAKA BA,,-4.33,11.1,Moist Savanna,2001,1997.18,,70.75,149.5,82.25,5.25,3.25,41.25,25,2.75,2.38,,3.3,,,0.3,,,,2.3,,,,66,,,,26,,,,,,,,43
+653,Evt-Lsr (Yellow),M0102,6,Oba Super 2,NIGERIA,FARAKA BA,,-4.33,11.1,Moist Savanna,2001,1877.72,,65.75,164.5,84.25,3,2.75,38.75,19.25,2.75,2.08,,2,1.3,,1,,,,2,,,,63,,,,21,,,,,,,,44
+654,Evt-Lsr (Yellow),M0102,7,Check,NIGERIA,FARAKA BA,,-4.33,11.1,Moist Savanna,2001,1289.02,,64.5,142,77,3.25,3.5,37.5,15.75,3.75,1.33,,1,1.5,,,,,,2.3,,,,61,,,,15,,,,,,,,39
+655,Evt-Isr,M0103,1,Sin.93 TZUTSR-W,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,769.75,,72.25,141,61,2.75,4.5,34.75,9.25,4.25,0.88,,1.8,1.3,,0.5,,,,2.5,,,,70,,,,23,,,,,,,,43
+656,Evt-Isr,M0103,2,TZUTSR-W C8,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1009.47,,71.25,150,66.5,3.25,3.25,35.75,11,4.25,1.08,,0.8,0.5,,0.5,,,,2.8,,,,68,,,,18,,,,,,,,39
+657,Evt-Isr,M0103,3,Sin.9449-SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,721.28,,71.5,120.25,54,2.5,4.75,33,6.25,4.75,0.78,,0.8,1.3,,0.5,,,,2.3,,,,69,,,,18,,,,,,,,42
+658,Evt-Isr,M0103,4,EV-IWD STR C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,780.44,,72.5,138,62,3.5,4,36,10.75,4.25,0.95,,1.3,0.8,,,,,,2,,,,69,,,,28,,,,,,,,42
+659,Evt-Isr,M0103,5,EV-IWF STR C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1245.97,,67.25,133.5,65.5,3.75,3,34.25,13,3.5,1.4,,2.8,1.8,,0.5,,,,2.3,,,,64,,,,22,,,,,,,,39
+660,Evt-Isr,M0103,6,Acr 9449-SR,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,587.39,,66.5,107.5,44.25,4,4.25,29.25,8.25,4.25,0.6,,0.5,2.8,,0.5,,,,2.3,,,,63,,,,14,,,,,,,,35
+661,Evt-Isr,M0103,7,TZBR Syn-Y C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1370.91,,72.5,138.25,69.75,3.25,2.25,38.5,14.5,3.5,1.5,,2.5,0.5,,0.3,,,,2,,,,69,,,,20,,,,,,,,42
+662,Evt-Isr,M0103,8,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,953.88,,71,136.75,70.5,6.75,3.75,37.75,13,4,1,,1.5,1.5,,0.3,,,,2.3,,,,64,,,,16,,,,,,,,40
+663,Hybrid Maize Trial (White),M0106,1,9712-13,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3059.91,,65.5,202.25,96.75,2.75,2.75,42.25,25.75,2.75,3.43,,1,0.8,,,,,,2.8,,,,63,,,,22,,,,,,,,44
+664,Hybrid Maize Trial (White),M0106,2,9705-89,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2529.68,,68.5,161.25,67,4.75,3.5,39,23,3.5,3.08,,0.3,1.8,,,,,,3.5,,,,64,,,,28,,,,,,,,42
+665,Hybrid Maize Trial (White),M0106,3,9916-8,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3773.52,,64.25,141,60.75,2.5,3.25,37.75,24.5,2.5,4.2,,,0.3,,,,,,2.5,,,,62,,,,21,,,,,,,,41
+666,Hybrid Maize Trial (White),M0106,4,9916-11,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2926.61,,67.25,139.5,57.5,3.5,3,38.75,25.5,3.25,3.3,,0.5,0.3,,,,,,2.8,,,,64,,,,23,,,,,,,,41
+667,Hybrid Maize Trial (White),M0106,5,9916-12,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3360.93,,68.5,155.25,65.5,2.75,3.25,39.75,25.25,3,3.93,,,,,,,,,2.3,,,,66,,,,25,,,,,,,,43
+668,Hybrid Maize Trial (White),M0106,6,2016-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2043.47,,70.25,137.75,52.75,3.25,3.5,34.25,21,3.25,2.33,,,0.3,,,,,,2,,,,67,,,,23,,,,,,,,41
+669,Hybrid Maize Trial (White),M0106,7,2016-8,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3248.43,,66,170.75,75,2.75,3,42,29,2,3.65,,1.5,0.8,,,,,,3.3,,,,63,,,,22,,,,,,,,44
+670,Hybrid Maize Trial (White),M0106,8,2016-10,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2757.68,,70.5,176.5,75.75,2.75,3,39.25,18.75,3,3.2,,1.8,0.5,,,,,,2.3,,,,68,,,,24,,,,,,,,42
+671,Hybrid Maize Trial (White),M0106,9,2016-4,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3029.67,,65.75,161.25,70.5,3.25,3.25,38,24.75,2.75,3.43,,1,0.3,,,,,,4.5,,,,63,,,,23,,,,,,,,41
+672,Hybrid Maize Trial (White),M0106,10,2016-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2132.93,,67.75,161.75,68.75,6,3.25,38.5,20.5,3,2.45,,,0.8,,,,,,2.8,,,,62,,,,24,,,,,,,,39
+673,Hybrid Maize Trial (White),M0106,11,Oba Super 1(RE),NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3103.18,,68.75,153,65.75,4,3.5,36.5,21.75,2.75,3.48,,0.3,,,,,,,4,,,,65,,,,22,,,,,,,,41
+674,Hybrid Maize Trial (White),M0106,12,TZL Comp.4 C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2005.31,,69.75,174,80.25,2.75,3,38,21.75,2.75,2.25,,0.3,1.5,,,,,,2.3,,,,67,,,,22,,,,,,,,42
+675,Hybrid Maize Trial (White),M0106,13,CHL103; 87036xEXP124,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2264.31,,71,189.5,91.5,3,3.5,35.75,15.5,3.5,2.63,,,3.3,,,,,,1.8,,,,68,,,,24,,,,,,,,39
+676,Hybrid Maize Trial (White),M0106,14,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,1600.28,,68.5,164.25,75.75,5,3.5,25.5,18,4.25,1.78,,2,-0.3,,,,,,3.3,,,,64,,,,21,,,,,,,,28
+677,Hybrid Maize Trial (Yellow),M0107,1,9903-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3023.54,,65.75,172.75,75,4.5,3.25,37,26,2.75,3.3,,1.3,0.5,,,,,,2.5,,,,61,,,,20,,,,,,,,38
+678,Hybrid Maize Trial (Yellow),M0107,2,9903-3,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3446.96,,64,178.75,89.5,4,3.25,42.25,36.5,2.5,3.8,,0.3,0.3,,0.5,,,,2.3,,,,60,,,,21,,,,,,,,43
+679,Hybrid Maize Trial (Yellow),M0107,3,2016-3,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,4147.16,,65.25,184.75,91.75,5,3,39.25,31.75,2.5,5.08,,0.5,0.3,,,,,,2,,,,60,,,,28,,,,,,,,42
+680,Hybrid Maize Trial (Yellow),M0107,4,2006-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3373.25,,65,170,83.75,3.5,3,38.5,33.5,2.5,3.73,,,1,,,,,,2.5,,,,62,,,,21,,,,,,,,43
+681,Hybrid Maize Trial (Yellow),M0107,5,2006-7,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3567.45,,66.25,157,70.25,7.25,3.5,42,31.25,2.75,4.05,,,,,,,,,2,,,,59,,,,23,,,,,,,,42
+682,Hybrid Maize Trial (Yellow),M0107,6,2006-34,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,4406.63,,62.25,194.5,99.5,3.75,3,41.75,35.25,2,5.08,,0.3,,,1,,,,2,,,,59,,,,24,,,,,,,,43
+683,Hybrid Maize Trial (Yellow),M0107,7,2006-48,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,4217.82,,62.75,179,96.25,3,2.75,38,32.25,2.25,5.05,,0.3,1.8,,,,,,2,,,,60,,,,27,,,,,,,,40
+684,Hybrid Maize Trial (Yellow),M0107,8,Oba Super 2 (RE),NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2822.69,,65,168.5,61.75,2.25,3.75,38.25,23.75,3.25,3.38,,0.3,,,1.3,,,,2,,,,63,,,,27,,,,,,,,42
+685,Hybrid Maize Trial (Yellow),M0107,9,Ikenne TZSR-Y-1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2749.1,,66.25,178,84.5,4.5,3.75,41.5,25,3.5,3.13,,2.8,0.3,,0.8,,,,3,,,,62,,,,23,,,,,,,,43
+686,Hybrid Maize Trial (Yellow),M0107,10,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3187.81,,65.75,181.5,88.25,4,3.5,42.25,29.25,3,3.88,,1.5,0.5,,1,,,,3.5,,,,62,,,,28,,,,,,,,44
+687,Mid-Altitude Inbred Line Trial,M0109,1,2025459*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,264.43,,80,122.5,66,6.5,4.5,26.5,8,3,0.33,,,8.5,,,,,,2,,,,74,,,,30,,,,,,,,37
+688,Mid-Altitude Inbred Line Trial,M0109,2,2025460*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,670.79,,73,132,58,2.5,4.5,31,15,4.5,0.67,,,10,,,,,,3.5,,,,71,,,,12,,,,,,,,40
+689,Mid-Altitude Inbred Line Trial,M0109,3,9920021,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,106.23,,77,90,42,6,4.5,8,5,5,0.11,,,4,,,,,,3.5,,,,71,,,,18,,,,,,,,37
+690,Mid-Altitude Inbred Line Trial,M0109,4,2025464*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,56.46,,78.5,81.5,33,3.5,5,13.5,3.5,5,0.06,,,1.5,,,,,,3,,,,75,,,,18,,,,,,,,33
+691,Mid-Altitude Inbred Line Trial,M0109,5,2025467*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,281.28,,71.5,95,39.5,2.5,4,30,10.5,3.5,0.29,,,7,,,,,,3,,,,69,,,,15,,,,,,,,36
+692,Mid-Altitude Inbred Line Trial,M0109,6,2025468*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,379.27,,73,101.5,44.5,3.5,5,29.5,15.5,5,0.4,,,9,,,,,,4,,,,70,,,,17,,,,,,,,40
+693,Mid-Altitude Inbred Line Trial,M0109,7,2025469*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,85.09,,84.5,76,32,11,5,14,3.5,4.5,0.09,,,3.5,,,,,,3,,,,74,,,,18,,,,,,,,26
+694,Mid-Altitude Inbred Line Trial,M0109,8,2025471*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,142.39,,77,105,47.5,5.5,5,20,5,4,0.15,,,3,,,,,,2,,,,72,,,,17,,,,,,,,39
+695,Mid-Altitude Inbred Line Trial,M0109,9,9920038,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,290.64,,79.5,121,59.5,5.5,4,16,9,4,0.31,,,6.5,,,,,,3,,,,74,,,,19,,,,,,,,35
+696,Mid-Altitude Inbred Line Trial,M0109,10,9920039,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,37.12,,79.5,89,38.5,8,5,17.5,1.5,5,0.04,,,7.5,,,,,,3.5,,,,72,,,,18,,,,,,,,32
+697,Mid-Altitude Inbred Line Trial,M0109,11,2025475*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,188.38,,78,95,48,5,4.5,24.5,9.5,5,0.2,,,3.5,,,,,,3.5,,,,73,,,,17,,,,,,,,42
+698,Mid-Altitude Inbred Line Trial,M0109,12,2025477*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,391.1,,74.5,98.5,42,4,5,34.5,9.5,3.5,0.4,,,2.5,,,,,,3,,,,71,,,,14,,,,,,,,42
+699,Mid-Altitude Inbred Line Trial,M0109,13,2025479*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,289.99,,67,86,37,-3,3,19.5,11.5,4,0.32,,,7.5,,,,,,2,,,,70,,,,20,,,,,,,,24
+700,Mid-Altitude Inbred Line Trial,M0109,14,2025480*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,448.41,,72.5,101,42,3.5,3.5,30,17.5,4,0.5,,,16,,,,,,4.5,,,,69,,,,21,,,,,,,,39
+701,Mid-Altitude Inbred Line Trial,M0109,15,2025481*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,141.44,,77,82.5,38,7.5,5,23.5,7.5,4.5,0.15,,,5.5,,,,,,2,,,,70,,,,18,,,,,,,,41
+702,Mid-Altitude Inbred Line Trial,M0109,16,2025482*,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,122.67,,80.5,63.5,26,7.5,5,24,7.5,4.5,0.13,,,5,,,,,,3.5,,,,73,,,,17,,,,,,,,37
+703,Mid-Altitude Inbred Line Trial,M0109,17,TZMI102,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,84.32,,86,117.5,47,13,5,22,3,5,0.09,,,1.5,,,,,,3.5,,,,73,,,,18,,,,,,,,36
+704,Mid-Altitude Inbred Line Trial,M0109,18,TZM1407,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,279.19,,72.5,110.5,60.5,3.5,4,30,10,3.5,0.28,,,15,,,,,,2.5,,,,69,,,,13,,,,,,,,39
+705,Mid-Altitude Inbred Line Trial,M0109,19,TZM1501,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,298.19,,73.5,128,64.5,4.5,3.5,42.5,15,4,0.33,,,23,,,,,,2,,,,69,,,,21,,,,,,,,44
+706,Mid-Altitude Inbred Line Trial,M0109,20,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,286.2,,76.5,87.5,42.5,4,5,29,12,4,0.28,,,5.5,,,,,,3.5,,,,73,,,,11,,,,,,,,38
+707,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,1,A9801-10,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3683.03,,62.25,170.25,79.25,2.25,2.5,43.5,29.5,3,4.23,,2.3,0.5,,,,,,2,,,,60,,,,24,,,,,,,,44
+708,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,2,A9801-11,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3515.42,,65.75,178.75,80.5,2.75,2.5,39,23.75,2.25,3.9,,0.8,,,0.3,,,,2.5,,,,63,,,,21,,,,,,,,40
+709,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,3,A9802-30,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,5259.61,,62.75,180.5,85.5,3.25,2,40,34.25,1.25,5.93,,0.5,0.3,,0.3,,,,2,,,,60,,,,22,,,,,,,,40
+710,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,4,A9803-2,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2149.9,,69,167.75,72.25,4.25,3.5,38.5,21.25,3.5,2.43,,2,,,0.5,,,,2.8,,,,65,,,,22,,,,,,,,41
+711,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,5,A9803-6,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3619.25,,64,176.75,81.5,2.25,2,41.5,29.75,2.5,4,,3.5,,,,,,,2,,,,62,,,,21,,,,,,,,43
+712,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,6,A9803-9,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,4129.19,,63.25,179.25,82.75,2.25,2.25,42.25,31.25,2.5,4.43,,1.5,,,,,,,3.3,,,,61,,,,18,,,,,,,,44
+713,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,7,A9803-15,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3368.92,,64.75,179,92,2.75,3,40.25,30.25,3.25,3.7,,1.3,,,,,,,2.5,,,,62,,,,20,,,,,,,,40
+714,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,8,9011-30,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2943.78,,62.5,196,96,2.25,3.5,44.5,26.25,3.5,3.23,,1.3,,,0.3,,,,2.3,,,,60,,,,20,,,,,,,,45
+715,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,9,STREVIWD,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3784.27,,64.25,174,86,3,2.75,43.25,32.5,3,4.23,,3,,,,,,,2,,,,61,,,,22,,,,,,,,44
+716,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,10,TZLCOMP3x4C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3153.7,,66.25,187.25,94.5,2.25,3,41.75,26.5,3,3.43,,1,,,,,,,2,,,,64,,,,19,,,,,,,,43
+717,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,11,TZLCOMP4C1,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2925.04,,67.5,194.75,91.25,2.5,3,40.75,24.75,3.5,3.33,,1.5,0.3,,,,,,2.5,,,,65,,,,23,,,,,,,,42
+718,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,12,STREVIWF,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3770.55,,60.5,169,88.75,2,2.25,42.5,34.75,2.5,4.1,,3.3,,,,,,,1.8,,,,59,,,,19,,,,,,,,44
+719,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,13,Oba Super I,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,3996.24,,65.25,178.5,79.5,3.25,2.75,42,31.75,2.25,4.4,,1,,,0.5,,,,2.8,,,,62,,,,20,,,,,,,,42
+720,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,14,Oba Super II,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2581.77,,65,162,77.5,3.25,3.25,44.25,27.5,3.5,2.78,,3.3,0.3,,,,,,2,,,,62,,,,18,,,,,,,,44
+721,Late/Int. Drought Tol.Opv & Hybrid Trial,M0114,15,Check,NIGERIA,LOKOJADP,,-4.33,11.1,Moist Savanna,2001,2924.61,,63.5,184,93.5,2.75,2.75,43.25,26.25,3.25,3.2,,3,0.8,,1,,,,2,,,,61,,,,20,,,,,,,,45
+722,Evt-Isr (White),M0201FA,1,Acr 96 DMR-LSR-W,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4207,,61.25,220,121,1.5,2.3,42,40,3.4,,,0.8,0.5,,0.8,,0.3,2,2,,,,60,,,,18.4,,,,,,,,44
+723,Evt-Isr (White),M0201FA,2,Acr. 99 TZL Comp. 4 DMRSR,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,3946,,61.75,205,104,2,2,42,37,3,,,1.5,2.5,,2,,0.3,2,1.5,,,,60,,0.3,,16.6,,,,,,,,43
+724,Evt-Isr (White),M0201FA,3,S9325-SR,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4489,,57.5,206,110,1.8,2,43,37,2.3,,,1,3.3,,3,,0.3,2.8,2.5,,,,56,,0.3,,19.7,,,,,,,,43
+725,Evt-Isr (White),M0201FA,4,Acr. 9943-DMRSR,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,3954,,60.5,227,123,2,2.3,42,35,2.9,,,2.5,2.3,,0.8,,1,1.8,1.5,,,,59,,0.3,,19.8,,,,,,,,43
+726,Evt-Isr (White),M0201FA,5,TZL Comp. 5 C0,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4298,,60.25,213,110,2,2.3,44,39,3.3,,,1,2.5,,0.8,,0.8,2.3,1.5,,,,58,,,,18.4,,,,,,,,44
+727,Evt-Isr (White),M0201FA,6,Acr. 9922-DMRSR,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4013,,60,201,105,1.8,2.8,42,32,3.3,,,2.5,4.8,,2,,0.3,2.3,1.5,,,,58,,,,19.6,,,,,,,,43
+728,Evt-Isr (White),M0201FA,7,TZL Comp. 4 C2,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5080,,60.25,227,120,1.3,2.3,42,38,2.9,,,0.8,1.3,,2,,0.3,1.8,1.8,,,,59,,,,21.2,,,,,,,,44
+729,Evt-Isr (White),M0201FA,8,Acr 97 TZL Comp. 4 C2,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5593,,60.25,229,127,1,2,42,39,2.4,,,0.3,0.3,,1.8,,0.3,2.3,1.5,,,,59,,,,20.3,,,,,,,,43
+730,Evt-Isr (White),M0201FA,9,TZL Comp. 3 C2,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6288,,58.25,226,123,1.8,1.8,43,40,2.4,,,1.8,0.3,,1.8,,0.3,2.3,1.3,,,,57,,,,19.6,,,,,,,,42
+731,Evt-Isr (White),M0201FA,10,Ama TZBR-W C1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5185,,60.5,219,122,2,2.8,42,38,2.8,,,1.3,0.8,,0.8,,0.3,2.8,1.8,,,,59,,,,19.7,,,,,,,,43
+732,Evt-Isr (White),M0201FA,11,Acr 97 TZL Comp. 1-W,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5161,,59.5,223,126,1.5,2.5,43,35,2.6,,,1.8,,,2.5,,,3,1.5,,,,58,,,,20.3,,,,,,,,44
+733,Evt-Isr (White),M0201FA,12,CMS 8501,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4485,,61.5,237,132,1.8,2.8,43,31,3,,,1,1.5,,2.5,,0.3,2.3,2.3,,,,60,,,,20.3,,,,,,,,44
+734,Evt-Isr (White),M0201FA,13,Oba Super 1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4871,,61.25,212,110,2.3,2.3,44,42,2.6,,,,3.3,,1.3,,,3,1.5,,,,59,,,,20.1,,,,,,,,44
+735,Evt-Isr (White),M0201FA,14,Check,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5369,,59.25,223,118,2,1.5,43,40,2.9,,,3.3,1,,1.8,,0.5,2.8,2.5,,,,57,,,,18.6,,,,,,,,44
+736,Evt-Lsr (Yellow),M0202FA,1,Acr. 9928-DMRSR,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5237,,60.75,234,118,2,1.8,40,41,2.5,,,2.5,2.3,,0.5,,0.8,1,1.3,,,,59,,1,,20.1,,,,,,,,40
+737,Evt-Lsr (Yellow),M0202FA,2,Ik. 91 TZL Comp. 3-Y C1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5791,,58.75,218,120,2,1.8,41,38,1.8,,,2,3.5,,0.3,,0.3,1.3,1,,,,57,,,,19.3,,,,,,,,41
+738,Evt-Lsr (Yellow),M0202FA,3,Acr. 91 Suwan 1-SR C1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5609,,55.5,197,98,1,1.8,40,42,2.3,,,1,4.3,,1.3,,,1,1,,,,55,,,,18.6,,,,,,,,41
+739,Evt-Lsr (Yellow),M0202FA,4,TZB-SR SGY,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5000,,62.75,217,115,2.3,2,41,40,2.9,,,3.8,4,,1.3,,1,1.3,1.5,,,,61,,0.5,,19.4,,,,,,,,42
+740,Evt-Lsr (Yellow),M0202FA,5,DTSR-Y,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5600,,55.25,213,117,2.3,1.5,41,43,2.1,,,2.5,3.3,,1.5,,0.3,2,1.5,,,,53,,0.8,,19.1,,,,,,,,42
+741,Evt-Lsr (Yellow),M0202FA,6,Oba Super 2,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5594,,59,220,119,2.8,1.8,43,41,1.5,,,0.8,1.3,,1.3,,0.5,1.3,1,,,,56,,0.3,,19.3,,,,,,,,43
+742,Evt-Lsr (Yellow),M0202FA,7,Check,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5040,,58.5,209,119,2.5,1.8,43,43,2.5,,,1,2.3,,0.5,,0.3,2.3,1.8,,,,56,,0.3,,18.9,,,,,,,,43
+743,Evt-Isr,M0203FA,1,Sin. 93 TZUTSR-W,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6257,,56.5,232,123,1.8,2,43,44,2.8,,,2,1.8,,1.5,,0.8,1.5,1.5,,,,55,,,,19.6,,,,,,,,43
+744,Evt-Isr,M0203FA,2,TZUTSR-W C8,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6504,,55.75,224,113,1.5,2,42,41,2.9,,,0.8,1.3,,1.8,,,2,1.8,,,,54,,0.5,,19.7,,,,,,,,42
+745,Evt-Isr,M0203FA,3,Acr. 98 TZUTSR-W,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6453,,56.25,229,118,1.3,2,43,40,2.9,,,0.5,1,,1.3,,0.8,1.8,2,,,,55,,0.3,,19.5,,,,,,,,43
+746,Evt-Isr,M0203FA,4,EV-IWD STR C1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6295,,57.5,215,117,2.3,1.8,42,41,3,,,3.3,0.8,,0.5,,0.3,1.5,1.3,,,,55,,,,21.2,,,,,,,,42
+747,Evt-Isr,M0203FA,5,EV-IWF STR C1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6443,,53,203,112,1,1.5,43,43,2.6,,,1.8,0.8,,1,,0.3,2,1,,,,52,,0.5,,18.7,,,,,,,,44
+748,Evt-Isr,M0203FA,6,Acr 9449-SR,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4566,,54,180,93,1.3,2,42,38,3,,,1.5,3.5,,3.5,,0.8,1.8,1.5,,,,53,,,,17.4,,,,,,,,43
+749,Evt-Isr,M0203FA,7,TZBR Syn-Y C1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5878,,57.5,210,117,2.5,2.3,44,44,2.6,,,2.3,1.3,,2.3,,0.8,1.8,1.3,,,,55,,0.5,,19.5,,,,,,,,44
+750,Evt-Isr,M0203FA,8,Check,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5298,,59.75,221,118,2.3,2,42,37,2.9,,,2,0.8,,2.5,,1,2.3,2,,,,58,,,,19.8,,,,,,,,43
+751,Hybrid Maize Trial (White),M0206FA,1,M2016-1,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5102,,58.25,185,88,2,1.5,42,40,2.5,,,0.8,5,,5,,,1.3,1,,,,56,,,,16.9,,,,,,,,43
+752,Hybrid Maize Trial (White),M0206FA,2,M2016-8,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6679,,57.5,218,110,2,1.3,44,44,2.1,,,5.3,0.3,,0.3,,,2,1,,,,56,,,,16,,,,,,,,44
+753,Hybrid Maize Trial (White),M0206FA,3,M2016-4,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5505,,57.5,197,104,1.8,1.8,43,43,1.8,,,1.3,1,,3.8,,,2,2.8,,,,56,,,,16.2,,,,,,,,44
+754,Hybrid Maize Trial (White),M0206FA,4,M2016-6,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4601,,58.5,200,102,2.8,2.3,43,41,2.6,,,0.8,1.3,,1.5,,,1,1.5,,,,56,,,,15.2,,,,,,,,43
+755,Hybrid Maize Trial (White),M0206FA,5,0103-4*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5997,,57.25,181,81,2.3,1.3,43,41,1.9,,,0.3,1,,1.3,,,1.8,1,,,,55,,,,16.5,,,,,,,,44
+756,Hybrid Maize Trial (White),M0206FA,6,0103-6*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6102,,58,200,96,2,2,43,41,2.3,,,0.5,0.3,,,,,2.5,1.8,,,,56,,,,18.7,,,,,,,,43
+757,Hybrid Maize Trial (White),M0206FA,7,0103-7*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5805,,57.75,196,93,1.8,2,42,49,2.4,,,1,0.8,,0.3,,,3,1.5,,,,56,,,,17,,,,,,,,44
+758,Hybrid Maize Trial (White),M0206FA,8,0103-11*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5691,,59.25,184,90,1.8,1.8,44,41,2.3,,,0.8,0.8,,1.5,,,2.8,1.8,,,,58,,0.3,,16.6,,,,,,,,44
+759,Hybrid Maize Trial (White),M0206FA,9,0103-13*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6080,,58.5,196,95,1.5,1.5,43,42,2.1,,,,0.5,,0.5,,,1.8,1,,,,57,,,,16,,,,,,,,43
+760,Hybrid Maize Trial (White),M0206FA,10,PH1*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5306,,59.25,221,122,1.8,2.5,42,38,3,,,4.3,1.5,,1.3,,,2.8,2.3,,,,58,,,,17,,,,,,,,43
+761,Hybrid Maize Trial (White),M0206FA,11,PH5*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5199,,58,210,111,1.5,1.8,43,45,2.4,,,1.5,0.8,,1.3,,,2,1.5,,,,57,,,,17.2,,,,,,,,43
+762,Hybrid Maize Trial (White),M0206FA,12,PH6*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6065,,59,219,118,1.5,2.8,43,40,2.5,,,1.8,1.3,,2.8,,,2.8,1.8,,,,58,,,,18.2,,,,,,,,44
+763,Hybrid Maize Trial (White),M0206FA,13,OBA SUPER I,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5516,,60.5,218,114,2,1.8,42,41,2,,,0.8,0.3,,0.8,,,2.5,2.3,,,,59,,,,17.5,,,,,,,,43
+764,Hybrid Maize Trial (White),M0206FA,14,Check,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4109,,59.75,205,113,2.5,2.5,43,39,3,,,4.8,1.5,,2.5,,,1.8,2.3,,,,57,,,,15.1,,,,,,,,43
+765,Hybrid Maize Trial (Yellow),M0207FA,1,2016-3,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5057,,59,218,118,1.8,2,37,33,2.1,,,0.5,,,2.5,,0.3,1.3,1,,,,57,,,,19,,,,,,,,38
+766,Hybrid Maize Trial (Yellow),M0207FA,2,2006-7,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4681,,59,189,95,2.8,2.5,38,36,1.9,,,1,0.8,,1.3,,,1.3,1,,,,56,,,,16.1,,,,,,,,38
+767,Hybrid Maize Trial (Yellow),M0207FA,3,9903-2,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4984,,56.5,159,103,2,1.8,42,38,2.5,,,1,3,,6,,,2,1.8,,,,55,,,,12.6,,,,,,,,43
+768,Hybrid Maize Trial (Yellow),M0207FA,4,9903-3,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5346,,57.75,211,114,1.8,2.3,41,39,2.3,,,0.3,0.3,,0.3,,,1.3,1.3,,,,56,,,,14.2,,,,,,,,41
+769,Hybrid Maize Trial (Yellow),M0207FA,5,2006-34,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,6005,,59.25,231,131,1.3,2.3,40,36,2,,,0.8,0.5,,1.3,,,1,1,,,,58,,,,18.6,,,,,,,,41
+770,Hybrid Maize Trial (Yellow),M0207FA,6,0107-16*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4788,,58.75,205,110,1.8,1.8,39,35,2.3,,,1,2.8,,3,,,1.3,1.3,,,,57,,,,17.6,,,,,,,,41
+771,Hybrid Maize Trial (Yellow),M0207FA,7,0107-26*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5444,,60.75,205,111,3,2,43,38,2.3,,,0.3,0.3,,0.3,,,1.8,1,,,,58,,0.3,,18.8,,,,,,,,43
+772,Hybrid Maize Trial (Yellow),M0207FA,8,0107-42*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5333,,61,225,121,2.8,2,42,39,2,,,,1.8,,1.5,,,1.3,1,,,,58,,,,18,,,,,,,,41
+773,Hybrid Maize Trial (Yellow),M0207FA,9,0107-47*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4747,,58.75,214,120,1.8,2.5,40,38,2.1,,,0.3,1,,1.8,,,1.8,1.3,,,,57,,,,17,,,,,,,,41
+774,Hybrid Maize Trial (Yellow),M0207FA,10,0107-50*,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5288,,58.75,223,118,2,2.3,40,35,1.9,,,1.5,1.3,,4,,,1.5,1.3,,,,57,,,,16.9,,,,,,,,41
+775,Hybrid Maize Trial (Yellow),M0207FA,11,Oba Super II,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,5159,,59.75,211,111,2.8,2.5,42,38,1.9,,,0.8,1,,1.8,,,1.3,1,,,,57,,,,15.6,,,,,,,,42
+776,Hybrid Maize Trial (Yellow),M0207FA,12,Check,NIGERIA,FARAKO-BA,,-4.33,11.1,Moist Savanna,2002,4635,,59.75,218,121,1.8,2,42,37,2.5,,,2.8,1,,1.5,,,2,2.5,,,,58,,,,17.1,,,,,,,,43
+777,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,1,9801-10,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3679,,61,163,75,1,2.3,34,33,2.6,,,1,0.8,,1.8,,,2,1.8,1,,,60,,,,16.6,,,,,,,,35
+778,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,2,9801-11,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3896,,64.5,186,83,2.5,2.5,34,27,2.9,,,1.5,1,,1,,,1.3,1.5,1.5,,,62,,,,15.2,,,,,,,,35
+779,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,3,9802-30,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,4524,,60,177,89,1.5,2.8,32,29,2,,,1.3,,,1.3,,,2.3,2,1.3,,,59,,,,14.4,,,,,,,,33
+780,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,4,9803-2,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3393,,63,185,87,2.5,2.8,27,23,2.6,,,1.3,0.5,,0.5,,,1.8,2,1.8,,,61,,,,12.9,,,,,,,,27
+781,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,5,9803-6,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,4348,,60.5,185,90,2.5,1.5,34,32,2.1,,,0.5,0.5,,2.3,,,1.5,1.5,1,,,58,,,,15.1,,,,,,,,34
+782,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,6,9803-9,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3386,,62.5,193,94,2,2.5,25,24,3.1,,,1,0.3,,1.3,,,1.5,1.3,1.5,,,61,,,,14.7,,,,,,,,26
+783,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,7,9803-15,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,4770,,59.5,197,106,2,1.8,34,32,2.6,,,0.3,0.3,,3.5,,0.3,1.8,1.5,1,,,58,,,,17.6,,,,,,,,35
+784,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,8,DT-SR-W Co F2*,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3274,,58.5,168,81,,2,26,25,3.1,,,3.8,1.8,,2,,0.5,1.5,1.5,1.3,,,59,,0.3,,16.2,,,,,,,,26
+785,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,9,DTSR-Y F2*,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3785,,58,165,79,1,1.8,35,32,2.6,,,4.3,2,,2.8,,,1.5,1,1,,,57,,0.5,,14.7,,,,,,,,36
+786,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,10,TZL COMP3 C2*,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3613,,62.5,190,100,3.5,2.8,39,32,2.9,,,1.5,0.5,,3.5,,,1.5,2.3,1.3,,,59,,,,16.5,,,,,,,,40
+787,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,11,TZL COMP4 C1,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,2716,,64,183,88,1.5,2.8,27,22,3.5,,,1,0.5,,2.5,,0.3,1.8,1.3,1.5,,,63,,,,14,,,,,,,,27
+788,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,12,Oba Super I,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,4220,,62,186,90,1,3,35,31,2.3,,,0.3,,,0.8,,,1.8,2.5,1.3,,,61,,,,16.3,,,,,,,,35
+789,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,13,Oba Super II,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3848,,60,184,91,,2,31,27,2.4,,,0.5,1.8,,3,,,1,1,1,,,60,,,,13.5,,,,,,,,32
+790,Late Maturing Drought Tolerant Opv And Hybrid Trial,M0215VA,14,Check,NIGERIA,VALLEE DU KOU,,-4.33,10.33,Moist Savanna,2002,3093,,71.75,182,101,2.8,3,34,31,3.4,,,6.5,1,,1.5,,1,1.5,1.5,2,,,69,,,,16.8,,,,,,,,35

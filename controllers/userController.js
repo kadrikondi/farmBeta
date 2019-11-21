@@ -171,6 +171,7 @@ exports.userProfile =  async (req, res) => {
   
   let location= decode.location
   let farming=decode.farming
+  let gender = decode.gender
  
   let avater=decode.avater
   res.json({
@@ -178,6 +179,7 @@ exports.userProfile =  async (req, res) => {
     user:'single',
       id:id,
       name:name,
+      gender:gender,
       email:email,
       location:location,
       farming:farming,
