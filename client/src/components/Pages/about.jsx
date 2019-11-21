@@ -5,13 +5,14 @@ export default class About extends Component {
     return (
       <div className="container">
         <div className="row mt-5">
+            <div className="col-lg-2"></div>
           <div className="col-lg-8 card mt-5">
             <h2 className="p-5 text-left">
               This is farm prescriptive system that recommeds action to farmers
               in order to get high crop Yield{" "}
             </h2>
-            <h3 className="text-center p-5">
-              Design by Idris Abdulkadri as Final Year Project in Computer
+            <h3 className="text-center">
+                        Design by <span>Idris Abdulkadri</span> as Final Year Project in Computer
               Science Department Fulokoja
             </h3>
           </div>
