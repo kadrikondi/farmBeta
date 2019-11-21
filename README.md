@@ -1,2 +1,3 @@
 # farmBeta
-prescriptive web app for farmers
+A prescriptive web app for farmers
+
