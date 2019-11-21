@@ -13,6 +13,7 @@ export default class updateProfile extends Component {
       email:'',
     location:'',
     farming:'',
+    gender:'',
       id:'',
       avaterchange:null,
       avater:avata,
@@ -30,6 +31,7 @@ export default class updateProfile extends Component {
     this.handleUpdateFarming = this.handleUpdateFarming.bind(this)
     this.handleUpdateLocation = this.handleUpdateLocation.bind(this)
     this.handleUploadPic =this.handleUploadPic.bind(this)
+    this.handleUpdateGender= this.handleUpdateGender.bind(this)
     this.handleUserPic = this.handleUserPic.bind(this)
 
    }
@@ -60,6 +62,7 @@ export default class updateProfile extends Component {
       email:this.state.email,
       location:this.state.location,
       farming:this.state.farming,
+      gender:this.state.gender
       
 
       })
@@ -147,6 +150,10 @@ handleUploadPic(e){
                     this.setState({location:e.target.value})
                     console.log(this.state.location)
                     }  
+  handleUpdateGender(e) {
+    this.setState({ gender: e.target.value })
+    console.log(this.state.gender)
+  } 
   handleUpdateFarming(e) {
     this.setState({ farming: e.target.value })
   }
@@ -158,6 +165,7 @@ handleUploadPic(e){
                         })
                     }
       
+
    async componentDidMount(){
 
             const token = JSON.parse(localStorage.getItem('token'))
@@ -169,7 +177,7 @@ handleUploadPic(e){
             alert('You have to log re-Login')
                     this.props.history.push('/signin')
                 }else{
-                 this.setState({name:user.user.name.toUpperCase(), email: user.user.email, id:user.user._id,location:user.user.location,farming:user.user.farming,avater:user.user.avater,info:user.message});
+                 this.setState({name:user.user.name.toUpperCase(), email: user.user.email, id:user.user._id,location:user.user.location,gender:user.user.gender,farming:user.user.farming,avater:user.user.avater,info:user.message});
 
                        (this.state.avater===undefined ? this.setState({avater:avata}): null)
                         console.log(this.state.name +'set')
@@ -183,7 +191,7 @@ handleUploadPic(e){
 }
 
   render() {
-    const {name,email,id,updateinfo,location,farming,avater ,uploadinfo} =this.state
+    const {name,email,id,gender,updateinfo,location,farming,avater ,uploadinfo} =this.state
   const displayChangePix= ()=>{
       console.log(avater)
       document.getElementById("changepicwrapper").style.display="block"
@@ -260,6 +268,12 @@ handleUploadPic(e){
                 <div className="form-group">
                     <input type="email" className="form-control" id="inputEmail4" placeholder="Email" value={email} onChange={this.handleUpdateEmail}/>
                 </div>
+              <select className="form-control" value={gender} onChange={this.handleUpdateGender}>
+                <option>--Select Gender--</option>
+                <option>male</option>
+                <option>female</option>
+              </select>
+                  
                 
                 
                 

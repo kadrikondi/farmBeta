@@ -6,6 +6,7 @@ import {getOneUserA} from '../../apidata/api'
 import { userProfile } from '../../apidata/api';
 import UserHeader from '../usersHeader';
 import Leftsidebar from '../SidesBars/Leftsidebar';
+import Img from '../../assets/img/konditie.jpg'
 
 class UserProfile extends Component{
     constructor(){

@@ -49,7 +49,8 @@ class Signup extends Component{
                    name:this.state.name,
                    email:this.state.email,
                    password:this.state.password,
-                   farming:this.state.farming
+                   farming:this.state.farming,
+                   gender:this.state.gender
                })
 
            } )
@@ -114,7 +115,7 @@ const noshowinfo={
 
         {/* <!--Header--> */}
         <div  className="card-header black-text text-center py-4">
-            <h3><i className="fa fa-user-plus"></i> Register</h3>
+                        <h3><i className="fa fa-user-plus"></i> Farm Better <br></br>Register</h3>
             
         </div>
 

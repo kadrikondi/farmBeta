@@ -18,7 +18,7 @@ export default class Footer extends Component{
             {/* 
             {/* <!-- Copyright --> */}
             <div className="footer-copyright text-center py-3">© 2019 Copyright &nbsp; with <span style={{color:'red',fontSize:'20px'}}>&hearts; &nbsp;</span>
-            <a href="https://kondipress">by Kondipress</a>
+            <a href="https://kondipress">by Idris Abdulkadri</a>
             </div>
             {/* <!-- Copyright --> */}
 
