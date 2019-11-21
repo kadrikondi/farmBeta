@@ -11,7 +11,8 @@ import UserProfile from './components/Pages/user/userProfile'
 
 import Dashboard from './components/Pages/userdashboard'
 import UpdateProfile from './components/Pages/user/updateProfile'
-
+import About from './components/Pages/about'
+import Contact from './components/Pages/contact'
 
 
 class Router extends Component{
@@ -44,7 +45,10 @@ class Router extends Component{
       
       <Route path="/dashboard" strict exact={true} component={Dashboard}
       />
-
+       <Route path="/about" strict exact={true} component={About}
+      />
+   <Route path="/contact" strict exact={true} component={Contact}
+      />
 
       
            </Switch>
