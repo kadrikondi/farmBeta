@@ -26,7 +26,7 @@ export default class Leftsidebar extends Component {
     this.setState({id:id})
     const token = JSON.parse(localStorage.getItem('token'))
     if (token) {
-      
+      // kondipress
       const user = await userProfile(id)
       console.log(user)
       if (user.message === "jwt expired") {
